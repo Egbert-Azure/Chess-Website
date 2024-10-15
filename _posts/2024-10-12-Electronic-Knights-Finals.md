@@ -14,8 +14,7 @@ Photo by <a href="https://unsplash.com/@vtr?utm_content=creditCopyText&utm_mediu
 
 
 
-Hello chess enthusiasts! I doubt anyone missed my blog, since there were no messages!
-
+Hello chess enthusiasts! I doubt anyone missed my blog, since there were no messages! Oh wait, maybe not and the blog is just boring for you.
 
 As I mentioned in previous posts, I overcommitted to playing in too many tournaments. Much to my surprise, I reached several finals and semi-finals, which led to a hectic schedule, playing multiple games simultaneously. Now that I've cut down on tournaments and switched to slower-paced correspondence games, my posting frequency has also decreased.
 
