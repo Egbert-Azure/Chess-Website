@@ -12,7 +12,7 @@ featured: false
 Photo by <a href="https://unsplash.com/@vtr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ravi Kumar</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-round-ball-sKZYPerA5s0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
-
+<br>
 
 Hello chess enthusiasts! I doubt anyone missed my blog, since there were no messages! Oh wait, maybe not and the blog is just boring for you.
 
