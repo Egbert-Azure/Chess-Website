@@ -24,7 +24,9 @@ Today, I'd like to share an intense and incredibly challenging game against the 
 
 Jeff Reger is a seasoned competitor, having played in several Electronic Knights tournaments organized by the USCF. He participated in the 2021 Electronic Knights Final (ongoing) with a 2429 rating and is also competing in the 2022 Electronic Knights Semi-Finals.
 
-This game demanded a lot of thought, and I’ve heavily annotated it below, with numerous sidelines explored. Both of us made two mistakes and two inaccurate moves, leading to a hard-fought draw.
+This game required deep thought, and I’ve heavily annotated it below, exploring numerous sidelines. Both of us made two mistakes and two inaccurate moves, ultimately leading to a hard-fought draw.
+
+One of the key moments was when I took a significant risk by allowing his pawn to advance, which made me quite nervous. Despite my efforts, I couldn't turn the tide, as Jeff played flawlessly.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=+Ab8wVrHHTgx4n70pKpyxLGh2rmrdL86HdQdp5e1TAMEEX6mpAMfZ7Cbj1k4oiht'></iframe>
 
