@@ -30,7 +30,7 @@ One of the key moments was when I took a significant risk by allowing his pawn t
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=+Ab8wVrHHTgx4n70pKpyxLGh2rmrdL86HdQdp5e1TAMEEX6mpAMfZ7Cbj1k4oiht'></iframe>
 
-<b>
+<br>
 <br>
 Interestingly, this draw pushed Jeff to rank 1 for now, with one game remaining. I’m currently sitting in 5th place, with two games left to play.
 
@@ -43,6 +43,8 @@ You can check the latest standings in the [top 100 list](https://www.uschess.org
 I will see you in the next few weeks when I will share some more tournament results. If you enjoy my insights, consider supporting me with a virtual coffee! ☕️ Or a beer? Either way 😎 - Your support fuels me to continue sharing valuable content.
 
 Click the coffee mug below at the end of the webpage to support this blog - it helps a lot!
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 And please subscribe and share broadly.
 
