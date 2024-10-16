@@ -30,6 +30,8 @@ One of the key moments was when I took a significant risk by allowing his pawn t
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=+Ab8wVrHHTgx4n70pKpyxLGh2rmrdL86HdQdp5e1TAMEEX6mpAMfZ7Cbj1k4oiht'></iframe>
 
+<b>
+<br>
 Interestingly, this draw pushed Jeff to rank 1 for now, with one game remaining. I’m currently sitting in 5th place, with two games left to play.
 
 As for my personal standings, I’m ranked 71st in the top 100 US Correspondence Chess Players. Not too shabby, especially at my age! My long-term goal remains to reach an Elo of 2200, though it’s slow going. The competition is tough, and the rating gaps are smaller than they used to be, meaning I’ll need to score some big wins—perhaps even against a Grandmaster—to make significant progress.
