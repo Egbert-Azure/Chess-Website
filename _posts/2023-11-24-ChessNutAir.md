@@ -106,7 +106,7 @@ I also built my DIY wooden chess set
 </div>
 
 
-[A detailed "how to" can be found in one of my previous blogs here](https://egbert-azure.github.io/diy-woodenchesspieces/)
+[A detailed "how to" can be found in one of my previous blogs here](https://chess.myvortexcloud.com/diy-woodenchesspieces/)
 
 **Conclusion**
 

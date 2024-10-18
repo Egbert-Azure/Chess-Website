@@ -96,7 +96,7 @@ If you need to learn how to build your repertoire database - yes, another of tho
 
 While embracing the unknown has its rewards, it's challenging. There were moments of uncertainty and setbacks, and a move I had not encountered left me pondering for minutes. However, these challenges are integral to growth. Every encounter with the unfamiliar is an opportunity to learn, adapt, and improve. And with time, I became more confident in navigating unexplored openings. I also modified the standard path and adjusted it based on learnings. 
 
-You might want to check out such a game in my blog [Amici Sumus: Finding Unity and Strength in Chess - My Journey at the Peace Open Tournament](https://egbert-azure.github.io/Peace-Open-Amici-sumus/). 
+You might want to check out such a game in my blog [Amici Sumus: Finding Unity and Strength in Chess - My Journey at the Peace Open Tournament](https://chess.myvortexcloud.com/Peace-Open-Amici-sumus/). 
 
 Roberto Pinos Rubio's feedback to me was golden and spot on.
 
