@@ -85,7 +85,7 @@ Correct placement of the sensor chips within the chess pieces is essential for t
  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70" alt="image" width="300">
  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45" alt="image" width="300">
  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842" alt="image" width="300">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a" alt="image" width="300">
+ <img src="../images/image-2.png/6326fbbd-8ade-4242-8730-a337aa5fdf6a" alt="image" width="300">
 </div>
 
 ### 7. Dealing with Felt Issues:
@@ -100,6 +100,7 @@ As said, the pieces from this seller have some things that need fixing, and the 
 The top line shows the original pieces from the vendor and the second line the replacement.
 
 <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/f9c3df53-f298-4d37-b5d7-13cc6566aa59" alt="image" width="300">
+
 
 
 ### Conclusion:
