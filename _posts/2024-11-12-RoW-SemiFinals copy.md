@@ -44,6 +44,9 @@ My annotations cover critical moments, tactical considerations, and alternative 
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=8OP2ub0LziFtKG2Np5d5m427Lm/5JhldXcbOR9uSscVcoZqS/wrKrtRUF4qA8b8+'></iframe>
 
+<br>
+<br>
+
 **Amici Sumus**
 
 Thank you for reading! More updates are coming soon, as I’ll share further results and reflections from this tournament. If you enjoy my analysis and insights, consider supporting me with a virtual coffee ☕️ or maybe even a beer! Your support truly helps keep this blog going.
