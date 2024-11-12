@@ -50,10 +50,13 @@ For those interested in the new ChessBase 18 features, here’s a quick overview
 
 ### Remote Engine Analysis in ChessBase
 
-A major new feature in ChessBase 18 is its remote engine analysis, though it’s limited to their proprietary server system and a standard setup of only two cores—an insufficient setup for intensive analysis. Additional resources can be rented using ChessBase’s “Ducats,” but without a true compute cluster architecture, scalability is limited. For users accustomed to distributed computing setups, such as a Stockfish cluster running on Raspberry Pi or in cloud environments like Azure, ChessBase’s solution lacks the robustness and flexibility that cloud-based chess analysis can offer.
+One of the significant updates in ChessBase 18 is its remote engine analysis feature, though it remains limited by their proprietary server system, restricted to a standard two-core setup. For complex analysis, this configuration is often inadequate. While additional compute resources can be rented via ChessBase’s “Ducats” system, the lack of a true compute cluster architecture means scalability is still constrained. For users accustomed to distributed computing solutions, such as a Stockfish cluster on Raspberry Pi or in cloud environments like Azure, ChessBase’s remote analysis solution lacks the flexibility and power of a full cloud-based setup.
 
-Allowing broader integration with dedicated compute clusters, like Stockfish clusters on Azure or similar distributed setups, could significantly enhance ChessBase’s utility for serious analysis. For example, my own Stockfish cluster provided superior scalability at a lower cost, and Chessify now offers similar cloud-based compute power that’s not only flexible but also officially supported by ICCF. This kind of approach represents the future of cloud-based chess analysis, surpassing ChessBase’s more limited, single-server setup.
+Allowing for integration with dedicated compute clusters, like Stockfish clusters on Azure or other distributed configurations, could greatly enhance ChessBase’s functionality for high-level analysis. My own Stockfish cluster, for instance, provided significant scalability at a lower cost, and newer platforms like Chessify offer similarly flexible, cloud-based compute power officially supported by ICCF. Such setups represent the future of cloud-based chess analysis, exceeding the limits of ChessBase’s single-server approach.
 
+Around three years ago, I contacted Matthias Wüllenweber and the ChessBase development team to discuss these gaps in remote engine and compute cluster technology. Over time, I’ve shared my insights, including a comprehensive software architecture and guidance on integrating ChessBase with DrawBridge, an open-source UCI engine bridging tool developed by Khadim Fall. DrawBridge simplifies the installation process, making advanced engine setups accessible and straightforward.
+
+For more details and technical findings, visit my [GitHub repository](https://github.com/Egbert-Azure/stockfish-cluster).
 
 <div style="text-align: center;">
  <img src="{{site.baseurl}}/images/chessbaseremote.png" alt="image" width="80%">
