@@ -65,6 +65,9 @@ So it looks like this now:
 <br>
 
 Around three years ago, I contacted Matthias Wüllenweber and the ChessBase development team to discuss these gaps in remote engine and compute cluster technology. Over time, I’ve shared my insights, including a comprehensive software architecture and guidance on integrating ChessBase with DrawBridge, an open-source UCI engine bridging tool developed by Khadim Fall. DrawBridge simplifies the installation process, making advanced engine setups accessible and straightforward.
+DrawBridge imitate a normal uci engine while bridging its traffic to a remote host. This will allow to use remote engine clusters to be used in traditional software. Which is the most flexible bridging software with some advanced features such as middleware definition.
+
+Another core for chess engine compute cluster is Message Passing Interface (MPI), a software that connects processes running across multiple computers and allows them to communicate as they run. This is what allows a single script to run a job spread across multiple cluster nodes. And yes, there is a Stockfish Chess Enginge branch developed with MPI cluster implementation of Stockfish, allowing Stockfish to run on clusters of compute nodes connected with a high-speed network.
 
 For more details and technical findings, visit my [GitHub repository](https://github.com/Egbert-Azure/stockfish-cluster).
 
