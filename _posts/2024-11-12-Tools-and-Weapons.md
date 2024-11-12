@@ -54,15 +54,18 @@ One of the significant updates in ChessBase 18 is its remote engine analysis fea
 
 Allowing for integration with dedicated compute clusters, like Stockfish clusters on Azure or other distributed configurations, could greatly enhance ChessBase’s functionality for high-level analysis. My own Stockfish cluster, for instance, provided significant scalability at a lower cost, and newer platforms like Chessify offer similarly flexible, cloud-based compute power officially supported by ICCF. Such setups represent the future of cloud-based chess analysis, exceeding the limits of ChessBase’s single-server approach.
 
-Around three years ago, I contacted Matthias Wüllenweber and the ChessBase development team to discuss these gaps in remote engine and compute cluster technology. Over time, I’ve shared my insights, including a comprehensive software architecture and guidance on integrating ChessBase with DrawBridge, an open-source UCI engine bridging tool developed by Khadim Fall. DrawBridge simplifies the installation process, making advanced engine setups accessible and straightforward.
-
-For more details and technical findings, visit my [GitHub repository](https://github.com/Egbert-Azure/stockfish-cluster).
+So it looks like this now:
 
 <div style="text-align: center;">
  <img src="{{site.baseurl}}/images/chessbaseremote.png" alt="image" width="80%">
 </div>
 
 <br>
+
+Around three years ago, I contacted Matthias Wüllenweber and the ChessBase development team to discuss these gaps in remote engine and compute cluster technology. Over time, I’ve shared my insights, including a comprehensive software architecture and guidance on integrating ChessBase with DrawBridge, an open-source UCI engine bridging tool developed by Khadim Fall. DrawBridge simplifies the installation process, making advanced engine setups accessible and straightforward.
+
+For more details and technical findings, visit my [GitHub repository](https://github.com/Egbert-Azure/stockfish-cluster).
+
 
 ### Transition to Chessify for Enhanced Cloud Analysis
 
