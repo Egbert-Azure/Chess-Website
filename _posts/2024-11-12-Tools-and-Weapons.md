@@ -3,7 +3,7 @@ layout: post
 title: "Tools and Weapons"  
 description: "Software Tools to Improve and Track Your Chess Game"  
 image: '/images/604.jpg'  
-date: 2024-11-11  
+date: 2024-11-12  
 tags: [ChessBase, MegaDatabase, UltraCorr, Chessify]  
 featured: false  
 ---
