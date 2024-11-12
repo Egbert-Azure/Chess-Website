@@ -15,6 +15,8 @@ On November 11, ChessBase released ChessBase 18 with several promising features 
 ### ChessBase 18: First Impressions
 
 The setup process was a bit frustrating. Manual entry for the activation key—uncommon in modern software—was required, and closing certain applications like VPN and NVIDIA drivers turned out to be more complex than necessary. After a reboot, I was finally ready to explore. Another glitch is your premium membership. When you purchase the order promised you no longer need to add the one year perium membership key to your account, it will be automatically added. Unfortunately, it's not working, you need to add manually. Not a big deal, but hey... ChessBase, who is doing your software reviews?
+The upgrade is not really an upgrade installation. It's paralell to ChessBase17. That being said, you need manually uninstall ChessBase 17. A bit yesterday, but ok. Unfortunately some credentials are lost, such as ICCF login. Not a big deal, but all this little hick-ups summarize to some work you need to do.
+Funny enough, after 24h the first SP was released.
 
 #### New Design and Player Analysis
 
