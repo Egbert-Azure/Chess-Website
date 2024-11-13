@@ -91,6 +91,8 @@ Chessify has introduced several impressive new features beyond just special pric
 <br>
 
 Chessify’s Cloud service integrates with third-party GUI chess programs like ChessBase, Fritz, HIARCS, and SCID. Their online chess database now contains over 9.7 million games, including comprehensive archives for ICCF games, Mega Database games, and Lichess—a significant advantage for correspondence and online players alike. You can also securely save your own games and analyses with encrypted connections.
+Unfortunately the ICCF Database is only available in the so called Master Plan. I'm wondering why I contribute with my games to the database and I have no benefits?
+That's really weird! ICCF and Chessify: rethink!!
 
 Additionally, the new LiveStream platform is a major innovation, far ahead of ChessBase’s offerings:
 
