@@ -118,6 +118,9 @@ Chessify's cloud-based architecture provides a different experience from traditi
 
 Ultimately, Chessify and ChessBase offer distinct strengths. While ChessBase’s detailed search functions and legacy content appeal to some, Chessify’s focus on high-speed analysis, advanced cloud architecture, and ICCF support provides powerful tools for serious correspondence and tournament players alike. Both can complement each other depending on your focus, but Chessify’s cloud approach opens new possibilities for modern chess analysis and is far ahead of traditional ChessBase in regards of cloud and compute cluster.
 
+Checckout my previous [blog on Chessify](https://chess.myvortexcloud.com/chessify-next).
+Among Chessify I explored [other tools in this blog](https://chess.myvortexcloud.com/whats-next) including Noctie.Ai.
+
 **Amici Sumus**
 
 Thank you for reading! More updates are coming soon, as I’ll share further results and reflections from this tournament. If you enjoy my analysis and insights, consider supporting me with a virtual coffee ☕️ or maybe even a beer! Your support truly helps keep this blog going.
