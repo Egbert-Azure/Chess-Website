@@ -9,7 +9,7 @@ featured: false
 ---
 <div style="text-align: left; font-size: smaller;">
 Photo by <a href="https://unsplash.com/@wimvanteinde?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wim van 't Einde</a> on <a href="https://unsplash.com/photos/clear-glass-chess-piece-4y3efE_x-NU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
+</div>      
 
 # Introduction
 
@@ -52,6 +52,7 @@ Enjoy the fully annotated game with sidelines calculated.
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=rMzGxrPtj605Wtd0aFvovC31T0Prn0Oim+U9qR0HAVvISPMLOZBBBDwA0yPIXmly'></iframe>
 
+<br>
 <br>
 
 ### Final Thoughts
