@@ -58,21 +58,21 @@ Electronic Knights moved to ICCF Server, but played under USCF rules and ranking
 - End Date: 9/1/25
 - Prelim Score: 4.5
   
-**Section result: 2 win, 3 draws, 1 loss**
+**Section result: 2 wins, 3 draws, 1 loss**
 
 ### 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
 - Egbert Schroeer rating: 1933
-- Start Date: 
+- Start Date: 5/17/2021
 - End Date: 
 
-**Section result:**
+**Section result: 5 wins, 1 draw**
 
 ### 2021 Electronic Knights Championship - Preliminary Round: 21EN09 
 - Egbert Schroeer rating: unrated
 - Start Date: 
 - End Date: 
 
-**Section result:**
+**Section result: 5 wins, 1 draw**
 
 ## Annotated Games for Replay by year and section
 
