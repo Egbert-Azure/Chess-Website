@@ -11,6 +11,8 @@ featured: false
 Photo by <a href="https://unsplash.com/@wimvanteinde?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wim van 't Einde</a> on <a href="https://unsplash.com/photos/clear-glass-chess-piece-4y3efE_x-NU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>      
 
+<br>
+
 # Introduction
 
 The Rest of World Championship Semi-Finals are well underway, and I’ve just wrapped up my second game—a hard-fought draw against the esteemed Correspondence Chess Master Unes Hassim. It was a pleasure to face him again virtually, as he’s known for his uncompromising style. The ChessBase Style Report notes Unes as a player who avoids simplifications, which I can confirm and it always keeps our games intense and challenging.
