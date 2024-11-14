@@ -58,7 +58,7 @@ Electronic Knights moved to ICCF Server, but played under USCF rules and ranking
 - End Date: 9/1/25
 - Prelim Score: 4.5
   
-**Section result so far: 1 win, 3 draws, 1 loss, 1 running**
+**Section result: 2 win, 3 draws, 1 loss**
 
 ### 2021 Electronic Knights Championship - Preliminary Round: 21EN15 
 - Egbert Schroeer rating: 1933
@@ -107,13 +107,14 @@ Electronic Knights moved to ICCF Server, but played under USCF rules and ranking
 
 | Name                                               | Start Date | Status   | Link |
 |----------------------------------------------------|------------|----------|------|
-| Champions League 2024 C2 Board 4                   | 2/25/2024 | Running  | [Link](https://www.iccf.com/event?id=102157) |
-| Veterans World Cup 13 Semi-Final 9                 | 6/15/2023 | Running  | [Link](https://www.iccf.com/event?id=105050) |
-| Netherlands - USA Friendly Match 2023 Board 28     | 11/21/2023 | Running  | [Link](https://www.iccf.com/event?id=104112) |
-| VWC14, ICCF Veterans World Cup 14 pr. 25           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102886) |
-| VWC14, ICCF Veterans World Cup 14 pr. 56           | 9/1/2023   | Running  | [Link](https://www.iccf.com/event?id=102917) |
-| ICCF Veterans World Cup 13 Semi-Final 9            | 6/15/2023  | Running  | [Link](https://www.iccf.com/event?id=102157) |
-| Switzerland - USA 2023 Board 20                    | 4/14/2023  | Running  | [Link](https://www.iccf.com/event?id=101708) |
+| RoW Championship 2024 Semi-Final Group 4           | 9/30/2024 | Running  | [Link](https://www.iccf.com/event?id=106913) |
+| Champions League 2024 C2 Board 4                   | 2/25/2024 | RFinished  | [Link](https://www.iccf.com/event?id=102157) |
+| Veterans World Cup 13 Semi-Final 9                 | 6/15/2023 | Finished  | [Link](https://www.iccf.com/event?id=105050) |
+| Netherlands - USA Friendly Match 2023 Board 28     | 11/21/2023 | Finished  | [Link](https://www.iccf.com/event?id=104112) |
+| VWC14, ICCF Veterans World Cup 14 pr. 25           | 9/1/2023   | Finished | [Link](https://www.iccf.com/event?id=102886) |
+| VWC14, ICCF Veterans World Cup 14 pr. 56           | 9/1/2023   | Finished  | [Link](https://www.iccf.com/event?id=102917) |
+| ICCF Veterans World Cup 13 Semi-Final 9            | 6/15/2023  | Finished  | [Link](https://www.iccf.com/event?id=102157) |
+| Switzerland - USA 2023 Board 20                    | 4/14/2023  | Finished  | [Link](https://www.iccf.com/event?id=101708) |
 | Hungary - USA Friendly Match 2022 Board 18         | 12/26/2022 | Finished | [Link](https://www.iccf.com/event?id=100532) |
 | Germany - USA Friendly Match 2022 Board 83         | 10/12/2022 | Finished | [Link](https://www.iccf.com/event?id=99816) |
 | WS/CCE/A/30                                       | 9/29/2022  | Finished  | [Link](https://www.iccf.com/event?id=99566) |
