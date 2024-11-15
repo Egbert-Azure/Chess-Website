@@ -52,17 +52,27 @@ My annotations cover critical moments, tactical considerations, and alternative 
 
 ### Game Summary
 
-**Opening:** English Opening, A17 variation, leading to a symmetrical pawn structure after 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3.
+**Opening:**  
+The game began with the English Opening, A17 variation, leading to a symmetrical pawn structure after 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3. White played a solid opening, aiming for a flexible development. Black responded with standard moves, developing pieces harmoniously with Bd6, O-O, and c5, asserting control over the center.
 
-**Early Moves:** White opted for a solid development plan with Nf3, c4, and e3, leading to a balanced structure. Black countered with standard moves, developing pieces harmoniously with Bd6, O-O, and c5, striking at the center.
+**Early Moves:**  
+White opted for a solid development plan with Nf3, c4, and e3, while Black countered with the moves Bd6, O-O, and c5, striking at the center. The position remained balanced early on, with both sides vying for control.
 
-**Middle Game:** After 8. d4, White took control of the center, while Black responded with an exchange on d4 and development moves like Be5. The position remained balanced after 10. Nxd4, where both sides exchanged minor pieces, leading to an even position.
+**Middle Game:**  
+After 8. d4, White gained central control, while Black responded with an exchange on d4 and development moves like Be5. By move 10, the position remained balanced after both sides exchanged minor pieces.
 
-White’s move 14. Bb5 was an attempt to break the symmetry, pinning Black's knight and gaining slight initiative. However, Black responded solidly with 14...Bd7, maintaining a stable position.
+**Move 14:**  
+The key moment came with White’s 14. Bb5, where White aimed to break the symmetry by attacking Black’s knight, gaining slight initiative. However, Black responded solidly with 14...Bd7, maintaining a stable position and avoiding immediate tactical threats.
 
-**Critical Moment:** The key moment came at move 16, when White pushed 16. h3 to kick Black’s knight. Black responded with 16...Nh2, preparing for counterplay. However, White’s 18. f4 and the subsequent tactical complications created a sharp moment in the game. Black had the opportunity to play 19...Nf3+, which would have put pressure on White’s position, but instead, Black chose 19...Bxh3, initiating an attack with material imbalance.
+**Critical Moment:**  
+At move 16, White pushed 16. h3 to challenge Black’s knight on g4, and Black responded with 16...Nh2, a preparatory move. Black’s real tactical shot came with 18...Nf3+, which would have created serious pressure on White’s position. White’s 19. Kh1 was forced to evade the check, but Black continued with 19...Qh5, aiming at White’s weakened kingside.
 
-**Endgame Transition:** After 20. gxf3, the position remained complicated, with neither side holding a decisive advantage. Both players continued with tactical play, and Black’s move 25...Qg5+ and the subsequent repetition of checks led to a draw offer, which White accepted.
+**Endgame Transition:**  
+White’s 20. gxf3 allowed Black to continue pressing, and after 20...Bxh3, Black grabbed a key pawn while keeping up the pressure. The game progressed with both sides executing precise moves. As White's position weakened further, Black seized the initiative with 21...Re6, launching an attack on White’s king.
+
+The subsequent repetition of checks led to a draw offer, which White accepted. Both players agreed on a draw as the position was no longer likely to offer either side a decisive advantage.
+
+---
 
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=8OP2ub0LziFtKG2Np5d5m427Lm/5JhldXcbOR9uSscVcoZqS/wrKrtRUF4qA8b8+'></iframe>
