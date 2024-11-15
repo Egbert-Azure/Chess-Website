@@ -62,7 +62,7 @@ White opted for a solid development plan with Nf3, c4, and e3, while Black count
 After 8. d4, White gained central control, while Black responded with an exchange on d4 and development moves like Be5. By move 10, the position remained balanced after both sides exchanged minor pieces.
 
 **Move 14:**  
-The key moment came with White’s 14. Bb5, where White aimed to break the symmetry by attacking Black’s knight, gaining slight initiative. However, Black responded solidly with 14...Bd7, maintaining a stable position and avoiding immediate tactical threats.
+The key moment came with White’s 14. Bb5, where White aimed to break the symmetry, gaining slight initiative. Bb5 rules out playing Bf3 but Bb5 threatens to capture the rook. However, Black responded solidly with 14...Bd7, maintaining a stable position and avoiding immediate tactical threats.
 
 **Critical Moment:**  
 At move 16, White pushed 16. h3 to challenge Black’s knight on g4, and Black responded with 16...Nh2, a preparatory move. Black’s real tactical shot came with 18...Nf3+, which would have created serious pressure on White’s position. White’s 19. Kh1 was forced to evade the check, but Black continued with 19...Qh5, aiming at White’s weakened kingside.

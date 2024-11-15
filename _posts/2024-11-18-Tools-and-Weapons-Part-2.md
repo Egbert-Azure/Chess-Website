@@ -82,7 +82,11 @@ Noctie has also added live move feedback with labeled guidance. This improvement
 
 ## Final Thoughts
 
-You need to evaluate for yourself if it is worth $14 per month and add just another subscription to drain your wallet. However, even for a limited time or to see if this helps you to improve, it's an option.
+At $14 per month, you’ll need to decide if Noctie.AI is worth adding to your growing list of subscriptions. Even if it’s just for a limited time, it could be a valuable tool to test and see if it helps you improve.
+
+If you’re exploring other options for chess improvement, consider traditional tools like Fritz 19, or take a closer look at DecodeChess. I'll dive deeper into DecodeChess in Part 3 of Tools & Weapons.
+
+For now, here’s a quick comparison: unlike Noctie.AI, DecodeChess provides detailed explanations of why a move is suggested, why it’s better, and what threats or opportunities it addresses. It’s like having a virtual chess coach offering deeper insights into your game. If you value understanding the reasoning behind move choices, DecodeChess could be an excellent complement to your weapon training arsenal.
 
 **Amici Sumus** – We are friends! Thank you for reading! I’ll continue to share my thoughts and results from the latest tournament games and chess adventures here. If you find value in my analysis and insights, consider supporting me with a virtual coffee ☕️ (or maybe even a beer!). Your support helps keep this blog going strong.
 
