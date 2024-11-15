@@ -37,10 +37,33 @@ The tournament has a unique structure. With a Baumbach tie-breaker, strict draw 
 ## About IM Allyne Smith
 Allyne Smith is an International Master (IM) in correspondence chess, currently rated 2402, and brings a wealth of experience to the board. Having completed 873 games and over 31,000 moves in 64 tournaments, his style is both seasoned and strategic. In recent years, he achieved the titles of Correspondence Chess Expert (CCE) in 2022 and Correspondence Chess Master (CCM) in 2023. With 132 wins to his name, he is known for his resilience and precision—a formidable opponent to face.
 
+<div style="text-align: center;">
+ <img src="{{site.baseurl}}/images/StyleSmith.png" alt="Screenshot of Noctie.AI themes interface" width="80%">
+</div>
+
+<br>
+
+
 ## My Game Against IM Allyne Smith
+
 In our game, I chose an opening I’m comfortable with but took a detour on move 14, playing 15. Bd3, an offbeat move and, as far as I can tell, a novelty. In correspondence chess, innovation can disrupt an opponent’s preparation, creating a complex position where knowledge meets intuition—a principle I often repeat here! 
 
-My annotations cover critical moments, tactical considerations, and alternative lines I examined along the way. I aimed to create a balanced but dynamic position, hoping to keep my esteemed opponent on uncertain ground. Here’s the full game analysis with insights into my thought process:
+My annotations cover critical moments, tactical considerations, and alternative lines I examined along the way. I aimed to create a balanced but dynamic position, hoping to keep my esteemed opponent on uncertain ground. Here’s the full game analysis with insights into my thought process and a game summary:
+
+### Game Summary
+
+**Opening:** English Opening, A17 variation, leading to a symmetrical pawn structure after 1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3.
+
+**Early Moves:** White opted for a solid development plan with Nf3, c4, and e3, leading to a balanced structure. Black countered with standard moves, developing pieces harmoniously with Bd6, O-O, and c5, striking at the center.
+
+**Middle Game:** After 8. d4, White took control of the center, while Black responded with an exchange on d4 and development moves like Be5. The position remained balanced after 10. Nxd4, where both sides exchanged minor pieces, leading to an even position.
+
+White’s move 14. Bb5 was an attempt to break the symmetry, pinning Black's knight and gaining slight initiative. However, Black responded solidly with 14...Bd7, maintaining a stable position.
+
+**Critical Moment:** The key moment came at move 16, when White pushed 16. h3 to kick Black’s knight. Black responded with 16...Nh2, preparing for counterplay. However, White’s 18. f4 and the subsequent tactical complications created a sharp moment in the game. Black had the opportunity to play 19...Nf3+, which would have put pressure on White’s position, but instead, Black chose 19...Bxh3, initiating an attack with material imbalance.
+
+**Endgame Transition:** After 20. gxf3, the position remained complicated, with neither side holding a decisive advantage. Both players continued with tactical play, and Black’s move 25...Qg5+ and the subsequent repetition of checks led to a draw offer, which White accepted.
+
 
 <iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=8OP2ub0LziFtKG2Np5d5m427Lm/5JhldXcbOR9uSscVcoZqS/wrKrtRUF4qA8b8+'></iframe>
 
