@@ -132,6 +132,10 @@ And then it gets interesting. e5 is -even it looks weird- a good move and the as
 And lastly, yes it's an equal position. Well done, DecodeChess!
 
 ![alt text](../images/DecodeChessWellDone.pgn)
+
+Now, the final position I like to share is also a real one from my RoW semi-final tournament to showcase the **Plan** function. This was pretty solid!
+
+![alt text](../images/DecodeChessPlan.pgn)
 ---
 
 ## Pricing  

@@ -3,7 +3,7 @@ layout: post
 title: "More Tools and Weapons"  
 description: "Software Tools to Improve and Track Your Chess Game Part 2"  
 image: '/images/nina-mercado-tools.jpg'  
-date: 2024-11-18  
+date: 2024-11-17  
 tags: [Noctie.ai, tools]  
 featured: false  
 ---
@@ -20,7 +20,7 @@ As part of these updates, I’ve revamped my blog page. The tournament section h
 
 ## Tools & Weapons Part 2
 
-In Part 1, I shared my initial impressions of **ChessBase 18** and my decision to invest in the **MegaDatabase** to consolidate games and keep a structured record of analysis. My verdict remains the same: if you're a serious amateur, these tools are invaluable. In addition to ChessBase, I’ve also been using **UltraCorr** by Dr. Tim Harding, which is an incredible correspondence game database at a fraction of the price of ChessBase Correspondence Database. UltraCorr's quality is top-notch, and I find it especially useful to pair it with the ChessBase MegaDatabase. I update – so to speak – my Mega Database version with games I finished and the associated tournaments to keep it on track.
+In Part 1, I shared my initial impressions of [**ChessBase 18**](https://chess.myvortexcloud.com/tools-and-weapons) and my decision to invest in the **MegaDatabase** to consolidate games and keep a structured record of analysis. My verdict remains the same: if you're a serious amateur, these tools are invaluable. In addition to ChessBase, I’ve also been using [**UltraCorr** by Dr. Tim Harding](https://www.chessmail.com/UC-2024/Introducing-UC2024.html), which is an incredible correspondence game database at a fraction of the price of ChessBase Correspondence Database. UltraCorr's quality is top-notch, and I find it especially useful to pair it with the ChessBase MegaDatabase. I update – so to speak – my Mega Database version with games I finished and the associated tournaments to keep it on track.
 
 Interestingly, more Grandmasters are beginning to reference correspondence games in their opening theories and strategic preparations. This strengthens the case for including correspondence databases, as these games often delve deep into complex lines.
 
