@@ -14,7 +14,10 @@ Photo by <a href="https://unsplash.com/@hnhmarketing?utm_content=creditCopyText&
 
 ## Introduction  
 
-Software tools have revolutionized the way we approach chess improvement. In this post, part of my **Tools and Weapons** series, we’ll explore **DecodeChess**, a tool that claims to act as your virtual chess coach. It makes engine analysis more human-friendly and actionable.  
+In todays chess world I still prefer books to sit down, read, learn, explore and adapt. But Software tools have revolutionized the way we approach chess improvement nowadays and a mix of traditional tools & weapons is probably the right tnhing to do. 
+If you haven't read my blog [**Memories - Learning from the Past** ](https://chess.myvortexcloud.com/memories-learning-from-the-past) I encourage you to have a peak too.
+
+In this post, part of my **Tools and Weapons** series, we’ll explore **DecodeChess**, a tool that claims to act as your virtual chess coach. It makes engine analysis more human-friendly and actionable.  
 
 In January 2023, Chessify announced a partnership with DecodeChess, but a year later, users were informed that the partnership ended in January 2024. This came as a surprise to me, as I believe it would have been a great fit.
 
@@ -114,6 +117,21 @@ Finally I was going back to the position after Black’s bishop chased the queen
 
 ![alt text](../images/Decode2payattention.jpeg)
 
+<br>
+
+What I see are sometimes really weird AI evaluations like this one out of a real game position in the RoW semi-finals I'm actually playing.
+I can't approve the message **White has an advantage (1.27) but cannot convert it to a win** -and this is not because I'm playingBlack- but love to have your opinion. Black is a pawn up, but has three pawn islands. DecodeChess judgement is, White has an advantage (1.27) but cannot convert it to a win.
+Really? I mean the slightly better position is equalized with one pawn up. But maybe it's just me.
+
+![alt text](../images/iDecodechessweird.pgn)
+
+And then it gets interesting. e5 is -even it looks weird- a good move and the assesment is perfect. The position is equal if White takes the pawn and Black plays Qc3. If White plays the better move Qg5 trying to close in, a4 is coming. It's a complicated position and DecodeChess is now doing well explaining the "Why".
+
+![alt text](../images/Decodechessweird.pgn)
+
+And lastly, yes it's an equal position. Well done, DecodeChess!
+
+![alt text](../images/DecodeChessWellDone.pgn)
 ---
 
 ## Pricing  
