@@ -31,37 +31,38 @@ Some unboxing pictures
 Some unboxing pictures:
 
 <div style="text-align: center;">
-  <img src= (../images/display.png) alt="image" width="300">
+  <img src="../images/display.png" alt="image" width="300">
 </div>
 
 - The base is slightly bigger:
 
 <div style="text-align: center;">
-  <img src= (../images/display(1).png) alt="Bigger Base" width="300">
+  <img src="../images/display(1).png" alt="Bigger Base" width="300">
 </div>
 
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src= (../images/display(2).png) alt="Knight" width="150" height="300">
+  <img src="../images/display(2).png" alt="Knight" width="150" height="300">
 </div>
 
 - White lined up:
 
 <div style="text-align: center;">
-  <img src= (../images/display(3).png) alt="White" width="150" height="300">
+  <img src="../images/display(3).png" alt="White" width="150" height="300">
 </div>
 
 - Black lined up:
 
 <div style="text-align: center;">
-  <img src= (../images/display(4).png) alt="Black" width="150" height="300">
+  <img src="../images/display(4).png" alt="Black" width="150" height="300">
 </div>
 
 ### 2. Understanding the Chess Piece Sensor Chips:
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
+
 <div style="text-align: center;">
-  <img src= (../images/display(5).png) alt="image" width="300">
+  <img src="../images/display(5).png" alt="image" width="300">
 </div>
 
 ### 3. Preparing the Chessmen and Sensor Chips:
@@ -71,28 +72,19 @@ Before adding the sensors, ensure the chessmen are free from dirt or debris. Use
 Upon receiving the sensor chips, you'll notice they require some trimming to fit precisely into the designated holes of the wooden chess pieces. To ensure a proper fit, test the sensors by turning them upside down and checking if the trimmable area is visible outside the hole. The trimming process can be done easily and carefully, guaranteeing the sensors a snug and secure fit.
 
 <div style="text-align: center;">
-  <img src= (../images/display(6).png) alt="image" width="300">
+  <img src="../images/display(6).png" alt="image" width="300">
 </div>
 
 ### 6. Ensuring Proper Sensor Placement:
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
 
 <div style="text-align: center;">
-  <img src= (../images/display(7).png) alt="image" width="300">
+  <img src="../images/display(7).png" alt="image" width="300">
 </div>
 
 ### 7. Dealing with Felt Issues:
 INDIACHESSART promised to deliver self-adhesive felts, but this wasn't the case and a false promise. The felts provided were of subpar quality, necessitating trimming to fit. Instead, I ordered self-adhesive circle felts in various sizes. However, I learned that the 0.5" ones were too small for pawns, so make sure to choose the appropriate size for each piece.
-Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they ideal? Probably not, but less hassle cutting them on my own without having an arch punch tool. I wish I could find something thinner, but good to go for now. The sensors are protected, slides good, sensor signal is good.
-
-### 8. Dealing with Quality Issues:
-As said, the pieces from this seller have some things that need fixing, and the shop is unwilling to fix them or deliver a better quality replacement. To give you an idea what you probably are dealing with, here are some pictures.
-
-  <img src= (../images/display(8).png) alt="image" width="300">
-
-The top line shows the original pieces from the vendor and the second line the replacement.
-
-  <img src= (../images/display(9).png) alt="image" width="300">
+Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they ideal? Probably not, but less hassle cutting them on
 
 
 
