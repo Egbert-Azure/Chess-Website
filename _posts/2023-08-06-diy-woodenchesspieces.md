@@ -31,25 +31,25 @@ Some unboxing pictures
 Some unboxing pictures:
 
 <div style="text-align: center;">
-  <img src="../images/display.png" alt="image" width="300">
+  <img src="../images/display.png" alt="image" width="150">
 </div>
 
 - The base is slightly bigger:
 
 <div style="text-align: center;">
-  <img src="../images/display(1).png" alt="Bigger Base" width="300">
+  <img src="../images/display 1.png" alt="Bigger Base" width="300">
 </div>
 
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src="../images/display(2).png" alt="Knight" width="150" height="300">
+  <img src="../images/display 2.png" alt="Knight" width="150" height="300">
 </div>
 
 - White lined up:
 
 <div style="text-align: center;">
-  <img src="../images/display(3).png" alt="White" width="150" height="300">
+  <img src="../images/display 3.png" alt="White" width="150" height="300">
 </div>
 
 - Black lined up:
