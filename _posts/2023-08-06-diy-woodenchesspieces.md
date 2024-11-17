@@ -43,7 +43,7 @@ Some unboxing pictures:
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src="../images/display 2.png" alt="Knight">
+  <img src="../images/display 2.png" alt="Knight" width="300">
 </div>
 
 - White lined up:
