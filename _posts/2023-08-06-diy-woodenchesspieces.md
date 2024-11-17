@@ -13,6 +13,8 @@ featured: false
 ### Introduction:
 Chess is a game of intellect, strategy, and art. As chess enthusiasts, we always seek to enhance our playing experience. The Chessnut Air, with its innovative sensor technology, takes chess to a whole new level, allowing us to enjoy the game like never before. In this article, I'll guide you through building customized wooden chess pieces with sensors for the Chessnut Air, elevating your chess experience to new heights.
 
+---
+
 ### 1. Choosing High-Quality Wooden Chess Pieces:
 To get started, you'll need high-quality wooden chess pieces. I recently ordered mine from INDIACHESSART and opted for their Wood Combination Boxwood/Golden Rosewood set *Russian Zagreb chess pieces*. These pieces offer a touch of elegance and durability, making them perfect for the Chessnut Air. The dimensions of the chess pieces are as follows:
 
@@ -67,8 +69,12 @@ The chess piece sensor chips set is specifically designed for DIYers who want to
   <img src="../images/display 5.png" alt="image" width="600">
 </div>
 
+---
+
 ### 3. Preparing the Chessmen and Sensor Chips:
 Before adding the sensors, ensure the chessmen are free from dirt or debris. Use a soft cloth to clean them gently. The delivered chessmen come with drill holes to accommodate the sensor chips, providing ample space for their placement.
+
+---
 
 ### 4. Getting the Sensors Ready:
 Upon receiving the sensor chips, you'll notice they require some trimming to fit precisely into the designated holes of the wooden chess pieces. To ensure a proper fit, test the sensors by turning them upside down and checking if the trimmable area is visible outside the hole. The trimming process can be done easily and carefully, guaranteeing the sensors a snug and secure fit.
