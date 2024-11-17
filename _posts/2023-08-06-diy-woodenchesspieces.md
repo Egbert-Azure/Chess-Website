@@ -31,41 +31,37 @@ Some unboxing pictures
 Some unboxing pictures:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/eb7a94e3-e3fe-40bf-9121-b8b9fb7be07c" alt="image" width="300">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/1327331c-b5e0-4739-809a-1292e034ea6c" alt="image" width="300">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/13485982-4743-412c-b108-b9916fccb8af" alt="image" width="3o0">
+  <img src= (../images/display.png) alt="image" width="300">
 </div>
 
 - The base is slightly bigger:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/5b20f5b3-4578-4c28-b576-474600637a41" alt="image" width="300">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b0ccbe79-ae0c-4018-9224-40e19e56c126" alt="image" width="150" height="300">
+  <img src= (../images/display(1).png) alt="Bigger Base" width="300">
 </div>
 
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/68081eb5-bb96-48fe-b0e3-7d90f4e7b85a" alt="image" width="150" height="300">
+  <img src= (../images/display(2).png) alt="Knight" width="150" height="300">
 </div>
 
 - White lined up:
 
 <div style="text-align: center;">
-  <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/2fa5edb3-f871-4d85-a622-c9a66de62731" alt="image" width="300"> 
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/8d60cd91-82ef-4499-a599-692b0fa98ece" alt="image" width="300">
+  <img src= (../images/display(3).png) alt="White" width="150" height="300">
 </div>
 
 - Black lined up:
 
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0f2713bf-605c-4625-b896-75a572afdd10" alt="image" width="300">
+  <img src= (../images/display(4).png) alt="Black" width="150" height="300">
 </div>
 
 ### 2. Understanding the Chess Piece Sensor Chips:
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/3514d055-1862-4c70-8fc6-ddfdf84855f6" alt="image" width="300">
+  <img src= (../images/display(5).png) alt="image" width="300">
 </div>
 
 ### 3. Preparing the Chessmen and Sensor Chips:
@@ -75,17 +71,14 @@ Before adding the sensors, ensure the chessmen are free from dirt or debris. Use
 Upon receiving the sensor chips, you'll notice they require some trimming to fit precisely into the designated holes of the wooden chess pieces. To ensure a proper fit, test the sensors by turning them upside down and checking if the trimmable area is visible outside the hole. The trimming process can be done easily and carefully, guaranteeing the sensors a snug and secure fit.
 
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/b7bb9a8c-6fe7-493f-9d82-610f6195c4c5" alt="image" width="300">
+  <img src= (../images/display(6).png) alt="image" width="300">
 </div>
 
 ### 6. Ensuring Proper Sensor Placement:
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
 
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/266c8abe-aa9b-42c9-8ddb-3e24053d0e70" alt="image" width="300">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/694a9aa4-aa03-489c-bbad-c2d31c660d45" alt="image" width="300">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/0d9d196e-ac6b-45d3-bf43-7ad15baab842" alt="image" width="300">
- <img src= "images/6326fbbd-8ade-4242-8730-a337aa5fdf6a.png" alt="image" width="300">
+  <img src= (../images/display(7).png) alt="image" width="300">
 </div>
 
 ### 7. Dealing with Felt Issues:
@@ -95,11 +88,11 @@ Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they 
 ### 8. Dealing with Quality Issues:
 As said, the pieces from this seller have some things that need fixing, and the shop is unwilling to fix them or deliver a better quality replacement. To give you an idea what you probably are dealing with, here are some pictures.
 
-<img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/c1aad92b-70fd-4c11-a52c-8b9042c016bd" alt="image" width="300">
+  <img src= (../images/display(8).png) alt="image" width="300">
 
 The top line shows the original pieces from the vendor and the second line the replacement.
 
-<img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/f9c3df53-f298-4d37-b5d7-13cc6566aa59" alt="image" width="300">
+  <img src= (../images/display(9).png) alt="image" width="300">
 
 
 
@@ -113,8 +106,18 @@ The comments in the Chessnut Facebook group highlight ongoing issues with INDIAC
      </blockquote>
   </div>
 
+## Stay Connected  
+
+Thank you for reading! I’ll continue sharing insights and results from tournaments and chess adventures here.  
+
+**Amici Sumus** – We are friends!  
+
+If you find value in my content, consider supporting me with a virtual coffee ☕️ or a beer 🍺. Your contributions help keep this blog thriving.  
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+
+Stay updated by [subscribing to my blog](https://follow.it/senior-chess-improver?leanpub) and sharing it with your chess friends.
+
 **Footnotes:**
 
 - Link to [Chessnut Air DIY Sensor](https://www.chessnutech.com/products/separate-chips)
-
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
