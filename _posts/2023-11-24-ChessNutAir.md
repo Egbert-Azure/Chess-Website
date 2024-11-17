@@ -102,7 +102,7 @@ I own this board sind October 2022 and it is a huge game changer for me.
 I also built my DIY wooden chess set
 
 <div style="text-align: center;">
- <img src="{{site.baseurl}}/images/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a" alt="image" width="300">
+ <img src="{{site.baseurl}}/images/258675017-6326fbbd-8ade-4242-8730-a337aa5fdf6a.png" alt="image" width="300">
 </div>
 
 
