@@ -17,7 +17,7 @@ The international chess community is trying to do its part in providing support 
 
 <div style="text-align:center">
     <a href="https://en.chessbase.com/post/tykhon-is-safe">
-        <img src="{{site.baseurl}}/images/chessbaseukraine.png" alt="ChessBase article thumbnail" width="40%" height="auto">
+        <img src="{{site.baseurl}}/images/chessbase ukraine.png" alt="ChessBase article thumbnail" width="40%" height="auto">
     </a>
 </div>
 
