@@ -4,7 +4,7 @@ title: "Mastering the Endgame: A Senior Improver's Triumph at Biel"
 description: "The success of another senior chess improver at Biel International Chess Festival"  
 image: '/images/DanielatBiel.jpg'  
 date: 2024-08-12  
-tags: [Biel Chess Festival, Game Analysis, Chess Strategy]  
+tags: [Biel-Chess-Festival, Analysis, Strategy]  
 featured: false  
 ---
 
