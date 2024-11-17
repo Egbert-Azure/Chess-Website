@@ -43,20 +43,22 @@ Some unboxing pictures:
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src="../images/display 2.png" alt="Knight" width="300" height="600">
+  <img src="../images/display 2.png" alt="Knight">
 </div>
 
 - White lined up:
 
 <div style="text-align: center;">
-  <img src="../images/display 3.png" alt="White" width="300" height="600">
+  <img src="../images/display 3.png" alt="White">
 </div>
 
 - Black lined up:
 
 <div style="text-align: center;">
-  <img src="../images/display 4.png" alt="Black" width="300" height="600">
+  <img src="../images/display 4.png" alt="Black">
 </div>
+
+---
 
 ### 2. Understanding the Chess Piece Sensor Chips:
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
@@ -75,6 +77,8 @@ Upon receiving the sensor chips, you'll notice they require some trimming to fit
   <img src="../images/display 6.png" alt="image" width="600">
 </div>
 
+---
+
 ### 6. Ensuring Proper Sensor Placement:
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
 
@@ -82,11 +86,13 @@ Correct placement of the sensor chips within the chess pieces is essential for t
   <img src="../images/display 7.png" alt="image" width="600">
 </div>
 
+---
+
 ### 7. Dealing with Felt Issues:
 INDIACHESSART promised to deliver self-adhesive felts, but this wasn't the case and a false promise. The felts provided were of subpar quality, necessitating trimming to fit. Instead, I ordered self-adhesive circle felts in various sizes. However, I learned that the 0.5" ones were too small for pawns, so make sure to choose the appropriate size for each piece.
 Here is a picture with "preconfigured" adhesive felts. Those are 3/4". Are they ideal? Probably not, but less hassle cutting them on
 
-
+---
 
 ### Conclusion:
 Building your customized wooden chess pieces with sensors for the Chessnut Air can be rewarding and enjoyable, elevating your chess-playing experience to the next level. Although I faced some challenges with the quality of chessmen and felts from INDIACHESSART, the result was worth the effort. I recommend exploring other options and manufacturers for wooden chess pieces and felts to ensure a seamless and satisfactory chess experience. Based on my experience with this one Etsy store, I contacted others willing to drill the holes for your sensors. Remember, the joy of customizing your chess pieces will add a personal touch to every move you make on the board.
@@ -97,6 +103,8 @@ As of August 2, 2023, I advise against ordering from INDIACHESSART due to the qu
 The comments in the Chessnut Facebook group highlight ongoing issues with INDIACHESSART, including unresolved orders and false promises. Despite this, some users report an increase in orders, potentially influenced by moderating activities within the group. It is crucial to support ethical vendors and remain vigilant against those engaging in unfair practices.
      </blockquote>
   </div>
+
+---
 
 ## Stay Connected  
 
