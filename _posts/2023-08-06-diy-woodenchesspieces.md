@@ -31,38 +31,38 @@ Some unboxing pictures
 Some unboxing pictures:
 
 <div style="text-align: center;">
-  <img src="../images/display.png" alt="image" width="150">
+  <img src="../images/display.png" alt="image" width="600">
 </div>
 
 - The base is slightly bigger:
 
 <div style="text-align: center;">
-  <img src="../images/display 1.png" alt="Bigger Base" width="300">
+  <img src="../images/display 1.png" alt="Bigger Base" width="600">
 </div>
 
 - Close-up of the Knight with some imperfections on the side:
 
 <div style="text-align: center;">
-  <img src="../images/display 2.png" alt="Knight" width="150" height="300">
+  <img src="../images/display 2.png" alt="Knight" width="300" height="600">
 </div>
 
 - White lined up:
 
 <div style="text-align: center;">
-  <img src="../images/display 3.png" alt="White" width="150" height="300">
+  <img src="../images/display 3.png" alt="White" width="300" height="600">
 </div>
 
 - Black lined up:
 
 <div style="text-align: center;">
-  <img src="../images/display(4).png" alt="Black" width="150" height="300">
+  <img src="../images/display 4.png" alt="Black" width="300" height="600">
 </div>
 
 ### 2. Understanding the Chess Piece Sensor Chips:
 The chess piece sensor chips set is specifically designed for DIYers who want to create customized chess pieces with sensors. These sensor chips are essential components that bring the Chessnut Air to life, enabling the electronic chessboard to register and recognize the movement of each piece during gameplay. The set includes 34 sensor chips, with two extra queens included for versatility in customizing your chess pieces. Additionally, 34 silicone cases are provided to protect the chips during installation.
 
 <div style="text-align: center;">
-  <img src="../images/display(5).png" alt="image" width="300">
+  <img src="../images/display 5.png" alt="image" width="600">
 </div>
 
 ### 3. Preparing the Chessmen and Sensor Chips:
@@ -72,14 +72,14 @@ Before adding the sensors, ensure the chessmen are free from dirt or debris. Use
 Upon receiving the sensor chips, you'll notice they require some trimming to fit precisely into the designated holes of the wooden chess pieces. To ensure a proper fit, test the sensors by turning them upside down and checking if the trimmable area is visible outside the hole. The trimming process can be done easily and carefully, guaranteeing the sensors a snug and secure fit.
 
 <div style="text-align: center;">
-  <img src="../images/display(6).png" alt="image" width="300">
+  <img src="../images/display 6.png" alt="image" width="600">
 </div>
 
 ### 6. Ensuring Proper Sensor Placement:
 Correct placement of the sensor chips within the chess pieces is essential for the Chessnut Air to detect movements during gameplay accurately. After installation, test the depth of the sensor by placing the piece back on the chessboard. If you hear a "metallic click," it indicates that the sensor is not deep enough inside. You can adjust the Blu-Tack accordingly to achieve the desired depth.
 
 <div style="text-align: center;">
-  <img src="../images/display(7).png" alt="image" width="300">
+  <img src="../images/display 7.png" alt="image" width="600">
 </div>
 
 ### 7. Dealing with Felt Issues:
