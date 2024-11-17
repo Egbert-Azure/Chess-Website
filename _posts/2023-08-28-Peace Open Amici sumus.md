@@ -80,6 +80,8 @@ Egbert
 
 <iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=QRvc0zHhgx6S9DRJi0fE4sV5dpFJRIfuaazwrMcgTWZcBZb0a9A9ThrqDPP22Nzz'></iframe>
 
+---
+
 ### 2. Game with Roberto Pinos
 
 I played Roberto the first time and I was impressed! A FIDE rated player and a [CCE (Correspondence Chess Expert) 2022](https://www.iccf.com/player?id=160868). 
