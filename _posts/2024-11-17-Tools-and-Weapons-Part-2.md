@@ -12,6 +12,8 @@ featured: false
 Photo by <a href="https://unsplash.com/@nina_mercado?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nina Mercado</a> on <a href="https://unsplash.com/photos/brown-and-gray-metal-tools-e9YFrEBWit8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>      
 </div>
 
+---
+
 ## Introduction
 
 Welcome back, chess enthusiasts! This week’s post dives deeper into the software tools that help me improve and track my chess game. I've recently wrapped up some games and spent time reviewing the tools I use (or plan to use) to take my analysis to the next level.
