@@ -102,7 +102,7 @@ I own this board sind October 2022 and it is a huge game changer for me.
 I also built my DIY wooden chess set
 
 <div style="text-align: center;">
- <img src="https://github.com/Egbert-Azure/egbert-azure.Github.io/assets/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a" alt="image" width="300">
+ <img src="{{site.baseurl}}/images/55332675/6326fbbd-8ade-4242-8730-a337aa5fdf6a" alt="image" width="300">
 </div>
 
 
@@ -112,7 +112,11 @@ I also built my DIY wooden chess set
 
 In conclusion, the combination of chess and electronic chess boards is not only an intellectually enriching activity rooted in cultural heritage but also a modern companion. Through this game, seniors find challenges, joy, and social interactions, contributing significantly to a rich and fulfilling elderly life. Let us embark on the journey through the river of time with chess, embracing this wise companion enriched by the fusion of tradition and modern technology.
 
-Amici Sumus
+**Amici Sumus** – We are friends!  
+
+If you find value in my content, consider supporting me with a virtual coffee ☕️ or a beer 🍺. Your contributions help keep this blog thriving.  
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
