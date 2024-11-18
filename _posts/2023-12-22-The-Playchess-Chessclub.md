@@ -82,9 +82,7 @@ Do you want to join an evening with friends on the virtual board?
 
 Check this how-to video.
 
-[![Create your Playchess Account now!](https://img.youtube.com/vi/v=w-6SOrZVsgA/default.jpg)](
-https://www.youtube.com/watch?v=w-6SOrZVsgA) 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-6SOrZVsgA?si=7DP-YMcDUhbbUejt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Players interested in joining need a ChessBase Account, which unlocks many features. While you can enter the room as a guest, having an account allows you to chat and build a recognizable online presence.
 
