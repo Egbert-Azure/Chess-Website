@@ -3,7 +3,7 @@ layout: post
 title: The Playchess Chess Club Chronicles
 date: 2023-12-22
 description: A journey through Playchess platform, from personal development to creating a virtual haven for chess enthusiasts and playing with your ChessNut e-board.
-tags: [improvement, opening-repertoire, playchess, chessbase]
+tags: [tutorial, opening-repertoire, playchess, chessbase]
 image:  '/images/gruppentraining-wir2.jpg'
 featured: false
 ---

@@ -2,10 +2,12 @@
 title: "Welcome to my Senior Chess Improver Website"
 layout: post
 Date: 2023-02-08
-tags: [competitive, senior, chesspunks]
+tags: [competitive, Senior-Chess-Improver, chesspunks]
 image:  '/images/20.jpg'
 description: Discover a hub of chess insights, strategies, and tales of competition in chess. Join me on a journey of improvement, and a "I'm retired but not dead" approach.
 ---
+
+**2023-02-08**
 
 Greetings, chess enthusiasts and fellow learners! I'm delighted to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, and discoveries as I strive to enhance my skills in the captivating world of chess.
 

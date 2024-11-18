@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memories - Learning from the Past
-tags: [history, world-championship, Fischer-Spassky-1972, Tibor-Karolyi, books]
+tags: [world-championship, Fischer-Spassky-1972, Tibor-Karolyi, books]
 description: "Thoughts about contemporary chess games versus the brilliancy of historical games. And then take a chess journey through chess history with Tibor Karolyi's 'Fischer-Spassky 1972: Match of the Century Revisited' among some other interesting and entertaining games."
 date: 2024-01-22
 image:  '/images/fischer1957.jpeg'

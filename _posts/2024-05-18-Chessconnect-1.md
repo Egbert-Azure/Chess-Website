@@ -4,7 +4,7 @@ title: "The Chessnut eBoard and Chessconnect"
 description: "What is Chessconnect and why should you use it?"
 image: '/images/45.jpg'
 date: 2024-05-18
-tags: [tools, technology, chessconnect]
+tags: [tools, technology, chessconnect, Chessnut-Air]
 featured: false
 ---
 
