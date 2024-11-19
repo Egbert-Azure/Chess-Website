@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another Chess Year to Come - Welcome 2024
-tags: [improvement, opening-repertoire, chess-strategies]
+tags: [improvement, repertoire, strategy]
 description: Reflecting on the challenges of the new year, the impact of war on Ukrainian chess players, and celebrating the resilience of the chess community.
 date: 2024-01-15
 image:  '/images/park6.jpg'

@@ -4,7 +4,7 @@ title: "The Road to 2200: How to Analyze Your Game"
 description: "Do you analyze your game? Or just move on? That's a missed opportunity to learn."
 image: '/images/focus.jpg'
 date: 2024-07-15
-tags: [Strategy, Mindset]
+tags: [strategy, Mindset]
 featured: false
 ---
 
