@@ -118,12 +118,13 @@ That's also how Silman's chess bible can educate you.*
 
 The concept of chunks in chess calculation is a powerful tool that can elevate your game to new heights. By developing a solid foundation of patterns, you can streamline your thought process, reduce the cognitive load, and make more intuitive and accurate decisions. Incorporate these techniques into your chess training, and you'll find yourself calculating with greater ease and precision, ultimately leading to improved performance on the board. So, embrace the power of chunks and watch your chess skills grow.
 
-Amici Sumus
+**Amici Sumus** – We are friends!  
 
-I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
+If you find value in my content, consider supporting me with a virtual coffee ☕️ or a beer 🍺. Your contributions help keep this blog thriving.  
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
+Stay updated by [subscribing to my blog](https://follow.it/senior-chess-improver?leanpub) and sharing it with your chess friends.
 
 
 
