@@ -48,7 +48,7 @@ In chess, a "chunk" refers to a cluster of pieces, squares, or patterns a player
 2. **Reduced Mental Load:** One of the primary advantages of working with chunks is that it reduces the cognitive load on a player's mind. Instead of examining each piece and square individually, players can process information more efficiently, enabling them to calculate deeper into variations without mental exhaustion.
 
 3. **Intuitive Decision-Making:** Chunks allow for intuitive decision-making. Experienced players can rely on their accumulated knowledge to quickly assess a position. This intuitive approach is particularly valuable in time-constrained situations, such as blitz or rapid games. 
-    > please check my blog: ***The Virtues of Slow Play***
+    > please check my blog: [***The Virtues of Slow Play***](https://chess.myvortexcloud.com/the-virtues-of-slow-play)
 
 ### How to Develop and Utilize Chunks in Chess Calculation
 
