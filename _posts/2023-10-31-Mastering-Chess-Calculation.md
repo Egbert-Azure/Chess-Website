@@ -71,7 +71,7 @@ You can continue from this position and play against Fritz. What is your next mo
 
 <iframe src="https://fritz.chessbase.com?fen=r1bqkb1r/pp2pppp/2np1n2/8/2PN4/6P1/PP2PP1P/RNBQKB1R w KQkq - 0 6" style="width:760px;height:480px"></iframe>
 
-The next one is Kings Indian Sämisch. Same here. This is part of my Black opening portfolio and one of the sidelines. To improve, just build your repertoire. For details, see my blog posts ***Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence***  among others.
+The next one is Kings Indian Sämisch. Same here. This is part of my Black opening portfolio and one of the sidelines. To improve, just build your repertoire. For details, see my blog posts [***Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence***](https://chess.myvortexcloud.com/reference-databases)  among others.
 
 <iframe src="https://fritz.chessbase.com?fen=rnbqkb1r/ppp1pp1p/3p1np1/8/2PPP3/5P2/PP4PP/RNBQKBNR b KQkq - 0 4" style="width:760px;height:480px"></iframe>
 
