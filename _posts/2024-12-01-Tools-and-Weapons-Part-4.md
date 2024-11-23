@@ -14,7 +14,7 @@ Photo by <a href="https://unsplash.com/@hnhmarketing?utm_content=creditCopyText&
 
 ## Introduction  
 
-Hello chess enthusiasts. I have to admit, when I started to write about tools and started with my experience with ChessBase 18 and shared how I combined UltraCorr with MegaDAtabase, I didn't plan to write down 4 blogs about tools. But I hope you still enjoy it. Let me know your feedback in the comments below. And I promise I will update you about learnings in tournaments and sharing games soon.
+Hello chess enthusiasts. I have to admit, when I started to write about tools and started with my experience with ChessBase 18 and shared how I combined UltraCorr with MegaDatabase, I didn't plan to write down 4 blogs about tools. But I hope you still enjoy it. Let me know your feedback in the comments below. And I promise I will update you about learnings in tournaments and sharing games soon.
 
 [Try it out](https://chessbook.com/?ref=seniorchessimprover)
 

@@ -3,7 +3,7 @@ layout: post
 title: "Even More Tools and Weapons"  
 description: "Software Tools to Improve and Track Your Chess Game Part 3"  
 image: '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'  
-date: 2024-11-25  
+date: 2024-11-23  
 tags: [DecodeChess, tools]  
 featured: false  
 ---
@@ -17,7 +17,7 @@ Photo by <a href="https://unsplash.com/@hnhmarketing?utm_content=creditCopyText&
 In todays chess world I still prefer books to sit down, read, learn, explore and adopt strategies or update my repertoire. But Software tools have revolutionized the way we approach chess improvement nowadays and a mix of traditional tools & weapons is probably the right tnhing to do. 
 If you haven't read my blog [**Memories - Learning from the Past** ](https://chess.myvortexcloud.com/memories-learning-from-the-past) I encourage you to have a peak too.
 
-Now, what to expect in this blog? Well, it's, part 2 of my **Tools and Weapons** series, and we’ll explore **DecodeChess**, a tool that claims to act as your virtual chess coach. It makes engine analysis more human-friendly and actionable.  
+Now, what to expect in this blog? Well, it's, part 3 of my **Tools and Weapons** series, and we’ll explore **DecodeChess**, a tool that claims to act as your virtual chess coach. It makes engine analysis more human-friendly and actionable.  
 
 In January 2023, Chessify announced a partnership with DecodeChess, but a year later, users were informed that the partnership ended in January 2024. This came as a surprise to me, as I believe it would have been a great fit.
 
