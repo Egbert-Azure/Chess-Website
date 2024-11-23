@@ -123,19 +123,19 @@ What I see are sometimes really weird AI evaluations like this one out of a real
 I can't approve the message **White has an advantage (1.27) but cannot convert it to a win** -and this is not because I'm playingBlack- but love to have your opinion. Black is a pawn up, but has three pawn islands. DecodeChess judgement is, White has an advantage (1.27) but cannot convert it to a win.
 Really? I mean the slightly better position is equalized with one pawn up. But maybe it's just me.
 
-![alt text](../images/iDecodechessweird.pgn)
+![alt text](../images/iDecodechessweird.png)
 
 And then it gets interesting. e5 is -even it looks weird- a good move and the assesment is perfect. The position is equal if White takes the pawn and Black plays Qc3. If White plays the better move Qg5 trying to close in, a4 is coming. It's a complicated position and DecodeChess is now doing well explaining the "Why".
 
-![alt text](../images/Decodechessweird.pgn)
+![alt text](../images/Decodechessweird.png)
 
 And lastly, yes it's an equal position. Well done, DecodeChess!
 
-![alt text](../images/DecodeChessWellDone.pgn)
+![alt text](../images/DecodeChessWellDone.png)
 
 Now, the final position I like to share is also a real one from my RoW semi-final tournament to showcase the **Plan** function. This was pretty solid!
 
-![alt text](../images/DecodeChessPlan.pgn)
+![alt text](../images/DecodeChessPlan.png)
 ---
 
 ## Pricing  
