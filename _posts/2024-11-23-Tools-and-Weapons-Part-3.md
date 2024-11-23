@@ -127,7 +127,7 @@ Really? I mean the slightly better position is equalized with one pawn up. But m
 
 And then it gets interesting. e5 is -even it looks weird- a good move and the assesment is perfect. The position is equal if White takes the pawn and Black plays Qc3. If White plays the better move Qg5 trying to close in, a4 is coming. It's a complicated position and DecodeChess is now doing well explaining the "Why".
 
-![alt text](../images/iDecodechessweird.png)
+![alt text](../images/Decodechessweirdimage.png)
 
 And lastly, yes it's an equal position. Well done, DecodeChess!
 
