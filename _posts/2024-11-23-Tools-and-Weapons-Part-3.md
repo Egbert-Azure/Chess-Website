@@ -83,7 +83,7 @@ Okay, nuances and details might require enabling the "Dig Deeper" option, but...
 
 ## How It Works  
 
-Ok, jokes and early crique aside, let's take a look at how it works. I analyzed my game with Allyne Smith from the RoW semi-finals by pasting it into DecodeChess.
+Ok, jokes and early critique aside, let's take a look at how it works. I analyzed my game with Allyne Smith from the RoW semi-finals by pasting it into DecodeChess.
 
 ![alt text](../images/Decode1.jpeg)  
 The critical position was move 8, **d4**, where I had previously played **Be2**. Interestingly, that was exactly the move DecodeChess recommended, followed by **d4**. As you can see, the "Go Deeper" function provides further options and explanations.
