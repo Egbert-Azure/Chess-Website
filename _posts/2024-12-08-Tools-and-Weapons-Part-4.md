@@ -3,7 +3,7 @@ layout: post
 title: "Much More Tools and Weapons"  
 description: "Software Tools to Improve and Track Your Chess Game Part 4"  
 image: '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'  
-date: 2024-11-25  
+date: 2024-12-08  
 tags: [ChessBook, tools]  
 featured: false  
 ---
