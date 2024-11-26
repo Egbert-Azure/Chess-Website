@@ -87,6 +87,16 @@ Enjoy!
 
 This might be my fourth game against Michael in correspondence chess, and as always, it featured high-level play. Let’s dissect the key moments and explore what likely cost White the win.  
 
+
+#### Annotated Game  
+
+Have a look at the annotated game below for a detailed move-by-move breakdown, including my thoughts and variations during the game. 
+I then captured, highlighted and reflected on the critical moments.
+ 
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=XKWkcm88uIVa61Rbf3uXVBDxmTe/ktOY6DlFK2bloa3D6V1lcFOFt2qToLCHIa8t'></iframe>
+
+<br>
+
 ## Critical Moments  
 #### **Move 21: g4**  
 The move **21. g4** is aggressive, aiming to seize space and open attacking prospects on the kingside. However, it could have been better timed. A quieter move like **21. Nc3** would have maintained flexibility, addressed Black’s queenside counterplay, and kept White’s position solid. The pawn push weakens White's structure, providing Black with targets for later exploitation.  
@@ -122,19 +132,19 @@ The game demonstrates the importance of balancing aggression with caution, parti
 
 ---
 
-#### Annotated Game  
-
-Have a look at the annotated game below for a detailed move-by-move breakdown, including my thoughts and variations during the game:  
-
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=XKWkcm88uIVa61Rbf3uXVBDxmTe/ktOY6DlFK2bloa3D6V1lcFOFt2qToLCHIa8t'></iframe>
-
----
-
 # 2. Game Analysis: Weiner, Jeff  
 
 Playing against Gerald (Jeff) Weiner is always an engaging experience. In this game, as Black, I managed to hold a draw in a challenging position. However, the game slipped out of my hands due to a combination of passive decisions, missed opportunities for counterplay, and suboptimal endgame coordination.  
 
 Stronger emphasis on dynamic play, particularly in the opening and middle game, and earlier activation of the king in the endgame, would have significantly enhanced my winning chances.  
+
+#### Annotated Game 
+
+My thoughts during the game are reflected in the annotations.  
+
+<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=KswIjm3DcIRkdjEWeeq5y4YEb0bFm+5OrWJCDv5b9w21cRldqNECtNdVswQwFmWY'></iframe>
+
+<br>
 
 ### Critical Moments and Analysis  
 
@@ -167,12 +177,6 @@ Stronger emphasis on dynamic play, particularly in the opening and middle game, 
 3. Premature simplifications such as **30...Qxb5**, leading to a suboptimal endgame.  
 
 These little things, when combined, cost Black the chance to convert a promising position into a victory. However, a flawless play and holding a draw was a good result. 
-
-#### Annotated Game 
-
-My thoughts during the game are reflected in the annotations.  
-
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=KswIjm3DcIRkdjEWeeq5y4YEb0bFm+5OrWJCDv5b9w21cRldqNECtNdVswQwFmWY'></iframe>
 
 ---
 
