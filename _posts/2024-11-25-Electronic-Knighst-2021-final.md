@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Road to 2200: USCF Electronic Knights Final"
+title: "The Road to 2200: USCF Electronic Knights Finals"
 description: "The Electronic Knights is THE USCF tournament for correspondence chess players. Here is my final update on my standing in Electronic Knights 2021 Finals."
 image: '/images/sword.jpg'
 date: 2024-11-25
