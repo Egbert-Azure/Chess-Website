@@ -8,7 +8,11 @@ tags: [RoW, Game Analysis, ICCF]
 featured: false  
 ---
 
-Hello chess enthusiasts! I just completed an intense game against International Master James R. Ellis in the RoW Championship 2024 Semi-Finals.
+Hello chess enthusiasts! 
+
+Today, chess history was made in the World Chess Championship final, showcasing determination, preparation, and precise calculation at the highest level. As I followed the final moves with excitement, I couldn’t help but reflect on my own recently completed game in the RoW Championship 2024 Semi-Finals.
+
+Though not played under the same spotlight and far far away from this level, my game against International Master James R. Ellis felt like my own world championship moment. After weeks of calculation and analysis, the game ended in a hard-fought draw—a result I’m proud of against such a formidable opponent.
 
 James is a well-known player in the world of correspondence chess. He holds the title of International Correspondence Chess Master (IM) as of 2024. Over his career, he has participated in 140 tournaments and completed 1080 games, winning 125 of them.
 
