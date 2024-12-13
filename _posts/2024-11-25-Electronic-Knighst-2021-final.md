@@ -5,7 +5,7 @@ description: "The Electronic Knights is THE USCF tournament for correspondence c
 image: '/images/sword.jpg'
 date: 2024-11-25
 tags: [USCF, tournaments, Electronic-Knights]
-featured: true
+featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@jccards?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marek Studzinski</a> on <a href="https://unsplash.com/photos/a-person-holding-a-knife-in-their-hand-TE9qfpoOCzo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
   
