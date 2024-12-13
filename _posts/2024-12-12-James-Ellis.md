@@ -21,6 +21,12 @@ James is a well-known player in the world of correspondence chess. He holds the 
 </div>
 <br>
 
+<div style="text-align: center;">
+ <img src="{{site.baseurl}}/images/ellisstyle.jpg" alt="IM James Ellis style report" width="60%">
+</div>
+
+---
+
 ## Game Overview
 
 **Event:** ICCF Rest of World Championship (RoW Championship) 2024 Semi-Final 4  
