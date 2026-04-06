@@ -18,11 +18,11 @@ There is quite a bit to catch up on, so let me get right to it.
 
 ## A Deliberate Slowdown
 
-I made a conscious decision to reduce tournament stress. Going forward, I'm limiting myself to **one Electronic Knights section per year** and have paused new ICCF tournament signups entirely. The RoW Championship 2024 Semi-Final I blogged about in late 2024? It hasn't gone well — the field is packed with IMs and CCMs, all rated significantly above me, and the overall standing reflects that. But honestly, just competing at that level and drawing against opponents like IM Allyne Smith, CCM Unes Hassim, and IM James Ellis is its own reward.
+I made a conscious decision to reduce tournament stress. Going forward, I'm limiting myself to **one Electronic Knights section per year** and have paused new ICCF tournament signups entirely. That said, if I proceed and being successful in the Electronic Knights Preliminary, it will roll up to ~3-4 tournaments per year. The RoW Championship 2024 Semi-Final I blogged about in late 2024? It hasn't gone well — the field is packed with IMs and CCMs, all rated significantly above me, and the overall standing reflects that. But honestly, just competing at that level and drawing against opponents like IM Allyne Smith, CCM Unes Hassim, and IM James Ellis is its own reward.
 
 *Amici sumus.*
 
-The more valuable insight from the slowdown: fewer tournaments means more quality in the games I *do* play, more time to analyze, and — apparently — more time to write.
+The more valuable insight from the slowdown: fewer tournaments means more quality in the games I *do* play, more time to analyze, and — apparently — more time to write. Not to mention the "peace of mind". Don't underestimate the tournament stress factor even in Correspondence Chess, where you play multiple games in parallel.
 
 ---
 
@@ -31,12 +31,13 @@ The more valuable insight from the slowdown: fewer tournaments means more qualit
 Here's something I didn't expect: despite reducing my tournament load, my **USCF Correspondence Chess ranking has climbed to #41** in the USA. In November 2024 I was ranked #67. If you had told me back in 2021 — when I was playing Electronic Knights via email for the first time — that I'd crack the US Top 50 in correspondence chess, I would have laughed. Loudly.
 
 Proof that quality over quantity actually works.
+The USCF ranking is decoupled from the ICCF ranking (see my blogs about ranking).
 
 ---
 
 ## Electronic Knights: The Full Picture
 
-Let me give you the complete tournament update, because across multiple active fronts, there is quite a story to tell.
+Let me give you the complete tournament update, because across multiple active fronts, there is quite a story to tell. And yes, I didn't blog about chess a long time.
 
 ### EN 2025 (25EN03) — Preliminary, Running
 
@@ -66,7 +67,7 @@ This isn't a rage-quit. It's the result of years of accumulated frustration — 
 
 ### The ChessBase Problem
 
-Back in March 2024, I wrote about having **six open support tickets with no response**. Not one. Six. That alone should tell you something about how ChessBase treats its paying users.
+Back in March 2024, I wrote about having **six open support tickets with no response**. Not one. Not two. Six. That alone should tell you something about how ChessBase treats its paying users.
 
 When ChessBase 18 launched in November 2024, I debated whether to upgrade. I did — mainly because of a 25% discount offer. Here's what I got for that: a manual activation key entry process (in 2024!), a requirement to close VPN software and GPU drivers just to install, credentials including my ICCF login lost in the process, a premium membership that was supposed to activate automatically but didn't, and a first service patch released within 24 hours of launch. ChessBase, who exactly is doing your QA?
 
@@ -74,7 +75,9 @@ And this isn't even a proper upgrade — it installs *parallel* to ChessBase 17.
 
 But the deeper issues go well beyond installation hiccups. The so-called **ChessBase Cloud** is not a cloud — it's a glorified file share. Move your repertoire there and don't expect local changes to sync. They don't. The MegaDatabase annotations are inconsistent and in mixed languages, even for famous, well-documented games. The Opening Database released every year is largely the same product with minor additions. And correspondence chess? ChessBase keeps a separate correspondence database behind an additional paywall, yet you still can't look up correspondence players in the main player database. That's incoherent product design.
 
-The final straw was the **remote engine story**. Years ago, I identified a real problem: running Stockfish intensively on a laptop drains the battery fast and limits compute power compared to what a proper server cluster can deliver. The solution — a remote engine connected to your chess GUI over a network — was something I explored thoroughly, documented at [github.com/Egbert-Azure/stockfish-cluster](https://github.com/Egbert-Azure/stockfish-cluster), and brought directly to Matthias Wüllenweber. I never heard back. ChessBase eventually moved in that direction — and built a **proprietary paid cluster service** out of it. An idea shared in good faith, turned into someone else's revenue stream. That was the moment I knew we were done.
+And then there are the little things that never get fixed — like the constant shifting of views and panel flickering, menus moving around without any obvious reason. These are old, known bugs. They're just never addressed.
+
+The final straw was the **remote engine story**. Years ago, I identified a real problem: running Stockfish intensively on a laptop drains the battery fast and limits compute power compared to what a proper server cluster can deliver. The solution — a remote engine connected to your chess GUI over a network — was something I explored thoroughly, documented at [github.com/Egbert-Azure/stockfish-cluster](https://github.com/Egbert-Azure/stockfish-cluster), and brought directly to Matthias Wüllenweber. I never heard back. Nothing. No "thank you, great idea." No "hey, we're already working in that direction." Nothing. But ChessBase eventually moved in that direction — and built a **proprietary paid cluster service** out of it. An idea shared in good faith, turned into someone else's revenue stream. That was the moment I knew we were done.
 
 You can read the full history of my frustrations in the [Tools and Weapons](https://chess.myvortexcloud.com/tools-and-weapons) series from 2024. The receipts are all there.
 
