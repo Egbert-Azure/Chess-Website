@@ -2,19 +2,74 @@
 layout: default
 image: '/images/01.jpg'
 ---
+{%- assign settings = site.data.settings -%}
+{%- assign total = paginator.total_posts -%}
+{%- assign offset = paginator.page | minus: 1 | times: paginator.per_page -%}
 
-{% include hero.html %}
+{%- if paginator.page == 1 %}
+<section class="intro wrap" aria-labelledby="intro-title">
+  <h1 id="intro-title" class="intro__title">{{ settings.title }}</h1>
+  <p class="intro__lede">{{ settings.description }}</p>
+</section>
 
-{% include featured-posts.html %}
+{%- assign latest = paginator.posts.first %}
+<section class="wrap latest" aria-labelledby="latest-title">
+  <a class="latest__link" href="{{ latest.url | relative_url }}">
+    {%- if latest.image %}
+    {%- capture latest_img %}{% include image-url.html src=latest.image w=1200 h=800 %}{% endcapture %}
+    <img class="latest__image" src="{{ site.baseurl }}{{ latest_img }}" alt="" width="1200" height="800">
+    {%- endif %}
+    <div class="latest__text">
+      <p class="latest__label">Latest post</p>
+      <h2 id="latest-title" class="latest__title">{{ latest.title }}</h2>
+      {%- if latest.description %}
+      <p class="latest__desc">{{ latest.description | strip_html }}</p>
+      {%- endif %}
+      <p class="latest__meta">{% include post-meta.html post=latest %}</p>
+    </div>
+  </a>
+</section>
+{%- endif %}
 
-<div class="container">
-  <div class="row grid">
-    {% if site.posts.size > 0 %}
-      {% for post in paginator.posts %}
-        {% include article-content.html %}
-      {% endfor %}
-    {% endif %}
-  </div>
-</div>
+<section class="wrap sheet" aria-labelledby="sheet-title">
+  <h2 id="sheet-title" class="sheet__title">{% if paginator.page == 1 %}All posts{% else %}All posts, page {{ paginator.page }}{% endif %}</h2>
+  <ol class="sheet__list">
+    {%- for post in paginator.posts %}
+      {%- if paginator.page == 1 and forloop.first -%}{%- continue -%}{%- endif -%}
+      {%- assign number = total | minus: offset | minus: forloop.index0 -%}
+      {% include post-row.html post=post number=number %}
+    {%- endfor %}
+  </ol>
 
-{% include pagination.html %}
+  {%- if paginator.total_pages > 1 %}
+  <nav class="pages" aria-label="Pages">
+    {%- if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">Newer posts</a>
+    {%- endif %}
+    <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {%- if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Older posts</a>
+    {%- endif %}
+  </nav>
+  {%- endif %}
+</section>
+
+{%- if paginator.page == 1 %}
+{%- assign counted = "" | split: "" -%}
+{%- for tag in site.tags -%}
+  {%- capture key -%}{{ tag[1].size | prepend: "000" | slice: -3, 3 }}|{{ tag[0] }}{%- endcapture -%}
+  {%- assign counted = counted | push: key -%}
+{%- endfor -%}
+{%- assign counted = counted | sort | reverse %}
+<section class="wrap topics" aria-labelledby="topics-title">
+  <h2 id="topics-title" class="sheet__title">Topics</h2>
+  <ul class="chips">
+    {%- for entry in counted limit: 24 -%}
+      {%- assign parts = entry | split: "|" -%}
+      {%- assign count = parts[0] | plus: 0 %}
+    <li><a href="{{ '/tags/' | relative_url }}?tag={{ parts[1] | slugify }}">{{ parts[1] }} <span>{{ count }}</span></a></li>
+    {%- endfor %}
+    <li><a class="chips__all" href="{{ '/tags/' | relative_url }}">All topics</a></li>
+  </ul>
+</section>
+{%- endif %}

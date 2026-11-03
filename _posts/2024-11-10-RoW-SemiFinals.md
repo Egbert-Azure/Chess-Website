@@ -4,7 +4,7 @@ title: "First Game Finished - RoW Semi-Finals"
 description: "A Draw Against International Master Allyne Smith"  
 image: '/images/KingQueen.jpg'  
 date: 2024-11-10  
-tags: [RoW, Game Analysis, ICCF]  
+tags: [RoW, game-analysis, ICCF]
 featured: false  
 ---
 

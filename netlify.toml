@@ -1,0 +1,5 @@
+# Build settings (command, publish folder) stay in the Netlify UI.
+# This only marks the build as production, which switches images to
+# resized copies from the Netlify Image CDN (see _includes/image-url.html).
+[build.environment]
+  JEKYLL_ENV = "production"

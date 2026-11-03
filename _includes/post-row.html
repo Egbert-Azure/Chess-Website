@@ -1,0 +1,20 @@
+{%- comment -%} One entry in the scoresheet list. Pass post=... and number=... {%- endcomment -%}
+{%- assign p = include.post -%}
+<li class="row{% if include.number == "" %} row--plain{% endif %}{% if p.image %} row--thumb{% endif %}">
+  {%- if include.number != "" %}
+  <span class="row__no" aria-hidden="true">{{ include.number }}.</span>
+  {%- endif %}
+  <div class="row__body">
+    <h3 class="row__title"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h3>
+    {%- if p.description %}
+    <p class="row__desc">{{ p.description | strip_html | truncate: 170 }}</p>
+    {%- endif %}
+    <p class="row__meta"><span>{% include post-meta.html post=p %}</span>{% if p.tags.size > 0 %}<span class="row__tags">{% for tag in p.tags limit: 3 %}<a href="{{ '/tags/' | relative_url }}?tag={{ tag | slugify }}">{{ tag }}</a>{% endfor %}</span>{% endif %}</p>
+  </div>
+  {%- if p.image %}
+  {%- capture thumb %}{% include image-url.html src=p.image w=480 h=320 %}{% endcapture %}
+  <a class="row__thumb" href="{{ p.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    <img src="{{ site.baseurl }}{{ thumb }}" alt="" width="480" height="320" loading="lazy" decoding="async">
+  </a>
+  {%- endif %}
+</li>

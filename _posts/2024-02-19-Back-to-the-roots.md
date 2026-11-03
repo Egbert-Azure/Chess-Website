@@ -21,7 +21,7 @@ As a chess enthusiast, I recently found myself drawn back to an old favorite: th
 
 The position showcased below, from Vujovic's game in round 7, epitomizes the essence of the 150 Attack against Black's Modern Defense:
 
-<iframe src="https://fritz.chessbase.com?fen=rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2NBBN2/PPPQ1PPP/R3K2R b KQkq - 0 7" style="width:760px;height:480px"></iframe>
+<div class="board" data-fen="rn1qk1nr/1bp1ppbp/p2p2p1/1p6/3PP3/2NBBN2/PPPQ1PPP/R3K2R b KQkq - 0 7"></div>
 
 ## 150 Attack
 

@@ -4,7 +4,7 @@ title: "Back to learning"
 date:  2024-03-09 
 description: "Never stop learning and revisting your opening"
 image:  '/images/damiano-lingauri-bUM4weg0RSI-unsplash.jpg'
-tags: [theory, openings, chessbase]
+tags: [theory, openings, ChessBase]
 featured: false
 ---
 While I work on my repertoire again I like to share some thoughts and how I keep improving my chess.

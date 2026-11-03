@@ -4,7 +4,7 @@ title: "Tools and Weapons"
 description: "Software Tools to Improve and Track Your Chess Game"  
 image: '/images/604.jpg'  
 date: 2024-11-12  
-tags: [ChessBase, MegaDatabase, UltraCorr, Chessify]  
+tags: [ChessBase, Mega-Database, UltraCorr, Chessify]
 featured: false  
 ---
 
@@ -25,7 +25,7 @@ ChessBase describes this release as introducing “New dimensions in study and p
 I tested the player style analysis feature with my own games after merging the UltraCorr database into MegaDatabase, bringing my combined version up to 234 games. Below are some screenshots showcasing my personal style analysis report.
 
 <div style="text-align: center;">
- <img src="{{site.baseurl}}/images/ESgames.png" alt="image" width="80%">
+ <img src="{{site.baseurl}}/images/ESGames.png" alt="image" width="80%">
 </div>
 
 <br>

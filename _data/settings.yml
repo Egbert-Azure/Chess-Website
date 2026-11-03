@@ -1,15 +1,15 @@
 #-------------------------------
 # Site Settings
-title: Chess
+title: Senior Chess Improver
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Chess – Senior Chess Improver.
+description: Egbert Schroeer on correspondence chess. Tournament reports, annotated games, tools, and the long road to 2200.
 
 
 #-------------------------------
 # Navigation Settings
 menu-settings:
   menu-items:
-    - title: 'Home'
+    - title: 'Posts'
       url: '/'
     - title: 'Tournaments'
       url: '/tournaments/'
@@ -17,7 +17,7 @@ menu-settings:
       url: '/puzzles/' 
     - title: 'About'
       url: '/about/'
-    - title: 'Contact Me'
+    - title: 'Contact'
       url: '/contact/'
 
 #-------------------------------

@@ -1,0 +1,6 @@
+{%- comment -%} Date and reading time for a post. Pass post=... {%- endcomment -%}
+{%- assign p = include.post -%}
+{%- assign words = p.content | number_of_words -%}
+{%- if words < 360 -%}{%- assign minutes = 1 -%}{%- else -%}{%- assign minutes = words | divided_by: 180 | floor -%}{%- endif -%}
+{%- if p.date -%}<time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d %B %Y" }}</time>, {% endif -%}
+{{ minutes }} min read

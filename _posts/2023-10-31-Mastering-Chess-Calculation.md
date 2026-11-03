@@ -1,7 +1,7 @@
 ---
 title: Mastering Chess Calculation - Unpacking the Power of Chunks
 layout: post
-tags: [calculation, chunks, strategy, UltraCorr23, chessbase]
+tags: [calculation, chunks, strategy, UltraCorr, ChessBase]
 description: "Explore the concept of chunks in chess calculation and learn how to enhance this crucial aspect of your game. Discover how the power of chunks can improve your chess skills and the difference between club players and Grandmasters in terms of chunk knowledge."
 date: 2023-10-31
 image:  '/images/TrickorCheckmate.jpeg'
@@ -69,11 +69,11 @@ As a club player or a senior chess improver trying to improve, there are five cr
 Let's make it interactive. This game is from ***USCF 21EN09 - 2021 Electronic Knights Schroeer, Egbert vs Lomnicki, Slawo***
 You can continue from this position and play against Fritz. What is your next move? Hint: Torre, London, and Colle System. I had this position very often, so I don't even need to think. It's just pattern recognition or picture of a position I want to have. If you press Hint, Fritz lifts the curtain a bit. You don't need to have a ChessBase account. You can adjust the level and then make your move!
 
-<iframe src="https://fritz.chessbase.com?fen=r1bqkb1r/pp2pppp/2np1n2/8/2PN4/6P1/PP2PP1P/RNBQKB1R w KQkq - 0 6" style="width:760px;height:480px"></iframe>
+<div class="board" data-fen="r1bqkb1r/pp2pppp/2np1n2/8/2PN4/6P1/PP2PP1P/RNBQKB1R w KQkq - 0 6"></div>
 
 The next one is Kings Indian Sämisch. Same here. This is part of my Black opening portfolio and one of the sidelines. To improve, just build your repertoire. For details, see my blog posts [***Leveraging Chessbase with Mega Database and UltraCorr23 for Correspondence Chess Excellence***](https://chess.myvortexcloud.com/reference-databases)  among others.
 
-<iframe src="https://fritz.chessbase.com?fen=rnbqkb1r/ppp1pp1p/3p1np1/8/2PPP3/5P2/PP4PP/RNBQKBNR b KQkq - 0 4" style="width:760px;height:480px"></iframe>
+<div class="board" data-fen="rnbqkb1r/ppp1pp1p/3p1np1/8/2PPP3/5P2/PP4PP/RNBQKBNR b KQkq - 0 4"></div>
 
 You should train some tactics. Repeating what I said, tactics training is the cornerstone sharpening your ability to spot opportunities, execute winning combinations, and outmaneuver your opponents with precision, well, with "chunks".
 

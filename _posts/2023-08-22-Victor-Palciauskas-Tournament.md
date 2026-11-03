@@ -39,7 +39,7 @@ The Victor Palciauskas Tournament celebrated success and marked a profound step 
 Reflecting on this accomplishment, I am reminded that retirement from the corporate world is only the beginning of a new chapter enriched by chess conquests.
 
 <div align="center">
-    <img src="../images/victor-winner.jpeg" alt="Result Image" width="400">
+    <img src="../images/Victor-winner.jpeg" alt="Result Image" width="400">
     <div align="center">
         <p><em>Certificate signed by Victor Palciauskas</em></p>
     </div>
