@@ -4,7 +4,7 @@ title: "Mastering the Middle Game: I Failed"
 description: "My intense game against the great Jeff Reger"  
 image: '/images/ravi-kumar-sKZYPerA5s0-unsplash.jpg'  
 date: 2024-10-15  
-tags: [Electronic-Knights, Game Analysis, Chess Strategy]  
+tags: [Electronic-Knights, game-analysis, strategy]
 featured: false  
 ---
 

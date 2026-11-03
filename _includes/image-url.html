@@ -1,0 +1,11 @@
+{%- comment -%}
+  Address of a resized copy of a site image. On Netlify (JEKYLL_ENV=production,
+  set in netlify.toml) the Netlify Image CDN shrinks it on the fly; with a local
+  `jekyll serve` the original file is used.
+  Usage: {% include image-url.html src=page.image w=320 h=214 %}  (h is optional)
+{%- endcomment -%}
+{%- if jekyll.environment == "production" -%}
+/.netlify/images?url={{ include.src | uri_escape }}&amp;w={{ include.w }}{% if include.h %}&amp;h={{ include.h }}&amp;fit=cover{% endif %}
+{%- else -%}
+{{ include.src }}
+{%- endif -%}

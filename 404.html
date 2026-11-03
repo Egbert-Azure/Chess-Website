@@ -1,17 +1,11 @@
 ---
-layout: page
+layout: default
 title: Page not found
-image: '/images/140.jpg'
 permalink: /404.html
 ---
-
-<div class="container">
-  <div class="row">
-    <div class="col col-12" style="text-align: center">
-      <h2 style="font-size: 48px">404</h2>
-      <p>The requested page could not be found.</p>
-      <p><a href="{{site.baseurl}}/" class="button button--middle" style="text-decoration: none; border: none">Back to the blog</a></p>
-      <hr>
-    </div>
-  </div>
-</div>
+<section class="wrap intro notfound">
+  <p class="notfound__code">404</p>
+  <h1 class="intro__title">This square is empty.</h1>
+  <p class="intro__lede">The page you asked for isn’t here. It may have moved, or the link has a typo.</p>
+  <p><a class="button" href="{{ '/' | relative_url }}">Go to all posts</a></p>
+</section>

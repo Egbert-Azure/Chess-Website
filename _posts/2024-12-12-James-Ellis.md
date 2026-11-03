@@ -4,7 +4,7 @@ title: "Third Game Finished - RoW Semi-Finals"
 description: "A Draw Against International Master James R. Ellis"  
 image: '/images/oldpiecesnewboard.jpg'  
 date: 2024-12-12  
-tags: [RoW, Game Analysis, ICCF]  
+tags: [RoW, game-analysis, ICCF]
 featured: false  
 ---
 
@@ -17,7 +17,7 @@ Though not played under the same spotlight and far far away from this level, my 
 James is a well-known player in the world of correspondence chess. He holds the title of International Correspondence Chess Master (IM) as of 2024. Over his career, he has participated in 140 tournaments and completed 1080 games, winning 125 of them.
 
 <div style="text-align: center;">
-    <img src="../images/jamesellis.png" alt="IM James Ellis" style="width: 40%;">
+    <img src="../images/JamesEllis.png" alt="IM James Ellis" style="width: 40%;">
 </div>
 <br>
 

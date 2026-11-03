@@ -1,36 +1,26 @@
 ---
 layout: default
 ---
+<article class="page">
+  <header class="wrap post__head">
+    <div class="measure">
+      <h1 class="post__title">{{ page.title }}</h1>
+      {%- if page.description %}
+      <p class="post__lede">{{ page.description }}</p>
+      {%- endif %}
+    </div>
+  </header>
 
-<!-- begin hero -->
-{% if page.image %}
-<section class="hero">
-  <div class="hero__inner">
-    <div class="hero__image">
-      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
-    </div>
-    <div class="hero__content">
-      <h1 class="hero__title">{{ page.title }}</h1>
-    </div>
-  </div>
-</section>
-{% else %}
-<section class="hero-without-image">
-  <div class="hero-inner">
-    <div class="hero-content">
-      <h1 class="hero__title">{{ page.title }}</h1>
-    </div>
-  </div>
-</section>
-{% endif %}
-<!-- begin hero -->
+  {%- if page.image %}
+  <figure class="wrap post__image post__image--page">
+    {%- capture hero_img %}{% include image-url.html src=page.image w=1600 %}{% endcapture %}
+    <img src="{{ site.baseurl }}{{ hero_img }}" alt="">
+  </figure>
+  {%- endif %}
 
-<!-- begin page -->
-<div class="container">
-  <article class="page animate">
-    <div class="page__content">
+  <div class="wrap">
+    <div class="measure prose">
       {{ content }}
     </div>
-  </article>
-</div>
-<!-- end page -->
+  </div>
+</article>

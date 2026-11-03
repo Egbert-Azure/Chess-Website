@@ -4,7 +4,7 @@ title: "ICCF Veterans World Cup 13 - Semi Final"
 description: "Finished my last games in the Semi-Finals. Thanks to all of you who are following my journey. This is blog #40!"
 image: '/images/artyom-kabajev.jpg'
 date: 2024-07-27
-tags: [ICCF, Tournaments, VWC13]
+tags: [ICCF, tournaments, VWC13]
 featured: false
 ---
 

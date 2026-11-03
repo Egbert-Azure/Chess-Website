@@ -2,7 +2,7 @@
 layout: post
 Title: My Journey into Correspondence Chess and Unexpected Recognition
 Date: 2023-03-03
-tags: [USCF, tournament, correspondence-chess, Senior-Chess-Improver]
+tags: [USCF, tournaments, correspondence-chess, Senior-Chess-Improver]
 image:  '/images/110.jpg'
 description: Discover the valuable lessons I learned from facing off against seasoned players and how an unexpected recognition in the chess community marked a significant milestone in my chess adventure.
 ---

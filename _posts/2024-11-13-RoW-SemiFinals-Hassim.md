@@ -4,7 +4,7 @@ title: "Second Game Finished - RoW Semi-Finals"
 description: "A Draw Against International Master Unes Hassim"  
 image: '/images/wim-van-t-einde.jpg'  
 date: 2024-11-13  
-tags: [RoW, Game Analysis, ICCF]  
+tags: [RoW, game-analysis, ICCF]
 featured: false  
 ---
 <div style="text-align: left; font-size: smaller;">
