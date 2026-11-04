@@ -1,24 +1,24 @@
 /* Senior Chess Improver
    Layout: black title and footer bars (shared with the WordTsar site), a
    reading column for posts, and the post list set like a scoresheet:
-   numbered entries, newest first. Colours come from a tournament roll-up
-   board: green and buff squares on a light green-grey page; charcoal in
-   dark mode. */
+   numbered entries, newest first. Colours are warm and neutral, taken
+   from the beach-at-sunset photo and a wooden board: scoresheet cream,
+   sand, and a walnut-rust accent; charcoal in dark mode. */
 :root {
-  --paper: #f3f5f2;
-  --surface: #e6ebe5;
-  --ink: #17201a;
-  --muted: #535f57;
-  --rule: #cbd3cc;
-  --accent: #2d6a36;       /* board green, for links and buttons */
+  --paper: #f7f1e6;        /* scoresheet cream */
+  --surface: #efe2cc;      /* sand, for quiet fills */
+  --ink: #1f2328;
+  --muted: #5b5245;
+  --rule: #d8c7ac;
+  --accent: #8a3f12;       /* walnut-rust, for links and buttons */
   --accent-ink: #ffffff;
   --bar: #000000;
-  --bar-ink: #cfd6d0;
-  --bar-hot: #a9d494;
+  --bar-ink: #d9d2c6;
+  --bar-hot: #e1c39a;
   --bar-strong: #ffffff;
-  --bar-line: #3b423d;
-  --sq-dark: #739552;      /* tournament board squares */
-  --sq-light: #ebecd0;
+  --bar-line: #45403a;
+  --sq-dark: #b58863;      /* wooden board squares */
+  --sq-light: #f0d9b5;
 
   --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
   --text: "Literata", Georgia, "Times New Roman", serif;
@@ -28,34 +28,34 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #1d2125;
-    --surface: #272c31;
-    --ink: #e7eae7;
-    --muted: #a3ada6;
-    --rule: #363d43;
-    --accent: #9ccd84;
-    --accent-ink: #10230f;
+    --paper: #1f2328;
+    --surface: #2a2e34;
+    --ink: #ece6dc;
+    --muted: #b3aa9c;
+    --rule: #3b4048;
+    --accent: #e6b98a;
+    --accent-ink: #2a1a0c;
     --bar: #000000;
-    --bar-ink: #c3cac4;
-    --bar-hot: #9ccd84;
-    --sq-dark: #6d8f4e;
-    --sq-light: #d9dcbf;
+    --bar-ink: #c9c2b6;
+    --bar-hot: #e1c39a;
+    --sq-dark: #a07554;
+    --sq-light: #dcc3a1;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --paper: #1d2125;
-  --surface: #272c31;
-  --ink: #e7eae7;
-  --muted: #a3ada6;
-  --rule: #363d43;
-  --accent: #9ccd84;
-  --accent-ink: #10230f;
+  --paper: #1f2328;
+  --surface: #2a2e34;
+  --ink: #ece6dc;
+  --muted: #b3aa9c;
+  --rule: #3b4048;
+  --accent: #e6b98a;
+  --accent-ink: #2a1a0c;
   --bar: #000000;
-  --bar-ink: #c3cac4;
-  --bar-hot: #9ccd84;
-  --sq-dark: #6d8f4e;
-  --sq-light: #d9dcbf;
+  --bar-ink: #c9c2b6;
+  --bar-hot: #e1c39a;
+  --sq-dark: #a07554;
+  --sq-light: #dcc3a1;
   color-scheme: dark;
 }
 
@@ -124,7 +124,32 @@ a:hover { text-decoration-thickness: 2px; }
 .search__results a { font-family: var(--display); font-weight: 600; font-size: 1.0625rem; }
 .search__results span { display: block; font-size: 0.875rem; color: var(--muted); font-family: var(--display); }
 
-/* Home */
+/* Home: the opening photo with the site title over the sky */
+.hero {
+  position: relative; isolation: isolate; display: grid;
+  min-height: clamp(18rem, 44vw, 34rem); margin-bottom: 3rem;
+  background: #1b1d21; color: #ffffff;
+}
+.hero__image { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; object-position: 50% 62%; }
+.hero::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.22) 45%, rgba(0, 0, 0, 0) 75%);
+}
+.hero__text { align-self: start; width: 100%; padding-block: clamp(2.5rem, 7vw, 5.5rem) 2rem; text-align: center; }
+.hero__title {
+  margin: 0; font-family: var(--display); font-weight: 800; font-stretch: 80%;
+  font-size: clamp(2.6rem, 1.4rem + 5.4vw, 5.25rem); line-height: 0.98; letter-spacing: -0.02em;
+  text-wrap: balance; text-shadow: 0 1px 14px rgba(0, 0, 0, 0.35);
+}
+.hero__lede {
+  margin: 0.9rem auto 0; max-width: 36rem; font-size: clamp(1.0625rem, 0.95rem + 0.5vw, 1.3rem); line-height: 1.45;
+  color: rgba(255, 255, 255, 0.92); text-shadow: 0 1px 10px rgba(0, 0, 0, 0.45);
+}
+.hero--plain { min-height: 0; background: none; color: var(--ink); }
+.hero--plain::before { content: none; }
+.hero--plain .hero__title, .hero--plain .hero__lede { color: inherit; text-shadow: none; }
+
+/* Plain big title, used by the 404 page */
 .intro { padding-block: 3.5rem 2.5rem; }
 .intro__title {
   margin: 0; font-family: var(--display); font-weight: 800; font-stretch: 80%;
