@@ -71,9 +71,48 @@ The game ended in a draw. A brilliant game where I was able to leverage 6 best a
 | Black | 0.01 (flawless)      | 31/6/3                  |
 | Result|                     | 1/2-1/2                 |
 
+```pgn
+[Event "VWC13 /pr 58"]
+[White "Colombo Berra,Fernando"]
+[Black "Schroeer,Egbert"]
+[Site "ICCF"]
+[Round ""]
+[Annotator "Schroeer,Egbert"]
+[Result "1/2-1/2"]
+[Date "2021.09.01"]
+[WhiteElo "2150"]
+[PlyCount "114"]
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=jhiWsVLUWV9Pq4e7fTCoCZpODP+Ok+691uVGqzlqwW4CY+BNe1S5cUSfA0W7NvKv'></iframe>
-
+1. e4 c5 2. Nf3 {[%cal Yg1f3,Yf3d4,Yd4b5,Yb5a3,Ya3c2]} Nc6 3. d4 cxd4 4. Nxd4
+Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 {[%cal Yb7b5,Yb5b4]} 9. Nd5 Be7 10.
+Bxf6 Bxf6 11. c4 b4 {B33: Sicilian: Pelikan and Sveshnikov Variations.} 12. Nc2
+O-O 13. g3 {[%cal Yd1f3]} Bg5 14. Bg2 (14. Ncxb4 Nxb4 15. Nxb4 Qb6 $15 )Qa5 15.
+O-O Qc5 16. b3 a5 17. Qe2 Be6 $146 ({Predecessor:} 17... Bd8 18. Kh1 Be6 19.
+Rad1 a4 20. Rd3 axb3 21. axb3 Ra2 22. Qd1 Kh8 23. f4 f6 {½-½ Murray,T
+(2554)-Fleetwood,D (2583) USA VVP-A email 2014} )18. Nc7 Ra7 19. Nb5 Raa8 20. h4
+Bh6 21. Rad1 (21. Nc7 $5 {[%cal Rc7a8]} )a4 22. Nxd6 axb3 23. axb3 Na5 24. Rd3
+{With the idea Rfd1.} (24. Na1 $5 )g6 {The position is equal.} (24... Nxb3 25.
+Rxb3 Qxd6 26. Nxb4 $16 )25. Nf5 $1 {Deflection} gxf5 26. Qh5 $1 {[%csl Yf5,Yh6]}
+Bg7 {[%cal Ya5b3] ...Nxb3! would now be deadly.} (26... fxe4 $2 27. Bxe4 Ra6 28.
+Qxh6 $18 )27. exf5 e4 $1 28. Bxe4 Nxb3 $1 {Remove Defender, Decoy} 29. Bxa8 Qxf5
+30. Qe2 Bxc4 {This pair of bishops is nice.} 31. Be4 Qb5 {Hoping for ...f5.} 32.
+Rfd1 {[%cal Ye2e3]} f5 (32... Bxd3 33. Bxd3 (33. Qxd3 Qxd3 34. Bxd3 Bc3 $10 )Qc5
+34. Qg4 $16 )(32... Nc5 33. Nd4 Qa6 34. Nf5 Nxd3 35. Bxd3 Bxd3 36. Rxd3 $16 )33.
+Qe3 fxe4 34. Rxb3 Bh6 35. Qxh6 Bxb3 36. Nd4 Qc5 37. Rd2 Bf7 38. Ne6 Bxe6 $1 39.
+Qxe6+ $10 {Endgame. KQR-KQR} Kh8 {And now ...Qc1+ would win.} 40. Re2 Qd4 41.
+Kg2 (41. Rxe4 $2 Qxf2+ 42. Kh1 Qf1+ 43. Kh2 Rf2# )Qd3 42. Qe5+ Kg8 43. Qg5+
+({Much less strong is} 43. Rxe4 Qf3+ 44. Kh3 (44. Kh2 Qxf2+ 45. Kh3 Qf1+ 46. Kg4
+Qd1+ 47. Kh3 Qh1+ 48. Kg4 Qd1+ 49. Kh3 Qf1+ 50. Kg4 Qd1+ $10 )Qh1+ 45. Kg4 Qf3+
+46. Kg5 (46. Kh3 Qh1+ 47. Kg4 Qf3+ 48. Kg5 b3 $14 )b3 $14 )Kh8 44. Qc5 {[%cal
+Rc5f8]} Qf3+ 45. Kg1 {Threatens to win with Qd4+.} e3 46. Qe5+ Kg8 {[%cal
+Re3f2]} 47. Qg5+ (47. Rxe3 $2 {gets mated.} Qxf2+ 48. Kh1 Qf1+ 49. Kh2 Rf2# )Kh8
+{[%cal Re3f2]} 48. Qxe3 (48. Rxe3 $2 {leads to mate.} Qxf2+ 49. Kh1 Qf1+ 50. Kh2
+Rf2# )Qxe3 49. Rxe3 {KR-KR} Rb8 50. Rb3 Kg7 51. Kf1 Kf6 52. Ke2 Ke5 53. Kd3
+{Strongly threatening Kc4.} Kd5 54. h5 Kc5 55. g4 Rf8 56. Ke3 Kc4 57. Rb1 {Black
+must now prevent f4.} Re8+ {A brilliant game! Weighted Error Value: White=0.02
+(flawless) /Black=0.01 (flawless) . OK: White=18 Black=31 Best: White=1 Black=6
+Strong: --- Black=3} 1/2-1/2
+```
 
 # Semi-Finals: A New Chapter
 
@@ -102,7 +141,39 @@ Strong:       	White=2     	Black=4
 
 **Enjoy the game replay!**
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=lfYWaDqH4Z3QkF5XbrvTd3wb8Ws5OtbWRVQmlokFRw0kcA/qVQE9+dLV7r3hQpVU'></iframe>
+```pgn
+[Event "VWC 13/SF 9"]
+[White "Schroeer,Egbert"]
+[Black "Ilyasov,Anatoly Fedorovich"]
+[Site "ICCF"]
+[Round ""]
+[Annotator "Schroeer,Egbert"]
+[Result "1/2-1/2"]
+[Date "2023.06.15"]
+[WhiteElo "2114"]
+[BlackElo "2317"]
+[PlyCount "54"]
+
+1. Nf3 Nf6 2. c4 e6 {[%cal Ye7e6,Ye6d5,Yd5d4]} 3. Nc3 d5 4. e3 c5 5. cxd5 exd5
+{The position is equal.} 6. b3 {A17: English Opening: 1...Nf6 with ...Bb4.} Nc6
+7. Bb2 d4 8. Na4 Be7 9. Bb5 O-O $146 ({Predecessor:} 9... Bd7 10. Rc1 Nb4 11.
+Bxd7+ Qxd7 12. O-O Nd3 13. Rc2 b5 14. Qe2 Nb4 15. Ne5 d3 {0-1 Greet,A
+(2420)-Gordon,S (2533) BCF-chT1d 1819 (4NCL) Demotion pool 2018 (11.51)} )10.
+Bxc6 bxc6 11. O-O Bg4 12. h3 Bh5 13. Rc1 Qd5 14. Ba3 Ne4 15. g4 $1 Bg6 16. d3
+{Inhibits f5.} Nxf2 {[%csl Yd3,Yf3] Discovered Attack, Remove Defender} 17. Kxf2
+{e4 is the strong threat.} dxe3+ 18. Kxe3 {[%cal Ra3c5]} f5 {...fxg4 would now
+be deadly.} 19. g5 (19. Bxc5 $2 fxg4 20. hxg4 (20. Bxe7 $2 Rae8 $19 )Rae8 $19
+)Bxg5+ 20. Nxg5 f4+ $1 {[%csl Yg5] Discovered Attack} 21. Kf2 $1 (21. Kd2 Qxd3+
+22. Ke1 Rfe8+ )f3 $1 (21... Qxg5 $2 22. Qg4 (22. Bxc5 $2 Qg3+ 23. Ke2 Rfe8+ 24.
+Kd2 Qxd3# )Qd8 23. Kg1 $18 (23. Rxc5 Qxd3 24. Kg1 Rae8 $10 )(23. Nxc5 Qa5 $18
+))22. Nxf3 (22. Rxc5 $2 Qd4+ 23. Kg3 Qf4+ 24. Kf2 Rae8 $19 )Bh5 $1 23. Kg2 (23.
+Rxc5 $2 Rxf3+ 24. Kg2 Rxf1+ 25. Rxd5 Bxd1 26. Kxf1 cxd5 $19 )Rxf3 $1 24. Qxf3
+(24. Rxf3 Rf8 25. Qd2 (25. Rxc5 {is a self mate.} Bxf3+ 26. Kg3 Qd6+ )Bxf3+ 26.
+Kg1 Qe5 $19 )Bxf3+ 25. Rxf3 Rf8 26. Rcf1 Qg5+ 27. Kh1 {[%csl Gf1][%cal Rf3f8]}
+Qd5 {A rather calm draw. A fantastic game! Weighted Error Value: White=0.00
+(flawless) /Black=0.00 (flawless) . OK: White=8 Black=10 Best: White=1 Black=5
+Strong: White=2 Black=4} 1/2-1/2
+```
 
 **Learning from Defeat: A Lesson against CCM Hannes Rolle in the Semi-Finals**
 
@@ -117,7 +188,38 @@ Quote from Hannes about my comment:
 
 I was amazed!
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=vOarqHLNKNHGyr5WxtqZ8Sbaza9+1ZHLqUqCPI+6Z0RNBnF3i7YLNYixA59WyUux'></iframe>
+```pgn
+[Event "VWC 13/SF 9"]
+[White "Rolle,Hannes"]
+[Black "Schroeer,Egbert"]
+[Site "ICCF"]
+[Round ""]
+[Annotator "Schroeer,Egbert"]
+[Result "1-0"]
+[Date "2023.06.15"]
+[WhiteElo "2335"]
+[BlackElo "2114"]
+[PlyCount "81"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. h3 Nbd7 6. f4 {White is more active.}
+b5 {B07: Pirc Defence: Miscellaneous Systems. And now ...b4 would win.} 7. a3
+Nb6 8. Bd3 Bg7 {White is better.} 9. Nf3 O-O 10. O-O a5 11. Qe1 Ba6 $146
+({Predecessor:} 11... Nc4 12. Bc1 a4 13. f5 Nh5 14. g4 Nf6 15. Qh4 Qb6 16. Kh1
+Bb7 17. Bh6 Rfd8 18. Bxc4 bxc4 19. e5 dxe5 20. Bxg7 {1-0 Torell,H
+(1962)-Tarmak,M (2029) RA-2013-0-00298} )12. b3 Qc8 13. b4 Bb7 14. bxa5 Rxa5 15.
+e5 Nfd5 16. Nxd5 Nxd5 17. Qxa5 Nxe3 18. Rfe1 Nd5 19. Qd2 c5 20. Be4 (20. Bxb5 $6
+Bh6 $14 )Bh6 21. Qf2 dxe5 22. dxe5 ({Much less strong is} 22. Nxe5 cxd4 23. Bxd5
+(23. Qxd4 Nxf4 24. Rab1 Ne6 $16 )Bxd5 $16 )({Don't take} 22. dxc5 $6 exf4 23.
+Rab1 Bg7 $14 )(22. fxe5 cxd4 23. Qxd4 (23. Nxd4 Nc3 $16 )Nf4 $16 )Nxf4 23. Qh4
+{[%csl Ye7,Yh6]} Kg7 24. Qxe7 Bxe4 25. Rxe4 Nd5 {Wards off Qf6+} 26. Qh4 {With
+attack} Nc3 27. Qf6+ Kg8 28. Ree1 Qd8 29. Qc6 c4 30. e6 Qe8 31. exf7+ Qxf7 32.
+Re6 Qa7+ 33. Kh2 Bf4+ 34. Kh1 Qa8 {Prevents Re8.} 35. Rxg6+ $1 {Demolition} hxg6
+(35... Kh8 36. Qxa8 )36. Qxg6+ Kh8 37. Ng5 {Inhibits Ne4.} Qa7 {Wards off Qh7+}
+38. Qh5+ {White is clearly winning.} Kg8 39. Ne6 {Prevents Qg7} Bd6 40. Qg5+ Kh8
+41. a4 {(Beauty=9.8). Weighted Error Value: White=0.01 (flawless) /Black=0.23
+(precise) . Inaccurate: --- Black=1 OK: White=26 Black=7 Best: White=3 Black=2}
+1-0
+```
 
 # ICCF Rating
 

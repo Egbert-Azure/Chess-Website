@@ -75,7 +75,43 @@ By following these steps, you can transform your game analysis into a powerful t
 My latest game in this tournament with example of notes. Not heavily, but I think you can see the thought process. I don't rely on MegaDatabase but Ultracorr too in evaluating potential moves, but also for aftermath analysis.
 <br>
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=TkAwUdov+jN7HZHWSN6yCQy0GtKP9PX5rNfWbIXCF8lsDRq+kXP+vSGwpQ/7XOOA'></iframe>
+```pgn
+[Event "CL/2024/C2"]
+[Site "ICCF"]
+[Date "2024.02.25"]
+[Round "?"]
+[White "Schroeer, Egbert"]
+[Black "Abreu Concepción, Yohan R."]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2137"]
+[BlackElo "1800"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "77"]
+[GameId "2067700935499993"]
+[EventDate "2024.??.??"]
+[WhiteTeam "FSB Thuringia I"]
+[BlackTeam "Piratas del Caribe"]
+
+1. Nf3 d5 2. e3 Nf6 {[%cal Bg8f6,Bf6d5,Bd5b4]} 3. c4 e6 4. Nc3 {one of my main
+lines} Be7 {out of theory and my repertoire. We are on our own} 5. b3 O-O 6. Bb2
+c5 {6...c5 is better than 6...b6.} 7. cxd5 Nxd5 {The position is equal.} 8. Qc2
+{A13: English Opening: 1...e6.} b6 9. h4 Nb4 10. Qe4 N8c6 11. a3 ({And not} 11.
+Ng5 f5 12. Qf3 h6 $17) 11... f5 {½-½ Truyens,A (2319)-Depasse,J (2333) BEL/C78
+(BEL) corr ICCF 2022 the game of Truyens vs Depasse ended in a draw} 12. Qb1 Nd5
+13. Nxd5 $5 {try to find a way to avoid the draw. Truyens played Qc2. Nxd5 might
+give Black a better position?} exd5 14. Be2 $146 ({Predecessor:} 14. d4 Bf6 15.
+Bb5 Ne7 16. dxc5 bxc5 17. O-O Qd6 18. Bxf6 Rxf6 19. Rd1 Rb8 20. Be2 {1-0 Le,Q
+(2706)-Dominguez Perez,L (2752) Hengshui IMSA rapid 2019 (8)}) 14... Bf6 15.
+Bxf6 Qxf6 16. O-O h6 17. Qd3 Be6 18. Qc3 Qxc3 19. dxc3 Kf7 20. b4 Kf6 21. Rfb1
+g5 22. a4 g4 23. Ne1 {[%cal Bf3e1,Be1d3,Bd3f4]} cxb4 24. cxb4 d4 25. Nd3 Rfd8
+26. a5 dxe3 27. fxe3 Ne5 28. Nf4 Ng6 29. Nh5+ Ke5 30. g3 Rd2 31. Nf4 Nxf4 32.
+exf4+ Kd4 33. Rd1 Rxd1+ 34. Rxd1+ $10 {KRB-KRB} Kc3 $1 35. axb6 axb6 36. Rd6
+{[%csl Rb6,Re6]} Bc4 37. Bxc4 $1 Kxc4 38. Rxb6 Ra3 39. Kf2 {A balanced but
+interesting game. Weighted Error Value: White=0.01 (flawless) /Black=0.00
+(flawless) . OK: White=17 Black=19 Best: --- Black=1 Strong: White=1 Black=1}
+1/2-1/2
+```
 
 <br>
 <br>

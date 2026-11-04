@@ -52,9 +52,46 @@ I highly recommend to check out more episodes of "Svitlana's Smart Moves" with S
 
 Here is an example to showcase. White's response is called the "Austrian Attack - I. A. 6. e5 Nfd7
 
+```pgn
+[Event ""]
+[White "Pirc Defence: Austrian"]
+[Black "Attack   I. A. 6. e5 Nfd7"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date "2022.10.16"]
+[PlyCount "28"]
 
-<iframe style='border: 0;' width='800px' height='520px' src='https://share.chessbase.com/SharedGames/frame/?p=E2K7YGzcwKmOVtjGt7/mUD6WN6nNGkkZzJafcnI0VYrkPcb6F25ujHkQf8SqZGfq'></iframe>
-
+1. e4 d6 2. d4 Nf6 {We start with our Pirc set-up. our knight attacks e4, so
+White should defend.} 3. Nc3 (3. e5 $2 {would lead to trouble for white...} dxe5
+4. dxe5 Qxd1+ 5. Kxd1 Ne4 {with an advantage.} )g6 {We build our strong
+fianchetto on the Kingside.} 4. f4 {in this variation the basic idea is shown
+best. White likes to respond to the defensive approach of Black with a full
+attack. The setup is called Austrian attack} Bg7 5. Nf3 ({1)} 5. e5 dxe5 6. dxe5
+Qxd1+ 7. Kxd1 Ng4 8. Ke1 f6 $1 9. h3 Nh6 10. exf6 exf6 11. g4 Be6 12. Nf3 Nc6
+13. Be3 O-O-O {0-1 Tompa,J-Sapi,L HUN-ch26 Budapest 1970 equal position} )({2)}
+5. Bc4 c5 6. e5 Nfd7 7. Nf3 cxd4 8. Qxd4 O-O {½-½ Ljubojevic,L-Jansa,V
+Olympiad-20 Final A Skopje 1972 (2) with complicated game} )O-O (5... c5 {1)} 6.
+dxc5 ({2)} 6. Bb5+ Bd7 7. e5 Ng4 8. h3 $1 cxd4 9. Qxd4 Bxb5 10. Nxb5 Nc6 11. Qe4
+Qb6 $1 12. Qe2 Nh6 13. Be3 Qa5+ 14. Bd2 Qb6 15. g4 $2 dxe5 16. fxe5 a6 17. Nc3
+Qxb2 18. Rb1 Qxc2 19. Kf2 Rd8 20. Rhc1 Qd3 21. Qxd3 Rxd3 22. Rxb7 O-O 23. Nb1 f5
+{Grodzensky,S-Kudinov,I corr 1975 and Black has the initiative} )Qa5 7. Bd3 Qxc5
+8. Qe2 O-O 9. Be3 Qa5 10. O-O Bg4 11. Rad1 Nc6 12. Bc4 Nh5 {Fischer's idea} 13.
+Bb3 Bxc3 14. bxc3 Qxc3 15. f5 Na5 16. Bd4 Qc7 {0-1 Gligoric,S-Hort,V Olympiad-20
+Final A Skopje 1972 (2)} )6. e5 {The sharpest weapon against black. White likes
+to strangle Black in the center, then move to king side attack.} Nfd7 7. h4 {1-0
+Bronstein,D-Palmiotto,F Olympiad-13 Preliminaries A 1958 (4) Bronstein played
+this move first 1958 against Palmiotti in Munich} c5 8. h5 cxd4 {now White need
+to decide moving forward with Qxd4 or sacrifice a piece with hxg6 a)} 9. Qxd4
+({b)} 9. hxg6 {a sharp continuation and more complications} dxc3 10. gxf7+ Rxf7
+11. Bc4 {0-1 Sutovsky,E (2700)-Ivanchuk,V (2768) FIDE World Cup Khanty-Mansiysk
+2011 (3.2)} Nf8 12. Bxf7+ Kxf7 13. Ng5+ Kg8 14. Qh5 h6 15. Qf7+ Kh8 16. Qb3 $1
+Qa5 17. Nf7+ {½-½ Nadyrhanov,S (2467)-Tseshkovsky,V (2556) Sarkisov Memorial
+Krasnodar 1999 (3.2) White can now give permanent chess, which seems to be the
+best} )dxe5 10. Qf2 $1 e4 $1 11. Ng5 Nf6 12. hxg6 hxg6 13. Ncxe4 Nxe4 14. Nxe4
+Qd4 $1 {Black stopped the attack, position is equal} 0-1
+```
 
 > Source: Aleksei Suetin, Lehrbuch der Schachtheorie Band 1, page 326
 
@@ -102,7 +139,46 @@ Roberto Pinos Rubio's feedback to me was golden and spot on.
 
 ## Famous Game Example: Fischer-Spassky - Match of the Century 1972
 
-<iframe style='border: 0;' width='800px' height='520px' src='https://share.chessbase.com/SharedGames/frame/?p=OOt8ggcYWVezJ9MPSHS6R+uLfjyYgYnS6FQQbBmj7C4IEVdnMcWONNRN7iMfDw+K'></iframe>
+```pgn
+[Event "World-ch27 Fischer-Spassky +7-3=11"]
+[Site "Reykjavik"]
+[Date "1972.08.22"]
+[Round "17"]
+[White "Spassky, Boris Vasilievich"]
+[Black "Fischer, Robert James"]
+[Result "1/2-1/2"]
+[ECO "B09"]
+[BlackElo "2785"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "89"]
+[EventDate "1972.07.11"]
+[EventType "match"]
+[EventRounds "21"]
+[EventCountry "ISL"]
+[SourceTitle "MainBase"]
+[Source "ChessBase"]
+[SourceDate "1999.07.01"]
+[SourceVersion "2"]
+[SourceVersionDate "1999.07.01"]
+[SourceQuality "1"]
+
+1. e4 d6 {Fischer never played the Pirc defense before} 2. d4 g6 3. Nc3 Nf6 4.
+f4 {Spassky never played this line before} Bg7 5. Nf3 c5 6. dxc5 Qa5 7. Bd3 Qxc5
+8. Qe2 O-O 9. Be3 Qa5 10. O-O Bg4 11. Rad1 $146 (11. h3 Bxf3 12. Qxf3 Nc6 13.
+Kh1 Nd7) ({Predecessor:} 11. h3 Bxf3 12. Qxf3 Nc6 13. Kh1 Nd7 14. Bd2 Nc5 15. a3
+Nd4 16. Qe3 Nxd3 17. Qxd3 Qd8 18. Rad1 Rc8 19. Nd5 e6 20. Ne3 f5 21. c3 fxe4 22.
+Qxe4 {½-½ Andersson,U-Ljungqvist,L SWE-ch Sundsvall 1969}) 11... Nc6 {B09: Pirc
+Defence: Austrian Attack.} 12. Bc4 Nh5 $5 13. Bb3 $5 Bxc3 14. bxc3 Qxc3 15. f5
+Nf6 $5 16. h3 Bxf3 17. Qxf3 Na5 $1 18. Rd3 Qc7 19. Bh6 Nxb3 20. cxb3 (20. axb3
+Qc5+ 21. Kh1 Qe5) 20... Qc5+ 21. Kh1 Qe5 {[%cal Yf6e4]} 22. Bxf8 Rxf8 23. Re3
+Rc8 24. fxg6 $6 hxg6 25. Qf4 Qxf4 26. Rxf4 $10 {Endgame. KRR-KRN} Nd7 $1 27. Rf2
+Ne5 28. Kh2 Rc1 29. Ree2 {Strongly threatening Rc2.} Nc6 30. Rc2 Re1 31. Rfe2
+Ra1 32. Kg3 Kg7 {...Nd4 would now be deadly.} 33. Rcd2 {Prevents Nd4} Rf1 34.
+Rf2 Re1 35. Rfe2 Rf1 36. Re3 a6 37. Rc3 Re1 38. Rc4 Rf1 39. Rdc2 Ra1 40. Rf2 Re1
+41. Rfc2 g5 42. Rc1 Re2 43. R1c2 Re1 44. Rc1 Re2 45. R1c2 {Weighted Error Value:
+White=0.06 (flawless) /Black=0.05 (flawless) . Inaccurate: White=1 --- OK:
+White=12 Black=16} 1/2-1/2
+```
 
 ## Looking Ahead
 

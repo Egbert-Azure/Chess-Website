@@ -74,8 +74,73 @@ Christophe David-Bordier is a recognized player in the world of correspondence c
 Christophe played an opening as White which is close to my repertoire, and I was pretty confident. As you can see, it's going a bit back and forth until his brilliant move 42. h5!
 However, the root cause for my troubled position was earlier. My move 27... c6 should have been 27... b6. However, his position was very strong already.
 
-<iframe style='border: 0;' width='800px' height='500px' src='https://share.chessbase.com/SharedGames/frame/?p=hgL+si8jvcUWl/NmY0gI5fkdd9sXPLmLOkmuT9f0SiTnfsUO2f/KWWdxfKvlBo/9'></iframe>
+```pgn
+[Event "VWC 13/SF 9"]
+[Site "ICCF"]
+[Date "2023.06.15"]
+[Round "?"]
+[White "David-Bordier, Christophe"]
+[Black "Schroeer, Egbert"]
+[Result "1-0"]
+[ECO "E97"]
+[WhiteElo "2374"]
+[BlackElo "2114"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "141"]
+[EventDate "2023.??.??"]
 
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 O-O 6. Be2 e5 7. O-O Nc6 8. d5 Ne7
+9. b4 Nh5 10. Re1 f5 11. a4 {E97: King's Indian: Classical Main Line (6...e5 7
+0-0 Nc6): 8 Be3 and 8 d5 Ne7, not 9 Ne1.} a5 {11...h6 is a critical line.} 12.
+bxa5 Rxa5 13. Bd2 {White is better.} Nf6 {[%cal Bh5f6,Bf6e4,Be4f2]} 14. Ng5 h6
+15. Ne6 Bxe6 16. dxe6 fxe4 17. Nxe4 {[%csl Ya5] Discovered Attack} Nxe4 {[%csl
+Yf2] Discovered Attack} 18. Bxa5 Nxf2 19. Qc2 d5 $146 ({Predecessor:} 19... Nc6
+20. Qxg6 Rf6 21. Qh5 Nxa5 22. Rf1 Ne4 23. Bf3 d5 24. Rad1 Nxc4 25. Bxe4 Rxf1+
+26. Rxf1 dxe4 {½-½ Vekelis,G (2412)-Rallabandi,P (2486) EU-chT12 sf2 email ICCF
+email 2021}) 20. Rab1 (20. cxd5 $6 Qxd5 21. Qd2 (21. Qxc7 Nh3+ 22. gxh3 Qd4+ 23.
+Kh1 Qd5+ 24. Kg1 Qd4+ 25. Kh1 Qd5+ 26. Kg1 $10) (21. Bxc7 $2 Qd4 $19) 21... Qc5
+$10) 20... e4 21. Rf1 (21. Rxb7 Qa8 22. Bb6 (22. Rxc7 $2 Qxa5 23. Rb1 Bd4 $19)
+(22. Rb5 $2 c6 $19) 22... Qxb7 $17 (22... cxb6 23. Rxe7 Bd4 24. cxd5 $10)) 21...
+d4 22. Rxf2 Rxf2 23. Qxe4 (23. Kxf2 d3 24. Bxd3 exd3 $14) 23... Rf5 24. Rb5 Qd6
+25. Bd3 Qa3 26. Qe2 {Active counter play!} (26. Bxc7 $2 Qc1+ (26... Qxa4 $2 27.
+Rb1 $18) (26... Qxa4 $2 27. Rb1 $18)) 26... Rxb5 27. cxb5 {[%cal Ye2f1]} c6 28.
+Bd8 {Bxe7 would now be deadly.} cxb5 29. axb5 (29. Bxb5 d3 (29... Qc1+ 30. Kf2
+$10) 30. Qd1 (30. Bxd3 $2 Qa1+ 31. Kf2 Qd4+ 32. Kf1 Qxd8 $19) 30... d2 31. Qxd2
+Qa1+ 32. Kf2 Qf6+ 33. Kg1 Qa1+ 34. Kf2 Qf6+ 35. Kg1 Qa1+ $10) 29... Qc1+ 30. Kf2
+Qf4+ 31. Qf3 Qd2+ 32. Be2 Nf5 {[%cal Yd4d3]} 33. e7 (33. Qxb7 $2 d3 34. Qe4 dxe2
+(34... Qxe2+ 35. Qxe2 dxe2 36. b6 $17) 35. Qxe2 Qxd8 $19) 33... Qe3+ 34. Kf1
+{Some like it hot} Qe5 35. Bc4+ (35. Qxb7 $6 d3 36. e8=Q+ (36. Bxd3 Qf4+ 37. Qf3
+Qc1+ 38. Ke2 Qb2+ 39. Kf1 Qc1+ 40. Kf2 Bd4+ 41. Ke2 Qb2+ 42. Kf1 Qc1+ 43. Ke2
+Qb2+ 44. Kf1 Qc1+ 45. Ke2 $10) 36... Qxe8 37. Qd5+ (37. Bxd3 $2 Qxd8 38. Qe4 Kh7
+$19) 37... Kh7 38. Qxd3 Qe5 $10) 35... Kh7 36. Qe2 (36. Qxb7 $2 Ne3+ (36... Qxh2
+$2 37. e8=Q $18) 37. Kg1 Nxc4 $19) 36... Qf4+ 37. Kg1 Qc1+ 38. Qf1 Qe3+ 39. Qf2
+Qc1+ 40. Bf1 Nd6 {[%cal Yd4d3]} 41. h4 {[%cal Bh2h4,Bh4h5]} d3 {[%cal Yd3d2]
+Threatens to win with ...d2!} (41... Nxb5 42. e8=Q (42. e8=R Nd6 $18) 42... Nd6
+43. Qe6 Qc6 44. Qg3 (44. Bd3 Nf5 $18) 44... Qe8 45. Qgxd6 (45. Qexd6 g5 46. Bd3+
+Kg8 47. Qd5+ Kh8 48. Qf5 Kg8 49. Qh7+ Kf7 50. Qc7+ {Skewer} Qd7 51. Qxd7+ Kf8
+52. Qhxg7#) 45... Qxe6 46. Qxe6) 42. h5 $1 Ne8 (42... Nxb5 43. hxg6+ (43. e8=R
+Bd4 $10 {Pin}) 43... Kxg6 44. e8=Q+ Kh7 45. Qf5#) (42... gxh5 $2 43. Bc7 Ne8
+(43... Qxc7 44. Bxd3+ Kg8 45. Qa2+ Nf7 46. Bh7+ {Decoy, Promotion} Kxh7 47.
+Qb1+) 44. Qf5+ (44. Bf4 Qc3 $16) 44... Kg8 45. Qd5+ (45. Ba5 Qe3+ 46. Kh1 Qxe7
+$10) 45... Kh8 46. Qd8 (46. Qxh5 $2 Bd4+ 47. Kh2 Qxc7+ $19) 46... Qc5+ 47. Kh2
+(47. Kh1 Qxb5 48. Bxd3 Qc6 $18) 47... Qxb5 (47... Qxc7+ $2 48. Kh3 $18) 48. Bxd3
+$18 (48. Qxd3 Qxd3 49. Bxd3 Nxc7 $17)) (42... d2 $2 43. hxg6+ Kxg6 (43... Kh8
+44. Qf8+ {Back Rank} Bxf8 45. exf8=Q#) 44. Qg3+ Kf7 45. Qxd6 $18) 43. Ba5
+{Against d2} Bf6 ({But not} 43... Nd6 $2 44. hxg6+ (44. Qb6 gxh5 45. Qxd6 Qe3+
+46. Kh1 Bd4 $18) 44... Kxg6 45. Bb4 $18 (45. Qg3+ Kf7 $18)) 44. Bd2 Qc4 45. Qf3
+{[%csl Rb7,Rd3]} Qc5+ 46. Kh1 Qxh5+ 47. Qxh5 gxh5 48. Bxd3+ $18 {Endgame.
+KBB-KBN} Kg7 49. Be4 Bxe7 50. Bxb7 {A strong pair of Bishops.} Nd6 51. Bc6 Nf5
+52. Kh2 {Prevents Ng3.} Bd8 53. Bc3+ Kg6 54. Kh3 Kg5 55. Be4 Kf4 56. Bd3 Bb6 57.
+Bd2+ Ne3 58. Bg6 Ke5 59. Bxh5 Ke4 60. Be2 Bc7 61. Bc1 Nf5 62. Bf3+ Kd3 63. Bb7
+Kc2 64. Ba3 Bb6 {Repels Bc5} 65. Bf8 {Black must now prevent Be4+.} Kb3 66. g4
+Nd4 67. Bxh6 {Be3 is the strong threat.} Nxb5 68. g5 {Hoping for Bg7.} Be3 69.
+Kg4 Bxg5 70. Bd5+ Kc3 {The game is a win for White because white could claim a
+win due to 7 piece tablebases. With move 71. no draw po is possible, therefore,
+Balck resigned. The 50 moves rule is excluded, because less than seven pieces on
+board.} 71. Bg7+ {Weighted Error Value: White=0.05 (flawless) /Black=0.05
+(flawless) . Inaccurate: White=2 Black=4 OK: White=27 Black=30 Best: White=14
+Black=12 Brilliant: White=1 ---} 1-0
+```
 
 The game is a win for White because white could claim a win due to 7 piece tablebases. With move 71. no draw is possible, therefore, Black resigned. The 50 moves rule is excluded, because less than seven pieces on the board.
 

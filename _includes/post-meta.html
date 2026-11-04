@@ -1,6 +1,12 @@
 {%- comment -%} Date and reading time for a post. Pass post=... {%- endcomment -%}
 {%- assign p = include.post -%}
 {%- assign words = p.content | number_of_words -%}
+{%- comment -%} Games (```pgn blocks) are played through, not read: leave them out of the reading time. {%- endcomment -%}
+{%- assign game_parts = p.content | split: '<div class="language-pgn' -%}
+{%- for part in game_parts offset: 1 -%}
+  {%- assign game_words = part | split: '</code>' | first | number_of_words -%}
+  {%- assign words = words | minus: game_words -%}
+{%- endfor -%}
 {%- if words < 360 -%}{%- assign minutes = 1 -%}{%- else -%}{%- assign minutes = words | divided_by: 180 | floor -%}{%- endif -%}
 {%- if p.date -%}<time datetime="{{ p.date | date_to_xmlschema }}">{{ p.date | date: "%-d %B %Y" }}</time>, {% endif -%}
 {{ minutes }} min read

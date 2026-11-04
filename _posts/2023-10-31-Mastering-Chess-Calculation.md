@@ -80,7 +80,7 @@ You should train some tactics. Repeating what I said, tactics training is the co
 Here you go! 
 
 <p align="center" style="text-align:center;">
-    <iframe src="https://livetactics.chessbase.com" width="400" height="440"></iframe>
+    <iframe src="https://lichess.org/training/frame?theme=brown&bg=system" style="width: 400px; height: 444px; border: 0;" title="Lichess puzzle of the day"></iframe>
 </p>
 
 Alternatively, you train and studying key positions from games, the electronic version is like using strategic flashcards.
