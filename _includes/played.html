@@ -1,0 +1,6 @@
+{%- comment -%} When a tournament ran, e.g. "Feb 2024 – Jan 2025" or "since Mar 2026". Pass t=... {%- endcomment -%}
+{%- assign t = include.t -%}
+{%- if t.status == "running" -%}since {{ t.start | date: "%b %Y" }}
+{%- elsif t.end -%}{{ t.start | date: "%b %Y" }} – {{ t.end | date: "%b %Y" }}
+{%- elsif t.start -%}{{ t.start | date: "%Y" }}
+{%- endif -%}

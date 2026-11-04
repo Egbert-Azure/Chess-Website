@@ -1,0 +1,136 @@
+---
+layout: page
+title: Tournaments
+permalink: "/tournaments/"
+date: 2023-08-06
+image: '/images/tournament.jpg'
+tags: [chess, USCF, ICCF, tournament]
+---
+{%- comment -%}
+  Everything below comes from _data/tournaments.yml, which is rebuilt from
+  ICCF with _tools/tournaments (see the README there). No results are typed in here.
+{%- endcomment -%}
+{%- assign data = site.data.tournaments -%}
+{%- assign events = data.events -%}
+{%- assign running = events | where: "status", "running" -%}
+{%- assign finished = events | where: "status", "finished" -%}
+{%- assign knights = events | where: "group", "ek" -%}
+{%- assign solo = finished | where: "group", "tournament" -%}
+{%- assign team = finished | where: "group", "team" -%}
+{%- assign cycles = knights | group_by: "cycle" | sort: "name" | reverse -%}
+{%- assign opponents = site.tournaments | where_exp: "d", "d.path contains 'My Opponents'" | first -%}
+
+<p class="credit">Photo by <a href="https://unsplash.com/@eugenechystiakov?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Eugene Chystiakov</a> on <a href="https://unsplash.com/photos/chess-pieces-on-chess-board-sRRhKMeCeXY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+
+<p>Welcome to my world of competitive chess! In this section, you will find updates and results from various chess tournaments I have participated in.</p>
+
+<p class="facts">ICCF {{ data.player.title }} · rating {{ data.player.rating }} · {{ events.size }} tournaments since 2021 · {{ running.size }} running · <a href="https://www.iccf.com/player?id={{ data.player.iccf }}">ICCF profile</a></p>
+
+<nav class="toc" aria-label="On this page">
+  {%- if running.size > 0 %}<a href="#running">Running now</a>{% endif %}
+  <a href="#electronic-knights">Electronic Knights</a>
+  <a href="#iccf">ICCF tournaments</a>
+  <a href="#team">Team matches</a>
+  <a href="#annotated-games">Annotated games</a>
+</nav>
+
+{%- if running.size > 0 %}
+<h2 id="running">Running now</h2>
+<div class="results-wrap">
+<table class="results">
+  <thead><tr><th>Tournament</th><th>Started</th><th class="num">Score so far</th><th class="num">Games left</th><th></th></tr></thead>
+  <tbody>
+  {%- for t in running %}
+    <tr>
+      <td>{{ t.name }}{% if t.section %} <span class="code">{{ t.section }}</span>{% endif %}{% if t.board %} <span class="code">Board {{ t.board }}</span>{% endif %}</td>
+      <td>{{ t.start | date: "%b %Y" }}</td>
+      <td class="num">{% if t.played > 0 %}{{ t.score }} from {{ t.played }}{% else %}–{% endif %}</td>
+      <td class="num">{{ t.left }}</td>
+      <td><a href="https://www.iccf.com/event?id={{ t.iccf }}">Crosstable</a></td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+</div>
+{%- endif %}
+
+<h2 id="electronic-knights">Electronic Knights (US Chess)</h2>
+<p>In USCF tournaments, you play one game with each opponent for six games, 3 with White and 3 with Black. Electronic Knights moved to ICCF Server, but played under USCF rules and rankings.{% if opponents %} <a href="{{ opponents.url | relative_url }}">How the rounds work</a>.{% endif %}</p>
+
+<div class="results-wrap">
+<table class="results">
+  <thead><tr><th>Round</th><th>Played</th><th class="num">Score</th><th>Place</th><th></th></tr></thead>
+{%- for cycle in cycles %}
+{%- assign rows = cycle.items | sort: "stage_order" %}
+  <tbody>
+    <tr class="group"><th colspan="5" scope="rowgroup">{{ cycle.name }}</th></tr>
+  {%- for t in rows %}
+    {%- assign annotated = site.tournaments | where: "section", t.section %}
+    <tr{% if t.status == "running" %} class="is-running"{% endif %}>
+      <td>{{ t.stage }} <span class="code">{{ t.section }}</span></td>
+      <td>{% include played.html t=t %}</td>
+      <td class="num">{% if t.status == "running" %}{% if t.played > 0 %}{{ t.score }} from {{ t.played }}{% else %}–{% endif %}{% else %}{{ t.score }}/{{ t.games }}{% endif %}</td>
+      <td>{% if t.status == "running" %}running{% else %}{% include place.html t=t %}{% endif %}</td>
+      <td class="links">
+        {%- if t.iccf %}<a href="https://www.iccf.com/event?id={{ t.iccf }}">Crosstable</a>{% elsif t.note %}<span class="muted">{{ t.note }}</span>{% endif %}
+        {%- if annotated.size > 0 %} <a href="#games-{{ t.section }}">{{ annotated.size }} annotated game{% if annotated.size > 1 %}s{% endif %}</a>{% endif -%}
+      </td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+{%- endfor %}
+</table>
+</div>
+
+<h2 id="iccf">ICCF tournaments</h2>
+<div class="results-wrap">
+<table class="results">
+  <thead><tr><th>Tournament</th><th>Played</th><th class="num">Score</th><th>Place</th><th></th></tr></thead>
+  <tbody>
+  {%- for t in solo %}
+    <tr>
+      <td>{{ t.name }}</td>
+      <td>{% include played.html t=t %}</td>
+      <td class="num">{{ t.score }}/{{ t.games }}</td>
+      <td>{% include place.html t=t %}</td>
+      <td class="links"><a href="https://www.iccf.com/event?id={{ t.iccf }}">Crosstable</a></td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+</div>
+
+<h2 id="team">Team matches for the USA</h2>
+<div class="results-wrap">
+<table class="results">
+  <thead><tr><th>Match</th><th>Board</th><th>Played</th><th class="num">Result</th><th></th></tr></thead>
+  <tbody>
+  {%- for t in team %}
+    <tr>
+      <td>{{ t.name }}</td>
+      <td class="num">{{ t.board }}</td>
+      <td>{% include played.html t=t %}</td>
+      <td class="num">{% if t.result %}{{ t.result }}{% else %}{{ t.score }}/{{ t.games }}, {% include place.html t=t %}{% endif %}</td>
+      <td class="links"><a href="https://www.iccf.com/event?id={{ t.iccf }}">Crosstable</a></td>
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+</div>
+
+<h2 id="annotated-games">Annotated games</h2>
+<p>Games I annotated, to replay on the board.</p>
+{%- assign in_order = knights | sort: "key" %}
+{%- for t in in_order %}
+{%- assign annotated = site.tournaments | where: "section", t.section %}
+{%- if annotated.size > 0 %}
+<h3 id="games-{{ t.section }}">{{ t.name }} <span class="code">{{ t.section }}</span></h3>
+<ul class="game-list">
+  {%- for g in annotated %}
+  <li><a href="{{ g.url | relative_url }}">Against {{ g.name }}</a></li>
+  {%- endfor %}
+</ul>
+{%- endif %}
+{%- endfor %}
+
+<p class="muted updated">Results from ICCF, updated {{ data.updated | date: "%-d %B %Y" }}.</p>
