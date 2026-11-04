@@ -52,7 +52,43 @@ Both players made nearly flawless moves, with minimal errors (Weighted Error Val
 
 Enjoy the fully annotated game with sidelines calculated.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=rMzGxrPtj605Wtd0aFvovC31T0Prn0Oim+U9qR0HAVvISPMLOZBBBDwA0yPIXmly'></iframe>
+```pgn
+[Event "RoW Championship 2024 Semi-Final  4"]
+[Site "ICCF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schroeer, Egbert"]
+[Black "Hassim, Unes"]
+[Result "1/2-1/2"]
+[ECO "A13"]
+[WhiteElo "2165"]
+[BlackElo "2425"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "39"]
+[GameId "2103288925138472"]
+[EventDate "2024.09.30"]
+[EventType "corr"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 c5 {[%cal Bc7c5,Bc5d4]} 5. Bb2 Nc6 6. cxd5
+exd5 7. Be2 {The position is equal.} d4 {A13: English Opening: 1...e6. still in
+my prep with exd4} 8. exd4 $1 {now scores much better than the old 8.Bb5.} cxd4
+{d3 looms as a decisive threat.} (8... Nxd4) 9. Bb5 {[%cal Ye1g1] 0-0! eyes a
+pivotal maneuver.} Bc5 10. Qe2+ Be6 {Threatens to win with ...0-0.} 11. Bxc6+
+bxc6 12. Qe5 {[%csl Rc5,Rd4];½-½ Schroeer,E (2114)-Duszynski,J (2401) Veterans
+World Cup13 sf09 corr ICCF 2023 ICCF 2023} Bd6 (12... Qd5 13. Bxd4 Bxd4 14. Qxd4
+{Nc3 poses a crucial intent.} O-O-O $1 15. Qxa7 {And now Nc3 would win.} Bg4
+{Rhe8+ looms as a decisive danger.} 16. Qa6+) 13. Qxd4 O-O 14. O-O Bd5 15. Qh4
+Bxf3 {This pair of bishops is nice.} 16. Bxf6 gxf6 17. gxf3 f5 $146 (17... Be5
+18. Nc3 Qd3 {[%cal Yg8h8] Kh8! is now a decisive menace.} 19. Rae1 {Hoping for
+Re3.} Kh8 20. Ne4 Qxf3 21. Ng3 {aiming for d4.} Rad8 22. Re3 Qd5 {[%cal Yf8g8]}
+23. d3 Rg8 {Threatens to win with ...f5.} 24. Qe4 Qxe4 25. dxe4 Rd2 26. a3 Ra2
+27. a4 c5 28. Kg2) ({Predecessor:} 17... Be5 18. Nc3 Kh8 19. Rae1 Qd3 20. Ne4
+Rg8+ 21. Ng3 Qxf3 22. Re3 Qd5 23. Rd1 f5 {½-½ Keymer,V (2700)-Andreikin,D (2729)
+Titled Tuesday intern op 18th Oct Early Chess.com INT blitz 2022 (8)}) 18. Qxd8
+Raxd8 19. Nc3 Rfe8 20. Rfe1 {Not much happened in this game. Weighted Error
+Value: White=0.01 (flawless) /Black=0.00 (flawless) . OK: White=11 Black=6 Best:
+White=1 --- we agreed on a draw} 1/2-1/2
+```
 
 <br>
 <br>

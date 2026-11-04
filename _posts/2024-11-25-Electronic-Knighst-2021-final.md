@@ -92,8 +92,101 @@ This might be my fourth game against Michael in correspondence chess, and as alw
 
 Have a look at the annotated game below for a detailed move-by-move breakdown, including my thoughts and variations during the game. 
 I then captured, highlighted and reflected on the critical moments.
- 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=XKWkcm88uIVa61Rbf3uXVBDxmTe/ktOY6DlFK2bloa3D6V1lcFOFt2qToLCHIa8t'></iframe>
+
+
+```pgn
+[Event "USCF/2021 Electronic Knights Final/21ENf01"]
+[Site "ICCF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schroeer, Egbert"]
+[Black "Buss, Michael D"]
+[Result "1/2-1/2"]
+[ECO "A34"]
+[WhiteElo "2137"]
+[BlackElo "2154"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "126"]
+[GameId "489232844374"]
+[EventDate "2024.01.19"]
+[EventType "corr"]
+
+1. Nf3 g6 2. e4 (2. c4 Bg7 3. Nc3 c5 4. e3 Nf6 5. Be2 O-O 6. O-O d5) 2... Bg7
+{Pushing me out of my comfort zone and main line?} 3. d4 c5 4. c4 Qa5+ 5. Nc3
+Nc6 6. d5 {1-0 Koestner,W (2314)-Bendig,F (2309) BdF/Diamant/10 (GER) corr ICCF
+2019 ICCF to 2022} Nd4 7. Bd2 Nxf3+ 8. Qxf3 d6 9. Be2 {A40: Unusual replies to 1
+d4.} Nf6 {[%cal Bg8f6,Bf6e8,Be8g7]} 10. h3 {½-½ Laube,B (2405)-Baklanov,V (2461)
+Baltic Sea tt8 bd4 corr ICCF 2008 [4] ICCF to 2022} O-O 11. O-O {White is
+better.} Qb6 $146 {Baklanov layed here 11... a6} ({Predecessor:} 11... a6 12.
+Rab1 Qc7 13. Qd3 Bd7 14. b4 b6 15. Rfc1 Rfb8 16. Bg5 Be8 17. Qe3 cxb4 18. Rxb4
+{½-½ Laube,B (2405)-Baklanov,V (2461) Baltic Sea tt8 B04 email ICCF email 2008})
+12. b3 a6 {[%cal Gf3g3,Gf2f4]} 13. Qg3 Qd8 14. Rad1 Ne8 15. f4 Rb8 ({Black
+should try} 15... Bd7 16. Bd3 Bd4+ 17. Kh1 Qc7) 16. Bd3 Qc7 17. Kh1 Bd7 18. a4
+Bd4 19. Qf3 {let the pawn roll to g4} Ng7 20. Ne2 {Nxd4 is the strong threat.}
+Bf6 21. g4 ({White should play} 21. Nc3) 21... b5 $16 22. g5 Bd4 23. Nxd4 cxd4
+24. f5 {Hoping for f6.} (24. cxb5 axb5 25. a5 b4 $16) 24... bxc4 25. f6 $1 (25.
+bxc4 $6 e5 $10) 25... exf6 26. gxf6 Nh5 (26... cxd3 $2 27. fxg7 f5 (27... Kxg7
+28. Qf6+ Kg8 29. Bh6 {[%csl Yd3] Discovered Attack} Bxh3 30. Qg7#) 28. gxf8=Q+
+$18 (28. gxf8=B Rxf8 29. Qxd3 Qd8 $18)) 27. Bxc4 {[%cal Yf1g1]} (27. bxc4 $6 Rb3
+$10) 27... Rfe8 {[%cal Ye8e4]} 28. Rg1 {[%cal Yg8h8,Rd2h6] Attacking the ? .
+Only move is Kh8} (28. Bxa6 Rxe4 29. Rf2 Rh4 $17) 28... Kh8 {[%cal Yd7a4]} 29.
+Bh6 (29. Bxa6 Qc2 30. Bd3 Rxb3 $17) 29... Qb6 {[%csl Gb8,Gc8,Gd1,Gf1,Gh5][%cal
+Rg1g5,Rh1h2,Rf3d3,Ye8e5,Ya6a5,Yb6d8] I think Mike made great moves in a row. I
+still like my position. Should I first consider Rg5 in favor of Kh2? Rdf1 is an
+option too, to move Rc1 probably. Rc8 is the thread, Rf1 restrains the Knight on
+h5} 30. Rg5 {And now Rxh5 would win. White is much more active.} Re5 31. Rf1
+{not sure if Kh2 is the better move here. If he takes Rxg5, Bxg5 I can attack
+the Queen side with Rc1?} (31. Rxe5 {31.Rf1 1.00} dxe5 32. d6 $2 (32. Rf1 $1 $10
+{and White is okay.}) 32... Qxd6 $19 33. Bxf7 Qxf6 {is losing}) 31... Qb7 {I
+need to get K to h2 and out of the line of fire. What is the right move order?
+Kh2, Qc8, Rxe5 or Rxe5, dxe5, Kh2 Threat: 32...Rxg5 33.Bxg5 Qb4 34.Rc1 Qa3 +/=}
+32. Rxe5 (32. Qd3 {32.Rxe5 1.07 34...Bb5 hangs the bishop b5, exxchange Q (with
+35.axb5), 36.Bxb5 sacs the trapped piece}) 32... dxe5 33. Kh2 {how to break
+through? Rolling the pawn d6 doesn't work due to the Bishop} Qc8 {[%cal Yd7a4]}
+34. Rc1 (34. Qd3 {34.Qg2 1.05} a5 $1 35. Qd2 Qc5 {doesn't help much}) 34... Qd8
+35. Bxa6 {A strong pair of Bishops.} Qxf6 36. Qxf6+ Nxf6 37. Bb5 $1 Bxb5 38.
+axb5 {Endgame. KRB-KRN. Strongly threatening Rc6.} Kg8 39. Rc6 $1 Nd7 {[%cal
+Yd4d3] I have the feeling I'm losing my positional advantage.} (39... Nxe4 $2
+{39...Nd7 0.83} 40. d6 $1 Nf6 {[%cal Yf6d7]} 41. b6 Nd7 42. b7 $1 {Intending
+Rc8+ and mate.} f5 (42... Rxb7 {42...f6 4.53} 43. Rc8+ {and checkmate}) 43. Rc7
+{I think this line is Black is losing. He can't take the pawn on b7 because of
+checkmate}) (39... Nxe4 $2 40. d6 Nxd6 (40... Rxb5 41. Rc8#) 41. Rxd6 $18) 40.
+Kg2 {Strongly threatening Rc7.} (40. Rc7 Nf6 41. Rc6 $1 Nd7 {[%cal Yd4d3]} 42.
+Kg2 $1 {Black must now prevent Kf1. leads to Kg2 anyway. So I should play Kg2
+right away.} f5 $1 43. Rc7 Nf6 44. Rg7+ $1 Kh8) 40... f5 41. Rc7 Nf6 42. Rg7+ $1
+Kh8 {Hoping for ...Ng8.} 43. d6 $1 Ne8 $1 44. Rd7 Kg8 (44... Rxb5 45. Rd8)
+(44... fxe4 45. b6 $16) 45. b6 $1 {aiming for exf5.} fxe4 {b4 or Kf1? With b4,
+the line would be 46. b4 Rxb6 47. Rd8 Rxd6 48. Rxe8+ with Kf1, Black can play
+e3. I might still then play b4 and end up the same. Not sure what is the
+strongest. Gut feeling retreating the K seems to weaken the position even more}
+(45... Rxb6 $2 46. Rd8 Rxd6 (46... Kf7 $2 47. d7 $18) 47. Rxe8+ Kf7 48. Rxe5
+$18) 46. Kf2 (46. Kf1 $14) 46... e3+ $10 {The position is equal.} (46... Rxb6 $6
+47. Rd8 e3+ (47... Rxd6 $2 48. Rxe8+ Kf7 49. Rxe5 $16) (47... Kf7 $2 48. d7 $18)
+48. Ke1 Rxd6 (48... Kf7 $2 49. d7 $18) 49. Rxe8+ Kf7 50. Rxe5 $16) 47. Ke1
+{Hoping for b4.} Rxb6 {[%cal Yg6g5] ...g5! would now be deadly.} 48. Rd8 Rxd6
+(48... Kf7 $2 49. d7 Nd6 50. Rf8+ Ke6 51. d8=Q $18 (51. d8=B $2 Rxb3 52. Ke2
+Rb2+ 53. Kd1 Rd2+ 54. Kc1 Rh2 $19)) 49. Rxe8+ {KRB-KR} Kf7 50. Rxe5 {And now Bg5
+would win.} Kf6 51. Rg5 {Hoping for Rg4.} Rb6 (51... d3 {[%cal
+Yh6e3,Yd3d2,Yg5g1] 51...Rb6 0.00} 52. Rg1 $1) 52. Rd5 Rb4 $1 53. Ke2 Ke6 $1 54.
+Rd6+ {Decoy} Kf5 (54... Kxd6 $2 55. Bf8+ Kd5 56. Bxb4 $18) 55. Bf8 Rxb3 56. Rxd4
+{Bh6 is the strong threat.} Rb2+ {is it safe to take with Kxe3?} 57. Kf3 (57.
+Kxe3 {Hoping for Rb4.} Rb3+ 58. Rd3 Rxd3+ 59. Kxd3 Kg5 60. Be7+ (60. Ke4 $5 Kh4
+$7 61. Kf3 Kxh3 62. Bh6 $14) 60... Kf4 61. Bf6 $10 {it's a draw} (61. Ke2 $5 g5
+$7 62. Kf2 $18)) (57. Kxe3 Rb8 58. Rf4+ Kg5 59. Be7+ Kh6 $18) 57... g5 {Inhibits
+Rf4+.} 58. Rd5+ (58. Kxe3 Rh2 59. h4 (59. Rd5+ Kg6 $14) 59... Rh3+ 60. Kf2 Rh2+
+61. Kg3 Rxh4 62. Rd5+ (62. Rxh4 gxh4+ 63. Kh3 Ke4 $16) 62... Kg6 $14) 58... Ke6
+59. Rd6+ (59. Rxg5 {[%cal Yg5e5] Black must now prevent Re5+! taking the pawn
+loses the bishop} Rf2+ 60. Kxe3 Rxf8) (59. Rxg5 Rf2+ 60. Kxe3 Rxf8) 59... Kf7
+60. Bh6 e2 61. Kf2 (61. Bxg5 e1=Q (61... e1=B 62. Kg4 $10) 62. Bf4 Qe2+ 63. Kg3
+Qg2+ (63... Qh2+ {Checkmate scenario. is a self mate.} 64. Kg4 Qg2+ 65. Kh4 Rb4
+66. Kh5 Rxf4 67. Rd7+ Ke8 68. Rg7 Qxh3+ 69. Kg5 Qh4#) 64. Kh4 Rb4 65. Rd7+ Ke8
+66. Rxh7 Rxf4+ 67. Kh5 Rf5+ 68. Kh6 Qg5#) 61... Rb3 62. Bxg5 {Strongly
+threatening h4.} Rxh3 63. Kxe2 {Michael rightfully claimed the draw based on
+seven pieces tablebase} h5 {Blacks defense is rewarded with a draw. Weighted
+Error Value: White=0.05 (flawless) /Black=0.03 (flawless) . Mistake: White=2
+Black=1 OK: White=28 Black=26 Best: White=3 Black=7 Strong: White=4 Black=3}
+1/2-1/2
+```
 
 <br>
 
@@ -140,9 +233,70 @@ Stronger emphasis on dynamic play, particularly in the opening and middle game, 
 
 #### Annotated Game 
 
-My thoughts during the game are reflected in the annotations.  
+My thoughts during the game are reflected in the annotations.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=KswIjm3DcIRkdjEWeeq5y4YEb0bFm+5OrWJCDv5b9w21cRldqNECtNdVswQwFmWY'></iframe>
+```pgn
+[Event "USCF/2021 Electronic Knights Final/21ENf01"]
+[Site "ICCF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Weiner, Jerry"]
+[Black "Schroeer, Egbert"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "2157"]
+[BlackElo "2137"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "130"]
+[GameId "489232099681"]
+[EventDate "2024.01.19"]
+[EventType "corr"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2 $5 Nbd7 $5 6. Nf3 $5 Bg7 7. Bh6
+O-O 8. Bxg7 $5 {B08: Pirc Defence: Classical System. B08: Pirc Defence:
+Classical System.} Kxg7 {½-½ Wharrier,J (2434)-Andersen,J (2308) ICCF World
+Cup22 sf6 corr 2019 ICCF to 2022} 9. e5 Nd5 10. Nxd5 {White is slightly better.}
+cxd5 11. O-O-O {½-½ Slavin,A (2364)-Piesik,P (2419) Titled Tuesday intern op
+24th Jan Late Chess.com INT blitz 2023 (1) EXT 2024} Nb6 $146 {After this move,
+we are on our own.} ({Predecessor:} 11... dxe5 12. dxe5 Nb6 13. Nd4 Qc7 14. f4
+Bg4 15. Re1 e6 16. Kb1 Rac8 17. h3 Bf5 18. Nxf5+ exf5 {½-½ Slavin,A
+(2364)-Piesik,P (2419) Titled Tuesday intern op 24th Jan Late Chess.com INT
+blitz 2023 (1)}) 12. Re1 Bf5 $1 13. Bd3 e6 14. Bxf5 Nc4 15. Qb4 ({Better is} 15.
+Qe2 $16 {Threatens to win with Bd3.} exf5 16. b3) 15... a5 $14 16. Qb5 gxf5 17.
+b3 (17. Qxb7 $2 Rb8 18. Qa7 Rxb2 $19) 17... Nb6 18. a4 $36 {White has good
+play.} Qc7 19. exd6 (19. Kb2 {is more complex.} Rfc8 20. Qd3 Nd7 21. g4) 19...
+Qxd6 20. Ne5 Rfc8 21. Kb1 (21. Re3 $16 {aiming for Rg3+.} Rc7 22. Rg3+ Kf8 23.
+Kb2) 21... Qc7 (21... Ra6 $1 $10 {keeps the balance.}) 22. Rc1 $1 $16 {Active
+counter play!} Ra6 23. Ka2 $1 f6 24. Nd3 Nd7 {Prevents Nc5} 25. c4 dxc4 26. Rxc4
+Rc6 27. Rhc1 {[%cal Bh1c1,Bc1c2,Bc2e2]} Qd6 28. Nb2 $5 (28. Qxa5 $6 Rxc4 29.
+Rxc4 Rxc4 30. bxc4 Qxd4 $15 (30... Qxh2 $2 31. Qd8 $18)) (28. Qxb7 $142 {[%cal
+Rc4c6]} Rxc4 29. bxc4) 28... Rxc4 {Remove Defender} 29. Nxc4 (29. Rxc4 Rxc4 30.
+Qxc4 b6 $14) 29... Qd5 (29... Qxd4 30. Qxb7 Rc5 (30... Qxf2+ $2 31. Kb1 $18) 31.
+Rc2 $16) 30. Rc2 (30. Qxa5 $2 {Errs by overreaching. loses.} Qxa5 (30... Qxd4
+31. Rc2 $14) (30... Qxg2 31. Rc2 $16) 31. Nxa5 Rxc1 $19) 30... Qxb5 31. axb5
+{Endgame. KRN-KRN. And now Re2 would win.} Nb6 32. Kb2 Nd5 33. Re2 ({But not}
+33. Nxa5 Rb8 34. Nc4 f4 $16) 33... Re8 34. Nxa5 {Endgame RN-RN} b6 35. Nb7
+{Hoping for Nd6.} Kg6 $1 $10 36. Rc2 Rb8 37. Nd6 {[%cal Rf5f4,Rf6f5]} f4 $1 38.
+Rc6 f5 $1 {Prevents Ne4} 39. Nc4 {always look for potential checks to avoid,
+right? That said, Kf6 it is} Kf6 40. h4 h5 41. b4 $5 Kf7 $1 {The position is
+equal.} 42. Kb3 Ke7 43. Nd6 Rg8 $1 44. Nc8+ Kd7 45. Nxb6+ Nxb6 46. Rxb6 Rxg2
+{KR-KR} 47. Rb7+ Kc8 48. Re7 Rxf2 49. Rxe6 {aiming for Rh6.} Rf3+ 50. Kc4 Rf1 $1
+{The only move and then push the pawn to f3} 51. Re2 {Kc5 is the strong threat.}
+f3 52. Rc2 {Threatens to win with Rc3.} Rh1 53. Rf2 {I could play f4 first,
+White will play d5 and then Rxh4. Or Rxh4 first. I guess the result is the same}
+Rxh4 54. Rxf3 f4 55. Kc5 $5 {Kb7 is the only move, I think. Otherwise I'm in
+trouble and White has an edge} Kb7 {I'm in trouble, will lose another pawn} 56.
+d5 {[%cal Bd4d5,Bd5d6,Bd6d7]} Rg4 {I believe this is the only move, and I
+realize I cannot turn the tide without White making a mistake, aka a blunder. A
+draw would be a good outcome for me.} 57. d6 {Black must now prevent d7.} (57.
+b6 $5 h4 $7 58. Rh3 $16) 57... Rg5+ 58. Kc4 Rg4 $1 59. d7 Kc7 60. Rd3 f3+ 61.
+Kb3 Kd8 {the only move} 62. Rxf3 (62. b6 $5 Rg6 $7 63. b7 $10 (63. Rxf3 Rxb6 64.
+Rg3 Rh6 $10)) 62... Kxd7 63. Rf7+ Kc8 64. Ka4 Kb8 65. b6 h4 {Weighted Error
+Value: White=0.07 (flawless) /Black=0.05 (flawless) . Mistake: White=4 Black=1
+Inaccurate: White=1 --- OK: White=29 Black=27 Best: White=3 Black=13 Strong:
+White=1 Black=7 After this move, I claimed a draw based on the 7 pieces
+tablebase rule.} 1/2-1/2
+```
 
 <br>
 

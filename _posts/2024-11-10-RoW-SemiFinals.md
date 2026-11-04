@@ -74,8 +74,63 @@ The subsequent repetition of checks led to a draw offer, which White accepted. B
 
 ---
 
+```pgn
+[Event "RoW Championship 2024 Semi-Final  4"]
+[Site "ICCF"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Schroeer, Egbert"]
+[Black "Smith, Allyne"]
+[Result "1/2-1/2"]
+[ECO "A17"]
+[WhiteElo "2165"]
+[BlackElo "2388"]
+[Annotator "eschr"]
+[PlyCount "52"]
+[GameId "2103295803632553"]
+[EventDate "2024.09.30"]
+[EventType "corr"]
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=8OP2ub0LziFtKG2Np5d5m427Lm/5JhldXcbOR9uSscVcoZqS/wrKrtRUF4qA8b8+'></iframe>
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. e3 Bd6 5. b3 O-O 6. Bb2 c5 7. cxd5 exd5 8. d4
+{1-0 Keymer,V (2693)-Aronian,L (2759) Julius Baer GenCup Prelim chess24.com INT
+rapid 2022 (5) EXT 2023 I played Be2 first in other tournaments, ending in a
+draw} Nc6 9. Be2 cxd4 10. Nxd4 Nxd4 (10... Re8 11. O-O Nxd4 12. Qxd4 Be5) 11.
+Qxd4 Re8 12. O-O {The position is equal.} (12. Rd1 Be5 13. Qd2 Bf5 14. O-O Rc8)
+12... Be5 {D32: Tarrasch Defence: Sidelines and lines without g3.} 13. Qd2 Be6
+{Recently 13...d4 got a lot of attention.} (13... Bg4 14. Bxg4 Nxg4 15. h3 Nf6
+16. Rfd1 Qa5 17. Rac1 Rad8 18. Na4 Qxd2) 14. Bb5 {after long evaluation I try
+this line, leaving the trotten path.} (14. Rab1 Bf5 15. Rbc1 d4 16. exd4) (14.
+Rac1 Rc8 (14... Qa5 15. Rfd1 Rac8 16. h4 Ne4 17. Nxe4 Qxd2 18. Rxd2 Rxc1+ 19.
+Bxc1) 15. Rfd1 Qa5 16. Bf1 {[%cal Yc3d5]} h6 17. h3 Ne4 18. Nxe4 Qxd2 19. Rxd2
+Rxc1 20. Nf6+) 14... Bd7 (14... Rf8 15. f4 Bc7 16. Ba3 (16. Na4 Qe7 17. Bd4 Rfd8
+18. Bd3 Bd6 19. h3 Bd7 20. Nc3 Bc5 21. Bxc5 Qxc5) 16... Ba5 17. f5 Bc8 18. Bxf8
+Ne4 {Inhibits b4.} 19. Be7 $1 Nxd2 20. Bxd8 Bxc3 21. Bh4 Bxa1 22. Rxa1 Bxf5 23.
+Rd1) 15. Bd3 $146 ({Predecessor:} 15. Bxd7 Qxd7 16. Rad1 Rac8 17. Na4 Qf5 18.
+Bxe5 Qxe5 19. Qd4 Qxd4 20. exd4 Rc2 21. a3 {½-½ Van der Sterren,P (2560)-Van der
+Wiel,J (2570) Hoogovens op Wijk aan Zee 1995 (12)}) 15... Ng4 16. h3 Nh2 $132
+{[%cal Yh2f3] And now ...Nf3+! would win. Black has counterplay} (16... Bh2+ 17.
+Kh1 {[%cal Yf2f3] Threatens to win with f3!} Be5 18. f4 d4 19. fxe5 dxc3 20.
+Qxc3 Nxe5 {is winning}) 17. Rfd1 Qg5 18. f4 {½-½ Croes,G (2362)-Whelan,H (2355)
+WS/MN/A/44 corr ICCF 2023 ICCF 2023} (18. Nxd5 $2 Nf3+ (18... Bxh3 $2 19. Be4
+$19) 19. Kf1 Nxd2+ $19) 18... Nf3+ 19. Kh1 Qh5 20. gxf3 (20. Be2 Nxd2 21. Bxh5
+Bxc3 22. Bxc3 Ne4 23. Be1 Nf6 24. Bf3 Rxe3 25. Bh4 {[%cal Yh4f6]} Bc6 (25... Re6
+26. Bxf6 Rxf6 27. Bxd5 Bc6) 26. Bxf6) 20... Bxh3 $1 (20... Qxh3+ $2 {20...Bxh3
+0.00} 21. Kg1 {White wins}) 21. Kg1 (21. fxe5 Re6 22. Qf2 (22. Nxd5 Qxf3+ 23.
+Kh2 Rh6 24. Nf6+ gxf6 25. Bxh7+ Kh8) 22... Rh6) (21. Nxd5 $2 Bxb2 22. Qxb2 Bg4+
+(22... Qxd5 $2 23. Bxh7+ {[%csl Yd5] Discovered Attack} Kxh7 24. Rxd5 $18) 23.
+Kg1 Bxf3 $19) 21... Re6 22. Kf2 (22. fxe5 $2 Qxf3 23. Qh2 Qxe3+ (23... Rxe5 24.
+Ne4 $16) 24. Kh1 (24. Qf2 Qg5+ 25. Kh1 Rh6 26. Qh2 Bg2+ 27. Kg1 Be4+) 24... Rh6
+$19) 22... Bxf4 23. Nxd5 $1 {[%cal Yh5d5,Rd3h7]} (23. exf4 {gets mated.} Qh4+
+24. Kg1 Qg3+ 25. Kh1 Rh6 26. Bxh7+ Rxh7 (26... Kxh7 {leads to mate.} 27. Qh2
+Bg2+ 28. Kg1 Rxh2 29. Nxd5 Bh3#) 27. Qh2 Bg2+ (27... Qxf3+ 28. Kg1 Rh4 29. Rd2
+Rg4+ 30. Qg3 Rxg3+ 31. Kh2 Rg2+ 32. Kh1 Rxd2+ {[%csl Yh1] Discovered Attack
+(Check)} 33. Kg1 Qg2#) 28. Kg1 Rxh2 29. Nxd5 Bh3#) 23... Bg3+ {Decoy} 24. Kxg3
+Qg5+ $1 25. Kf2 $1 (25. Kh2 Rh6 26. Bxh7+ Kxh7 27. Bxg7 {Remove Defender} Qxg7)
+25... Qg2+ 26. Ke1 Qg1+ {A rather calm draw. Weighted Error Value: White=0.01
+(flawless) /Black=0.00 (flawless) . OK: White=6 Black=10 Best: White=2 ---
+Strong: White=2 Black=2 Black offered a draw which White accepted} (26... Qh1+
+27. Kf2 Qh2+ 28. Ke1) 1/2-1/2
+```
 
 <br>
 <br>

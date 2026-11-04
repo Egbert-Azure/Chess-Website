@@ -52,7 +52,45 @@ We had a pleasant conversation during our game, wishing each other the best for 
 
 I didn't take many notes during the game. It was a busy tournament phase (if this counts as an excuse).
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=tQCgRXKuHZyIpEPyrhr7/W88YieQd4T3M1djEKitMa8Pqv7mDazsLx0wvtaqE6Xu'></iframe>
+```pgn
+[Event "VWC 13/SF 9"]
+[Site "ICCF"]
+[Date "2023.06.15"]
+[Round "?"]
+[White "Schroeer, Egbert"]
+[Black "Zoll, Detlef"]
+[Result "1-0"]
+[ECO "E94"]
+[WhiteElo "2114"]
+[BlackElo "2320"]
+[PlyCount "113"]
+[GameId "2070205799641100"]
+[EventDate "2023.??.??"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. d4 {[%cal Bd2d4,Bd4d5]} O-O 6. Be2 e5
+7. O-O c6 {[%cal Bc7c6,Bc6c5]} 8. d5 Na6 9. h3 {E94: King's Indian: Classical: 6
+Be2 e5 7 0-0: Various Black 7th moves.} Ne8 10. Bg5 {½-½ Peetoom,F
+(2155)-Johansen,A (2386) WS/M/797 corr ICCF 2021 ICCF to 2022} f6 $5 {only one
+game with this position in Mega Database} 11. Be3 $146 {White is better. and
+with this move, we are on our own} ({Predecessor:} 11. Bh4 c5 12. a3 Bd7 13. Ne1
+Qc8 14. Qd2 Kh8 15. Bg3 Rb8 16. Kh1 Nec7 17. Nb5 Nxb5 18. cxb5 {0-1 Williams,L
+(2270)-Bogdanovski,V (2515) EU-Cup 14th Group1 Breda 1998 (3)}) 11... c5 12. g4
+{White is more active.} f5 13. exf5 gxf5 14. gxf5 ({Don't play} 14. Bg5 $6 Bf6
+15. Bh6 Bg7 $10) 14... Bxf5 {[%cal Yg8h8]} 15. Ng5 {Bg4 would now be deadly.}
+Nac7 16. Bd3 Qd7 17. Bxf5 Qxf5 18. Qg4 $1 b5 19. b3 {[%cal Bb2b3,Bb3c4]} ({But
+not} 19. Nxb5 $6 Nxb5 20. cxb5 Qxg4+ 21. hxg4 Rf6 $14) 19... Rb8 20. Nge4 bxc4
+21. bxc4 Qxg4+ 22. hxg4 {[%cal Bh3g4,Bg4g5]} Rb4 23. Nd2 Nf6 {[%cal
+Yf6d5,Be8f6,Bf6g4,Bg4e3]} 24. g5 Ng4 {[%cal Ye5e4]} 25. a3 Rb6 26. Nde4 Nxe3 27.
+fxe3 Rxf1+ {Detlef offered a draw which I declined} 28. Rxf1 Ne8 ({Worse is}
+28... Rb3 29. Kf2 $14) 29. Nb5 a6 30. Na7 Rb3 31. Kf2 h6 32. Nc8 Bf8 33. gxh6
+Rb8 34. Rg1+ Kh7 35. Ng5+ Kxh6 36. Na7 Rb7 37. Nc6 Rg7 38. Ne6 {[%csl Rf8,Rg7]}
+Rf7+ 39. Ke2 Bg7 40. Ncd8 Re7 41. Kf3 Nf6 42. Rh1+ Kg6 43. Rg1+ Kh6 44. a4 a5
+45. e4 Nh5 46. Kg4 Kg6 47. Nc6 Rf7 48. Nxa5 Rf2 49. Nc6 Bf6 50. a5 {[%cal
+Ba4a5,Ba5a6,Ba6a7]} Ra2 51. Nf8+ {A dynamic duo of knights.} Kf7 52. Kxh5 Rh2+
+53. Kg4 Kxf8 54. Ra1 Kf7 55. a6 Rh4+ 56. Kg3 Rxe4 57. a7 {Weighted Error Value:
+White=0.02 (flawless) /Black=0.32. Inaccurate: --- Black=3 OK: White=29 Black=13
+Best: White=1 Black=2} 1-0
+```
 
 <br>
 

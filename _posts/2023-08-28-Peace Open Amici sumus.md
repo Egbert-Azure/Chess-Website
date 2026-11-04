@@ -78,17 +78,108 @@ Take care and onwards!
 Cheers,
 Egbert
 
-<iframe style='border: 0;' width='760px' height='480px' src='https://share.chessbase.com/SharedGames/frame/?p=QRvc0zHhgx6S9DRJi0fE4sV5dpFJRIfuaazwrMcgTWZcBZb0a9A9ThrqDPP22Nzz'></iframe>
+```pgn
+[Event "Peace Open Gr. 28"]
+[White "Schroeer,Egbert"]
+[Black "Dudley,Michael"]
+[Site "ICCF"]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date "2022.05.01"]
+[WhiteElo "2112"]
+[BlackElo "2130"]
+[PlyCount "162"]
+
+1. Nf3 {Our paths cross again! Best of luck! Egbert} g6 {Yes, I think they've
+crossed paths in the Peace Opens twice! Best wishes, and good to play you again!
+--Michael} 2. c4 Bg7 3. g3 c5 4. Bg2 Nc6 5. O-O e6 6. Nc3 Nge7 7. d3 O-O 8. Bg5
+h6 9. Bd2 d5 10. a3 {A37: Symmetrical English vs ...g6: 4 Bg2 Bg7 5 Nf3.} b6 11.
+Rb1 a5 12. Qc1 {Black is slightly better.} Kh7 13. Qc2 Ba6 14. Na4 Rb8 15. b3 $0
+$146 ({Predecessor:} 15. Rfe1 f5 16. cxd5 Nxd5 17. Nc3 Nde7 18. Qa4 Bf6 19. Rbd1
+e5 20. Qb3 g5 21. Bc1 )Qc7 16. Rfc1 d4 17. b4 cxb4 18. axb4 Nxb4 19. Bxb4 axb4
+20. Qd2 Nc6 21. c5 b5 22. Nb6 Bb7 23. Qf4 Qxf4 24. gxf4 Rfd8 {Inhibits Nd7.} 25.
+h4 Bf8 $0 $36 {Black is pushing.} 26. Nd2 Kg8 27. Rc2 Be7 28. Nb3 {Black
+converts the advantage convincingly.} Bxh4 29. Ra2 Be7 30. Bxc6 Bxc6 31. Ra7
+Bxc5 {Remove Defender} 32. Nxc5 {Nbd7 would now be deadly.} Rxb6 33. Rxb4 Be8
+34. Nb3 Rbd6 35. f3 Rd5 36. Rc7 Kg7 37. Kg2 g5 38. fxg5 hxg5 39. Kf2 R5d6 40.
+Ra7 Kg6 41. Re7 Kf5 42. Nc5 Rb6 43. Rb1 b4 44. Rb7 {Here I offered a draw} Rb8
+{I think I'd like to play this one out a while longer! Michael} 45. Ra7
+{absolutely and fair; you have a good position. I see we both are playing US
+friendly vs Finland. Good luck, go USA :-)} e5 {Ha, yes, indeed we are!
+Hopefully we'll both get some wins there!} 46. Na6 Rc8 {Threatens to win with
+...b3.} 47. Rxb4 Rh6 {Strongly threatening ...Rc2.} 48. Nc7 Bc6 {Wards off Nd5}
+49. Rb6 Rh2+ $1 50. Ke1 Bxf3 51. exf3 Kf4 {[%cal Yc8h8]} 52. Kd1 Kg3 53. Rc6 Rb8
+54. Kc1 {Dodges Rb1+} Rh1+ 55. Kc2 Rbb1 {...Rhc1+ is the strong threat.} 56. Rf6
+Kf2 57. Rh6 Rbc1+ ({And not} 57... Rxh6 58. Kxb1 Rh3 59. Nb5 $0 $19 )58. Kb2
+Rxc7 ({Weaker is} 58... Rxh6 59. Kxc1 Kxf3 60. Nd5 $0 $17 )59. Rxc7 Rxh6 60.
+Rxf7 $0 $19 {Endgame. KR-KR} Ke3 61. Rf5 Rg6 62. Kb3 e4 $1 63. fxe4 Kxd3 64. e5
+g4 {[%cal Yg5g4,Yg4g3]} 65. Rf6 Rg8 {aiming for ...g3.} 66. e6 g3 {And now ...g2
+would win.} 67. e7 Rb8+ 68. Ka2 Re8 69. Rf3+ Kc2 70. Rxg3 d3 {( -> ...Ra8#)} 71.
+Rxd3 Kxd3 {Black mates.} 72. Kb3 Rxe7 {KR-K} 73. Kb4 Rc7 {[%cal
+Ye7c7,Yc7c1,Yc1b1]} 74. Kb5 Kd4 {[%cal Yd3d4,Yd4d5,Yd5d6,Yd6c5,Yc5c6]} 75. Kb6
+Rc1 76. Kb7 Kd5 77. Kb8 Kd6 78. Kb7 Rb1+ 79. Ka6 Kc5 80. Ka7 Kc6 81. Ka6 {What a
+fight! Here's to another good game when we meet again. Best wishes for your
+future tournaments! Cheers, --Michael} Ra1# {couldn't agree more!! I didn't want
+to screw the triumph of your brilliant game with a simple resignation. Therefore
+-with all KUDOs to you - it's a classic real mate :-) Well done!! Unfortunately
+for me, I miscalculated twice including the position when I still thought it was
+a draw. Then I realized... oh boy, was I wrong! Again, extremely well played, it
+was a pleasure! Take care and onwards! Cheers Egbert} 0-1
+```
 
 ---
 
 ### 2. Game with Roberto Pinos
 
-I played Roberto the first time and I was impressed! A FIDE rated player and a [CCE (Correspondence Chess Expert) 2022](https://www.iccf.com/player?id=160868). 
+I played Roberto the first time and I was impressed! A FIDE rated player and a [CCE (Correspondence Chess Expert) 2022](https://www.iccf.com/player?id=160868).
 
+```pgn
+[Event "Peace Open Gr. 28"]
+[White "Pinos Rubio,Roberto"]
+[Black "Schroeer,Egbert"]
+[Site "ICCF"]
+[Round ""]
+[Annotator ""]
+[Result "1-0"]
+[Date "2022.05.01"]
+[WhiteElo "2109"]
+[BlackElo "2112"]
+[PlyCount "89"]
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=g6Bup9wSkJvz8TaHeplqS7jRulDUhgh77EvvaE4Hws3+1Cdv56pMncRvK0KpD45h'></iframe>
-
+1. e4 {Hello Egbert. Greetings from Novelda (Spain). I hope we have a good game,
+and I also wish you a good tournament! Best regards. Roberto} d6 {Holla Roberto,
+looking forward to our game, creating some impact during these horrible &
+uncertain times. I immediatlly signed up for this, no way not to join for known
+reasons. Wish you best of luck! I'm turning 64 years soon, married. We live in
+Pacific Northwest, Washington State, but originally from Germany. I worked half
+of my life in the Chemical industry (studied Chemistry) and the other half in
+Software industry. Retired last year! It's a pleasure to meet you virtually.
+Warm Regards and sending good vibes Egbert} 2. d4 Nf6 {Oh yes Egbert, we are
+living really uncertain times. I don't understand any war... I'm 48 years old,
+not married but with my girlfriend and two cats. I'm a physicist and I work as a
+teacher. I've never been in USA but I spent some good weeks in Germany. It's
+also a pleasure to meet with you. Good vibes for you too! Roberto} 3. Nc3 g6 4.
+Be3 Bg7 5. Qd2 c6 6. Bh6 O-O 7. h4 {[%cal Yh2h4,Yh4h5]} b5 {I think 7. .. b5 was
+stupid, just take 7... Bxh6} 8. Bxg7 Kxg7 9. h5 $1 {Hoping for hxg6.} b4 {White
+is clearly better.} 10. Nce2 {Strongly threatening hxg6.} Nxe4 $2 {10... Nxe4
+was inaccurate} 11. Qe3 (11. Qxb4 Nd7 $0 $10 )Nf6 12. hxg6 fxg6 13. Qh6+ Kg8 14.
+Nf3 Rf7 15. Ng5 Qf8 $0 $146 ({Predecessor:} 15... Qe8 16. Qh4 Rg7 17. O-O-O Nbd7
+18. Ne6 Qf7 19. Nxg7 Qxg7 20. Ng3 a5 21. Ne4 Nd5 )16. Nxf7 Qxf7 17. Nf4 {[%cal
+Ye2f4,Yf4g6,Yg6e7,Ye7f5,Yf5d6]} Nbd7 18. Bd3 {[%cal Rd3g6] And now Bxg6! would
+win.} e5 19. Bxg6 $1 Qg7 20. Bxh7+ {Deflection} Qxh7 21. Qg5+ Qg7 22. Ng6 {[%cal
+Rd4e5] Chess con chili. White is more active.} Ne4 23. Ne7+ (23. Qd8+ Kf7 24.
+Nh8+ Ke6 $0 $10 )Kf7 24. Qxg7+ Kxg7 25. f3 ({Don't play} 25. Nxc6 $6 a5 $0 $14
+)Nef6 26. Nf5+ ({Don't take} 26. Nxc6 $6 e4 $0 $14 )Kf7 27. Nxd6+ Ke6 $2 {27. ..
+Ke6 was just a mistake} 28. dxe5 Kxe5 29. O-O-O Nd5 30. Rh6 N7f6 31. Nc4+ Kf4
+32. Rd4+ Kg5 33. Rh8 {Black must now prevent Nd6.} c5 34. Rdh4 Bb7 35. R8h6 Rd8
+{Inhibits Nd6.} 36. Ne5 Rf8 {Repels Nf7+} 37. Nd3 {Prevents Nf4} c4 38. Nc5
+{Ne6+ is the strong threat.} Rf7 39. Ne6+ Kf5 40. Nd8 Re7 41. Nxb7 ({Less strong
+is} 41. Rxc4 Ba6 $0 $16 )Rxb7 42. Rxc4 Ne3 43. Rc5+ Nfd5 44. c4 {Pin} Rc7 {well
+played! Congratulations!} 45. Rxc7 {Superbly played by Pinos Rubio! Weighted
+Error Value: White=0.08 (flawless) /Black=0.23 (precise) . Inaccurate: ---
+Black=5 OK: White=19 Black=15 Best: White=7 Black=2 Brilliant: White=2 ---} 1-0
+```
 
 **Roberto Pinos Rubio:**
 

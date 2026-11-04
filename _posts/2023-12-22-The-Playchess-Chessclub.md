@@ -157,7 +157,38 @@ Ultimately, the choice between the web and desktop clients depends on your prefe
 
 And here is one of my games on Playchess.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi7jcaLFdultW+hdKXu41RoUQPtV+8JEax88RPtfkZ74B'></iframe>
+```pgn
+[Event "Rated game, 5m+3s"]
+[Site "Main Playing Hall"]
+[Date "2023.12.13"]
+[Round "?"]
+[White "JimMorrison42"]
+[Black "Eumel"]
+[Result "1-0"]
+[ECO "A06"]
+[WhiteElo "1502"]
+[BlackElo "1550"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "59"]
+[EventDate "2023.12.13"]
+[SourceTitle "playchess.com"]
+[TimeControl "300+3"]
+
+1. Nf3 d5 2. e3 e6 3. c4 c6 4. b3 Nf6 5. Bb2 Be7 6. Qc2 {1 A06: Réti Opening: 1
+Nf3 d5.} Nbd7 7. Nc3 b6 8. Be2 {8 White is slightly better.} dxc4 $146
+({Predecessor:} 8... Bb7 9. Rg1 c5 10. g4 Ne4 11. d3 Nxc3 12. Bxc3 Bf6 13. O-O-O
+Qe7 14. g5 Bxc3 15. Qxc3 {1-0 Nilsen,J (2418)-Sanal,V (2563) Cappelle Online
+Blitz op 1st Europe Echecs INT 2021 (7)}) 9. Bxc4 Bb7 10. O-O O-O 11. Rfd1 c5
+12. d4 Bxf3 13. gxf3 cxd4 14. exd4 Qc8 15. Ne4 (15. Rac1 $10) (15. d5 {seems
+wilder.} Ne5 16. d6 Nxf3+ 17. Kh1) 15... Nxe4 $14 (15... Nd5 $15) 16. fxe4 b5
+17. Bd3 {14 Black must now prevent Qxc8.} Qxc2 18. Bxc2 Rac8 19. Bd3 a6 20. Kg2
+Rc7 21. Rdc1 Rfc8 22. Rxc7 Rxc7 23. a4 Rb7 24. axb5 axb5 25. Ra8+ Nf8 26. f4 f6
+27. Ra5 b4 $2 (27... Ng6 $16 28. Kf3 (28. Bxb5 Bd8 $10) (28. Rxb5 Nxf4+ 29. Kf3
+Rxb5 $14) 28... Bd6) 28. Bc4 $18 Kf7 $2 (28... Kh8 29. Ra8 Rc7) 29. d5 exd5
+(29... Bd8 $142) 30. Bxd5+ {Eumel gibt auf (Lag: Av=0.72s, max=0.9s). Weighted
+Error Value: White=0.16 (very precise) /Black=0.39. Mistake: --- Black=3
+Inaccurate: White=4 Black=6 OK: White=10 Black=6 Best: White=1 ---} 1-0
+```
 
 ## The 20 min on Playchess
 
@@ -167,8 +198,41 @@ This game was played with my ChessNut Air e-board and was followed by 8 others. 
 <img src="{{site.baseurl}}/images/chssnutplaychess.JPEG" alt="Playchess 20min game" width="60%">
 </div>
 
+```pgn
+[Event "Rated game, 20 min"]
+[Site "Main Playing Hall"]
+[Date "2023.12.17"]
+[Round "?"]
+[White "Komarca"]
+[Black "JimMorrison42"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "1423"]
+[BlackElo "1407"]
+[PlyCount "50"]
+[EventDate "2023.12.17"]
+[SourceTitle "playchess.com"]
+[TimeControl "1200"]
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=sn8WWgmFDXVaHW0d9Ym4fNuhTkJ8aPYEUzael1ZjDlmVNWWCq2DKSuDz1qC8kzPh'></iframe>
+1. e4 d6 2. Bc4 Nf6 3. Nf3 Nxe4 4. Qe2 d5 5. Bd3 Nf6 6. c4 $146 {B07: Pirc
+Defence: Miscellaneous Systems.} ({Predecessor:} 6. Ne5 e6 7. c4 Bc5 8. O-O Qd6
+9. Nc3 O-O 10. b3 Bd4 11. Nf3 Bc5 12. Bb2 {0-1 Freire,L (1296)-Barbosa,R (1549)
+Sao Bernardo do Campo op 2016 (4)}) 6... Bg4 7. Nc3 d4 8. Ne4 {Black is clearly
+better.} e5 9. Qd1 Nc6 10. a3 Nh5 11. Qa4 $2 (11. h3 Bd7 (11... Nf4 12. hxg4
+Nxd3+ 13. Kf1 $17) 12. O-O) 11... Nf4 $19 {[%csl Rd3,Rg2]} 12. Bf1 f5 13. Ng3 e4
+(13... d3 $142 14. h4 Bxf3 15. gxf3 Qd7) 14. Ne5 {[%cal Yh2h3]} Qf6 15. Nxg4 Qe6
+16. Qc2 $2 (16. d3 exd3+ (16... Nxd3+ 17. Bxd3 exd3+ 18. Kd1 $17) 17. Kd1) 16...
+h5 (16... fxg4 17. Qxe4 Qxe4+ 18. Nxe4 $15) 17. Ne3 O-O-O (17... dxe3 18. dxe3
+Ng6 19. Be2 $15) 18. Nd5 Nd3+ {Deflection} ({And not} 18... Nxd5 19. cxd5 Qxd5
+20. d3 $10 (20. Bc4 Qe5 $17)) 19. Kd1 Nxf2+ 20. Ke1 d3 21. Qb3 h4 22. Nf4 Qf7
+23. Rg1 hxg3 24. h3 Nd4 25. Bxd3 Nxb3 {Komarca resigns. Weighted Error Value:
+White=1.33/Black=0.21 (precise) . Mistake: White=2 Black=1 Inaccurate: White=2
+--- OK: White=3 Black=9 Best: White=1 ---} (25... exd3 $142 26. Nxd3 Qh5 (26...
+Nxb3 {leads to mate.} 27. Ne5 Qh5 28. Nf3 Re8+ 29. Kf1 Nd3 30. Rb1 Ndxc1 31. h4
+Nxd2+ 32. Nxd2 Qe2#) 27. Nf4 Re8+ (27... Nxb3 {is a self mate.} 28. Nxh5 Re8+
+29. Kf1 Nd3 30. Nxg3 Re1#) (27... Qe8+ $2 28. Qe3 $19) 28. Kf1 Nxb3 (28... Nd3
+$2 29. Qxb7+ Kxb7 30. Nxh5 Re1#) 29. Nxh5 Nd3 30. Nxg3 Re1#) 0-1
+```
 
 >Generally speaking, I feel there are much more experienced players on this platform than others. I had the same experience with ICCF.
 

@@ -54,7 +54,27 @@ The famous chess match between Howard Staunton and Pierre Charles Fournier de Sa
 <br>
 Here, Kermur Sire de Legal delivers a brilliant game which, despite its brevity, is also strategically remarkable, illustrating the complete triumph of pieceplay over pawn play. White actually only makes one pawn move.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=47MMYdi3A0jvRDGrTinBi0uK4N4aiI8pto5vBfZJZO2enaYLHExOl8Am3oraet1R'></iframe>
+```pgn
+[Event "Paris, Cafe de la Regence"]
+[Site "?"]
+[Date "1750.??.??"]
+[Round "?"]
+[White "Sire de Legal, Kermur"]
+[Black "Saint Brie"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "13"]
+[EventDate "1750.??.??"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 {What a mistake! It is better to put the knights
+who are doing badly in the middle instead of the well-standing bishop (Lasker)}
+4. Nc3 {The early development of both Knights (later propagated by Lasker) was a
+new strategy at that time; the pawn move c3 (with the double backing d4 and Qb3)
+was considered obligatory)} g6 {Black wants to control the strategic important
+square d4; totally fine if he would be able to play Bg7.} 5. Nxe5 Bxd1 6. Bxf7+
+Ke7 7. Nd5# *
+```
 
 Lasker had games like this in mind when he formulated the rule in 1895: "Develop the knights before the bishop, especially the queens' bishop".
 
@@ -85,7 +105,71 @@ Fischer did not consider the game of the century worthy of inclusion in the anth
 
 I know this game was probably analyzed gazillion times, but it's worth to check again. I added some training questions for you.
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=aH7zrDW0GH992RgtwOlbaiepDyZAWK6zN0d0p99YfAMnhMOw6rMTeu9gDP5qEvb5'></iframe>
+```pgn
+[Event "New York Rosenwald"]
+[Site "New York"]
+[Date "1956.??.??"]
+[Round "?"]
+[White "Byrne, Donald"]
+[Black "Fischer, Robert James"]
+[Result "*"]
+[ECO "D97"]
+[Annotator "Schroeer,Egbert"]
+[PlyCount "82"]
+[EventDate "1956.??.??"]
+[EventCountry "USA"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. Bf4 {Byrne is avoiding the King's
+Indian (with 5.e4), probably because he had heard that the lad sitting across
+from him was already one of the best Kings Indian players in the country.} d5 6.
+Qb3 dxc4 7. Qxc4 c6 8. e4 Nbd7 9. Rd1 {D97: Grünfeld: Russian System: 7 e4,
+replies other than 7...Bg4. White has more active pieces. The black rooks are
+passive.} Nb6 10. Qc5 $146 {to avoid after 10. Qb3 Be6 11. Qc2 with 11. ... Bc4
+an easy exchange (Kmoch)} (10. Qb3 Be6 11. Qc2 Bc4) ({Predecessor:} 10. Qd3 Be6
+11. Qc2 h6 12. h3 Ne8 13. Be2 Nd6 14. O-O Qc8 15. b3 a5 16. Rc1 f5 {1-0
+Levin,J-Sandrin,A USA-ch New York 1946}) 10... Bg4 11. Bg5 $2 (11. Be2 $10 {and
+White is okay.}) 11... Na4 $1 $19 {[%csl Yb2,Yc3,Yc5] Reuben Fine awards this
+move three exclamation points (in "The World's Great Chess Games") and calls it
+"a brilliant reply." Flohr and Botvinnik in "64" called it "a shocking and
+stunning move." Fred Reinfeld called it "one of the most magnificent moves ever
+made on a chessboard," and GM Jon Rowson referred to it as "one of the single
+most powerful chess moves of all time." Double Attack} 12. Qa3 {on 12.Na4 wins
+12. Ne4, in all variations, the piece back with superior play.} (12. Nxa4 Nxe4
+13. Qc1 {Threatens to win with Be3. (13.Qxe7 Qa5+ 14.b4 Qxa4 15.Qxe4 Rfe8 16.Be7
+Bxf3 17.gxf3 Bf8 and Black is winning)} Qa5+ 14. Nc3 {Be3 is the strong threat.}
+Bxf3 15. gxf3 Nxg5 {(Shipov)}) 12... Nxc3 {A kibitzing GM comment here that
+Black was simply lost in this position.} 13. bxc3 Nxe4 $3 {Fine and Reinfeld
+give two exclamation marks} 14. Bxe7 Qb6 15. Bc4 {[%cal Ye1g1] White rightly
+distrust the quality gain 15.Bf8, because after 15.... Bf8, followed by Nc3 he
+is under a lot of pressure. He also thinks it is necessary to castle finally.
+The intention, however, is lost in the tumult of the next moves.} Nxc3 $1
+{"Black comes up with one beautiful move after another" (I. Chernev)} 16. Bc5
+(16. Qxc3 Rae8) 16... Rfe8+ 17. Kf1 {Despite the loss of castling, it looks like
+White will have the upper hand after all, as Queenb6 and Bishop c3 are attacked,
+and on 17... Nb5 (eventually the only move that saves the piece) happens 18.Blf7
+Kf7 19Qb3 Be6 20.Ng5 Kg8 21.Ne6 Nd4 22.Nd4 Qb3 23.Nb3 (Fischer)} Be6 $1 $40 {A
+brilliant intermediate move that uses the need for protection of the diagonal
+b5-f1 to eliminate the aforementioned turn Bf7. Black goes for the king.} (17...
+Nxd1 $2 18. Bxb6 axb6 19. Qb3 $18) (17... Nb5 18. Bxf7+ Kh8 (18... Kxf7 $2 19.
+Qb3+ Be6 20. Ng5+ {[%csl Ye6,Yf7,Yh7] Deflection, Double Attack} Kg8 21. Nxe6
+$18) 19. Bxb6 $14) 18. Bxb6 $2 (18. Qxc3 Qxc5 19. dxc5 Bxc3 20. Bxe6 Rxe6 21.
+g3) 18... Bxc4+ (18... Nxd1 $2 {too greedy.} 19. Bxe6 (19. Bxa7 $2 Bxc4+ 20. Kg1
+Bxd4 $19 {Pin}) 19... Rxe6 20. Bc7 $18 (20. Bxa7 c5 $18)) 19. Kg1 Ne2+ ({Not}
+19... Nxd1 20. Qc1 Be2 (20... Bxa2 21. Ba5 $15) 21. Ba5 $15) 20. Kf1 {[%cal
+Ya3b4]} Nxd4+ {[%csl Yf1] Discovered Attack (Check)} 21. Kg1 Ne2+ 22. Kf1 Nc3+
+23. Kg1 axb6 {[%csl Ya3] Discovered Attack. White is weak on the light squares}
+24. Qb4 Ra4 25. Qxb6 Nxd1 {The predicament has yielded ample profits. Against a
+grown-up GM, Byrne would undoubtedly have given up here (or earlier), but surely
+the three-year-old must still make a mistake?} 26. h3 Rxa2 27. Kh2 Nxf2 28. Re1
+Rxe1 29. Qd8+ Bf8 30. Nxe1 Bd5 31. Nf3 Ne4 {...Kg7 would now be deadly.} 32. Qb8
+b5 33. h4 h5 34. Ne5 Kg7 {Black mates.} 35. Kg1 Bc5+ 36. Kf1 Ng3+ 37. Ke1 Bb4+
+{Fischer is guilty of only one tiny flaw: with move 37. Re2 38.Kd1 Bb3 39.Kc1
+Ba3 40.Kb1 Re1 he was able to mate one move earlier.} 38. Kd1 Bb3+ 39. Kc1 Ne2+
+40. Kb1 Nc3+ 41. Kc1 Rc2# {(Beauty=11.8). White got outplayed after the opening.
+Weighted Error Value: White=1.08/Black=0.09 (flawless) . Loses game: White=1 ---
+Mistake: White=1 --- Inaccurate: White=2 Black=1 OK: White=3 Black=3 Best:
+White=1 Black=2 Strong: --- Black=1 Brilliant: --- Black=2} *
+```
 
 Fischer played Byrne multiple times. According MegaDatabase this is the complete list with results.
 

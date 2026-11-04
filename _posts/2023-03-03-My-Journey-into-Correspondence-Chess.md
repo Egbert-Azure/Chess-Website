@@ -61,8 +61,33 @@ Check this one out – well worth a look. Personally, I was very impressed by th
 <br>
 ## Game Replay
 
-<iframe style='border: 0;' width='900px' height='600px' src='https://share.chessbase.com/SharedGames/frame/?p=2QdhAoZEtoFSHkv8jAi0SfQL1S9zovEb8LeNxCd0ZF3/vWnIbDPuFbBPRnIG1OiN'></iframe>
+```pgn
+[Event "USCF 21EN09 - 2021 Electronic Knights"]
+[White "Ward, Christopher"]
+[Black "Schroeer, Egbert"]
+[Site ""]
+[Round ""]
+[Annotator ""]
+[Result "0-1"]
+[Date "2021.05.17"]
+[WhiteElo "1549"]
+[PlyCount "70"]
 
+1. d4 d5 2. Bf4 Nf6 3. Nf3 g6 4. e3 Bg7 5. h3 O-O 6. Bd3 c5 7. c3 ({Reject} 7.
+dxc5 Nfd7 $0 $17 )Qb6 {D02: 1 d4 d5 2 Nf3 sidelines, including 2...Nf6 3 g3 and
+2...Nf6 3 Bf4.} 8. Qc2 c4 9. Be2 Bf5 {The position is equal.} 10. Qc1 Nbd7 $0
+$146 ({Predecessor:} 10... Nc6 11. Nh4 Bd7 12. Nd2 h6 13. Bh2 g5 14. Nhf3 Bf5
+15. Ne5 Nxe5 16. Bxe5 Ne4 17. Bxg7 Kxg7 {0-1 (34) Caliskan,V (1663)-Bilgin,M
+(1888) Konya 2018} )11. g4 (11. Nbd2 $0 $10 )Bd3 $0 $17 12. Ne5 ({Better is} 12.
+Bxd3 $0 $15 cxd3 13. Nbd2 )Nxe5 13. Bxe5 Ne4 14. Bxg7 Kxg7 15. Bxd3 cxd3 16. Nd2
+e5 17. dxe5 f5 18. Nxe4 dxe4 19. g5 Rad8 {Threatens to win with ...d2+.} 20. Qd2
+Qe6 21. f4 exf3 22. O-O Qd5 23. Qh2 Rfe8 24. Rad1 Qxa2 25. Rxf3 Qa4 26. Rd2 Qe4
+27. Kf2 Rxe5 28. Qf4 (28. h4 $0 $0 $142 )a5 $0 $19 {[%cal Ya7a5,Ya5a4]} 29. Qxe4
+$2 (29. h4 )fxe4 {Endgame KRR-KRR} 30. Rf4 Rf8 31. Rxf8 Kxf8 32. Kg3 {If White
+can now play Kf4 this consolidates a bit.} Rf5 {Black is clearly winning.} 33.
+Kg4 a4 34. Rd1 b5 35. h4 Rf2 {White got outplayed after the opening. Weighted
+Error Value: White=0.31/Black=0.01} 0-1
+```
 
 Here is the link to [Check Is In The Mail - July 2021](https://new.uschess.org/news/check-mail-july-2021)
 
