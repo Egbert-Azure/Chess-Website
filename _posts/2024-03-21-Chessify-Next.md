@@ -133,28 +133,16 @@ Subsequently, using the standard PGN from the ICCF website, I subjected it to Ch
 [WhiteTeam "FSB Thuringia I"]
 [BlackTeam "I Gladiatori"]
 
-1. Nf3 {%eval} d5 {%eval} 2. e3 {%eval} e6 {%eval} 3. c4 {%eval} Nf6 {%eval} 4.
-b3 {%eval} c5 {%eval} 5. Bb2 {%eval} Nc6 {%eval} 6. cxd5 {%eval} exd5 {%eval} 7.
-Nc3 {%eval} d4 {%eval} 8. Na4 {%eval} Be7 {%eval} 9. Bb5 {%eval} Bd7 {%eval} 10.
-O-O {%eval} O-O {%eval} 11. Re1 {%eval} Re8 {%eval} 12. Bxc6 {%eval} Bxc6
-{%eval} 13. exd4 {%eval} cxd4 {%eval} 14. Nxd4 {%eval} Be4 {%eval} 15. Rc1
-{%eval} Bb4 {%eval} 16. Nc5 {%eval} Bxg2 {%eval} 17. Rxe8+ {%eval} Nxe8 {%eval}
-18. Qg4 {%eval} Rc8 {%eval} 19. Nd3 {%eval} Rxc1+ {%eval} 20. Bxc1 {%eval} h5
-{%eval} 21. Qxg2 {%eval} Qxd4 {%eval} 22. Qxb7 {%eval} Bf8 {%eval} 23. Qf3
-{%eval} Qa1 {%eval} 24. a4 {%eval} Qb1 {%eval} 25. Qd5 {%eval} a5 {%eval} 26.
-Qc4 {%eval} Nd6 {%eval} 27. Qd5 {%eval} g6 {%eval} 28. Kg2 {%eval} Nf5 {%eval}
-29. Qc4 {%eval} Nd6 {%eval} 30. Qd5 {%eval} Nf5 {%eval} 31. Ne5 {%eval} Nh4+
-{%eval} 32. Kg3 {%eval} Qf5 {%eval} 33. d4 {%eval} g5 $6 {Inaccuracy %eval}
-(33... Qf6 {was best}) 34. Bd2 $6 {Inaccuracy %eval} (34. Bd2 {was best}) 34...
-Kg7 {%eval} 35. f3 {%eval} Bb4 {%eval} 36. Bxb4 {%eval} axb4 {%eval} 37. Qe4
-{%eval} Qc8 {%eval} 38. Nc4 {%eval} Ng6 {%eval} 39. Qd5 {%eval} h4+ {%eval} 40.
-Kf2 {%eval} Qc7 {%eval} 41. Qd6 {%eval} Qc8 {%eval} 42. Qd5 {%eval} Qc7 {%eval}
-43. Qd6 {%eval} Qc8 {%eval} 44. d5 {%eval} Qf5 {%eval} 45. Qxb4 {%eval} Qh3
-{%eval} 46. Qd6 {%eval} Nf4 {%eval} 47. Qe5+ {%eval} Kg6 {%eval} 48. Qe4+
-{%eval} Kg7 {%eval} 49. d6 {%eval} Qxh2+ {%eval} 50. Ke1 {%eval} Qh1+ {%eval}
-51. Kd2 {%eval} h3 {%eval} 52. Qe5+ {%eval} Kg6 {%eval} 53. Qe4+ {%eval} Kg7
-{%eval} 54. d7 {%eval} Qg2+ {%eval} 55. Kc3 {%eval} Ne6 {%eval} 56. Qe5+ {%eval}
-*
+1. Nf3 d5 2. e3 e6 3. c4 Nf6 4. b3 c5 5. Bb2 Nc6 6. cxd5 exd5 7. Nc3 d4 8. Na4
+Be7 9. Bb5 Bd7 10. O-O O-O 11. Re1 Re8 12. Bxc6 Bxc6 13. exd4 cxd4 14. Nxd4 Be4
+15. Rc1 Bb4 16. Nc5 Bxg2 17. Rxe8+ Nxe8 18. Qg4 Rc8 19. Nd3 Rxc1+ 20. Bxc1 h5
+21. Qxg2 Qxd4 22. Qxb7 Bf8 23. Qf3 Qa1 24. a4 Qb1 25. Qd5 a5 26. Qc4 Nd6 27. Qd5
+g6 28. Kg2 Nf5 29. Qc4 Nd6 30. Qd5 Nf5 31. Ne5 Nh4+ 32. Kg3 Qf5 33. d4 g5 $6
+{Inaccuracy} (33... Qf6 {was best}) 34. Bd2 $6 {Inaccuracy} (34. Bd2 {was best})
+34... Kg7 35. f3 Bb4 36. Bxb4 axb4 37. Qe4 Qc8 38. Nc4 Ng6 39. Qd5 h4+ 40. Kf2
+Qc7 41. Qd6 Qc8 42. Qd5 Qc7 43. Qd6 Qc8 44. d5 Qf5 45. Qxb4 Qh3 46. Qd6 Nf4 47.
+Qe5+ Kg6 48. Qe4+ Kg7 49. d6 Qxh2+ 50. Ke1 Qh1+ 51. Kd2 h3 52. Qe5+ Kg6 53. Qe4+
+Kg7 54. d7 Qg2+ 55. Kc3 Ne6 56. Qe5+ *
 ```
 
 The disparity is stark! Chessify flagged move 33. ..g5?! as a Black inaccuracy, favoring White with a 1.01-point advantage, only to later suggest the erroneous move 34. Bd2!? for White, erroneously indicating a minor advantage. That this was the only correct move was overlooked and really weird, Chessify suggested then the alternative 34. Bd2, which is exactly the move I made.
