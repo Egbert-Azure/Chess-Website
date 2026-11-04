@@ -1,0 +1,11 @@
+{%- comment -%} "4th of 7" for a finished section. Pass t=... (an entry of site.data.tournaments.events) {%- endcomment -%}
+{%- assign p = include.t.place -%}
+{%- if p -%}
+  {%- assign last2 = p | modulo: 100 -%}{%- assign last1 = p | modulo: 10 -%}
+  {%- if last2 >= 11 and last2 <= 13 -%}{%- assign suffix = "th" -%}
+  {%- elsif last1 == 1 -%}{%- assign suffix = "st" -%}
+  {%- elsif last1 == 2 -%}{%- assign suffix = "nd" -%}
+  {%- elsif last1 == 3 -%}{%- assign suffix = "rd" -%}
+  {%- else -%}{%- assign suffix = "th" -%}{%- endif -%}
+  {{ p }}{{ suffix }} of {{ include.t.players }}
+{%- else -%}–{%- endif -%}

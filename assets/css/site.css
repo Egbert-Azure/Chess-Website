@@ -311,6 +311,26 @@ a:hover { text-decoration-thickness: 2px; }
 }
 .board-note { margin: -1.25rem 0 2rem; font-family: var(--display); font-size: 0.875rem; color: var(--muted); }
 
+/* Tournaments page (data from _data/tournaments.yml) */
+.muted { color: var(--muted); }
+.credit { font-family: var(--display); font-size: 0.8125rem; color: var(--muted); }
+.facts { font-family: var(--display); font-size: 0.9375rem; color: var(--muted); }
+.toc { display: flex; flex-wrap: wrap; gap: 0.25rem 1.1rem; margin: 0 0 1.5em; font-family: var(--display); font-size: 0.9375rem; }
+/* tables may run wider than the reading column, as far as the screen allows */
+.results-wrap { overflow-x: auto; margin: 0 0 1.75em; width: min(58rem, calc(100vw - 2 * max(16px, env(safe-area-inset-left, 0px)))); }
+.prose .results { display: table; width: 100%; margin: 0; }
+.results th { font-size: 0.8125rem; font-weight: 600; color: var(--muted); }
+.results .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.results td:nth-child(2), .results td:nth-child(4) { white-space: nowrap; }
+.results .code { font-size: 0.8125rem; color: var(--muted); white-space: nowrap; }
+.results .links a { white-space: nowrap; }
+.results .links > * + * { margin-left: 0.75rem; }
+.results tr.group th { padding-top: 1.1rem; font-size: 1rem; font-weight: 700; color: var(--ink); border-bottom-width: 1px; }
+.results tr.is-running td { background: var(--surface); }
+.game-list { columns: 2 15rem; column-gap: 2rem; padding-left: 1.1em; }
+.game-list li { break-inside: avoid; }
+.updated { font-family: var(--display); font-size: 0.875rem; }
+
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
 }
