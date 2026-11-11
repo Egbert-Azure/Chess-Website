@@ -4,10 +4,16 @@ title: "RoW Semi-Final: Eleven Draws Against the Masters"
 description: "RoW Championship 2024, Semi-Final 4: the lowest-rated player in a field of CCMs and IMs, 5½ out of 12."
 image: '/images/KingQueen.jpg'
 date: 2027-01-15
-tags: [RoW, ICCF, game-analysis]
+tags: [RoW, ICCF, ChessBase, game-analysis]
 featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@sniv?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Shirly Niv Marton</a> on <a href="https://unsplash.com/photos/queen-and-king-chess-pieces-on-board-EvGwPnK6apM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+
+A little entertainment before the chess. On 10 November 2026, ChessBase finally came to the Mac. Good news, you'd think. The catch: you don't buy it, you rent it. €9.95 a month, or €99.95 a year.
+
+Then I read the feature list. "Stockfish from the cloud, without taxing your Mac." "Analyse with up to 128 cores on a remote machine." Now where have I heard that before? Right here. Stockfish on a laptop drains the battery, so I built a [remote Stockfish cluster](https://github.com/Egbert-Azure/stockfish-cluster) and sent the concept and a draft architecture to Matthias Wüllenweber himself. I never heard back ([What's next?](https://chess.myvortexcloud.com/whats-next), March 2024). In November 2024, ChessBase 18 offered a remote engine with two cores, and more power for rent in Ducats ([Tools and Weapons](https://chess.myvortexcloud.com/tools-and-weapons)). Now it's up to 128 cores, and they didn't even dress it up: their own Mac page describes my idea in nearly my words.
+
+I'll take it as a compliment, a late one. I left ChessBase for HIARCS in April 2026 ([Back on the Board](https://chess.myvortexcloud.com/Back-on-the-Board)), and the Mac version won't bring me back. Now, to the chess.
 
 ## The tournament
 
