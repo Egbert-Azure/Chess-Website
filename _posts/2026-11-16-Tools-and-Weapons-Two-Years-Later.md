@@ -12,7 +12,8 @@ featured: false
 Photo by <a href="https://unsplash.com/@hnhmarketing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hunter Haley</a> on <a href="https://unsplash.com/photos/four-handheld-tools-on-board-s8OO2-t-HmQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
---
+---
+
 Hello chess enthusiasts. Two years ago I wrote three posts about my tools: [Tools and Weapons](https://chess.myvortexcloud.com/tools-and-weapons), [More Tools and Weapons](https://chess.myvortexcloud.com/Tools-and-Weapons-Part-2) and [Even More Tools and Weapons](https://chess.myvortexcloud.com/Tools-and-Weapons-Part-3). A fourth one has been sitting half-finished since December 2024. Good thing I waited, because a lot has changed since then.
 
 ## Major updates on this site
