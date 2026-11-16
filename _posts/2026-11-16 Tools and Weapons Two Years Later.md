@@ -3,7 +3,7 @@ layout: post
 title: "Tools and Weapons, Two Years Later"
 description: "A new look for this site, why HIARCS replaced ChessBase, and a game with nothing but my own notes."
 image: '/images/hunter-haley-s8OO2-t-HmQ-unsplash.jpg'
-date: 2026-11-20
+date: 2026-11-16
 tags: [tools, HIARCS, ChessBase, Electronic-Knights, Pirc, game-analysis]
 featured: false
 ---
