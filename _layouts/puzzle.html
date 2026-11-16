@@ -1,0 +1,12 @@
+---
+layout: post
+---
+{%- comment -%}
+  Puzzle of the Month: the story (the post's text), then the puzzle itself,
+  built from the puzzle: block in the front matter by _includes/puzzle.html.
+  Puzzles are written ahead with their release date; each one appears at the
+  first build after that date (_plugins/future_puzzles.rb,
+  netlify/functions/monthly-puzzle.mjs).
+{%- endcomment -%}
+{{ content }}
+{% include puzzle.html %}

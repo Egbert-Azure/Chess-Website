@@ -4,29 +4,40 @@ title: Puzzles
 permalink: /puzzles/
 image: '/images/puzzle.jpg'
 tags: [weekly-puzzles, game-of-the-week]
+description: "Puzzle of the Month: one position from my own correspondence games on the 1st of every month, each with exactly one move that works."
 ---
 <div style="text-align: left; font-size: smaller;">
 Photo by <a href="https://unsplash.com/@edge2edgemedia?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Edge2Edge Media</a> on <a href="https://unsplash.com/photos/black-puzzle-piece-on-white-paper-x21KgBfOd_4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-</div>  
+</div>
 
-{% assign puzzle_years = "" | split: "" %}
+{%- comment -%}
+  All puzzles live in _puzzles. The monthly ones have layout: puzzle (see
+  _tools/puzzles); the weekly puzzles of 2023–2024 don't. A puzzle dated in the
+  future is left out of the site until its date (_plugins/future_puzzles.rb).
+{%- endcomment -%}
+{% assign puzzles = site.puzzles | sort: "date" | reverse %}
+{% assign monthly = puzzles | where: "layout", "puzzle" %}
 
-{% for puzzle in site.puzzles %}
-  {% assign year = puzzle.date | date: "%Y" %}
-  {% unless puzzle_years contains year %}
-    {% assign puzzle_years = puzzle_years | push: year %}
-  {% endunless %}
-{% endfor %}
+## Puzzle of the Month
 
-{% assign sorted_years = puzzle_years | sort: 'year' | reverse %}
+Every month a position from one of my own finished correspondence games, with the story behind it. Each has exactly one move that works. Some I found, some my opponents found against me.
 
-{% for year in sorted_years %}
-   **{{ year }}**
-  
-  {% assign puzzles_for_year = site.puzzles | where: 'date', year %}
-  {% assign sorted_puzzles_for_year = puzzles_for_year | sort: 'date' | reverse %}
-  
-  {% for puzzle in sorted_puzzles_for_year %}
-  - **{{ puzzle.title }}** -  {{ puzzle.description }} - [Link]({{ puzzle.url | relative_url }})
-  {% endfor %}
-{% endfor %}
+{% if monthly.size > 0 -%}
+<ol class="puzzle-list">
+{%- for p in monthly %}
+  <li><a href="{{ p.url | relative_url }}"><span class="puzzle-list__month">{{ p.date | date: "%B %Y" }}</span><span class="puzzle-list__title">{{ p.title }}</span><span class="puzzle-list__task">{{ p.puzzle.task }}</span></a></li>
+{%- endfor %}
+</ol>
+{%- else -%}
+The first one appears on 1 December 2026.
+{%- endif %}
+
+## Weekly puzzles, 2023–2024
+
+The weekly series that came before, with positions and games from my own play and from the masters.
+
+<ul>
+{%- for p in puzzles %}{% if p.layout == "puzzle" %}{% continue %}{% endif %}
+  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a> ({{ p.date | date: "%-d %B %Y" }}){% if p.description %}: {{ p.description | escape }}{% endif %}</li>
+{%- endfor %}
+</ul>
