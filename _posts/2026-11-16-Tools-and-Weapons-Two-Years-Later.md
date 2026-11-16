@@ -12,6 +12,7 @@ featured: false
 Photo by <a href="https://unsplash.com/@hnhmarketing?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Hunter Haley</a> on <a href="https://unsplash.com/photos/four-handheld-tools-on-board-s8OO2-t-HmQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
+--
 Hello chess enthusiasts. Two years ago I wrote three posts about my tools: [Tools and Weapons](https://chess.myvortexcloud.com/tools-and-weapons), [More Tools and Weapons](https://chess.myvortexcloud.com/Tools-and-Weapons-Part-2) and [Even More Tools and Weapons](https://chess.myvortexcloud.com/Tools-and-Weapons-Part-3). A fourth one has been sitting half-finished since December 2024. Good thing I waited, because a lot has changed since then.
 
 ## Major updates on this site
@@ -19,7 +20,7 @@ Hello chess enthusiasts. Two years ago I wrote three posts about my tools: [Tool
 If you have been here before, you have noticed: this site has a new look.
 
 - **A new design.** Lighter, faster and easier to read on a phone. All posts and their addresses stayed, and the search is still there.
-- **Games on real boards.** This is the change I like most. Every game on this site now plays on a board right in the post: click through the moves, jump to any position, flip the board, and it works just as well on a phone. A single position shows as a diagram, with a link to try it yourself on an analysis board. The boards are the free Lichess viewer, and it runs on this site itself, so nothing depends on an outside account any more. That was overdue: some of the old ChessBase game viewers were already broken, and I have cancelled ChessBase anyway. All of them are gone now, replaced game by game.
+- **Games on real boards.** This is the change I like most - not bragging, but I hope yout too. Every game on this site now plays on a board right in the post: click through the moves, jump to any position, flip the board, and it works just as well on a phone. A single position shows as a diagram, with a link to try it yourself on an analysis board. The boards are the free Lichess viewer, and it runs on this site itself, so nothing depends on an outside account any more. That was overdue: some of the old ChessBase game viewers were already broken, and I have cancelled ChessBase anyway. All of them are gone now, replaced game by game.
 - **[Tournaments](https://chess.myvortexcloud.com/tournaments/)** is up to date again, rebuilt from my ICCF records.
 - **[Topics](https://chess.myvortexcloud.com/tags/)** is cleaned up, so posts on the same subject are finally in one place.
 - **[Puzzle of the Month](https://chess.myvortexcloud.com/puzzles/).** From 1 December, a position from one of my own finished games each month, with the story behind it. Some I found, some my opponents found against me.
