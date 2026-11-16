@@ -56,3 +56,7 @@ Image file names are case-sensitive on the server: `Night.jpg` and `night.jpg` a
 Add `data-orientation="black"` to show either kind from Black's side.
 
 The board is the [Lichess PGN Viewer](https://github.com/lichess-org/pgn-viewer), stored in `assets/lpv/` under the GPL v3. Because of that licence, keep this repository public.
+
+## Puzzle of the Month
+
+A puzzle from my own games goes live on the Puzzles page on the 1st of every month by itself. The puzzles are written ahead in `_puzzles/`, dated the 1st of their month, with `layout: puzzle`; `_plugins/future_puzzles.rb` keeps them out of the site until their date, and a scheduled Netlify function rebuilds the site on the 1st. How it works, how to fill in a story and how to find more puzzles: see `_tools/puzzles/README.md`.

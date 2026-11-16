@@ -1,0 +1,268 @@
+[
+ {
+  "month": "December 2026",
+  "puzzle": 1,
+  "hook": "This month in chess history",
+  "story": [
+   "Five years ago this month, on 3 December 2021 in Dubai, Magnus Carlsen and Ian Nepomniachtchi played 136 moves. Seven hours and 45 minutes. The longest game in the history of the World Championship. Carlsen won.",
+   "My game against Mark McMahon was shorter. Electronic Knights 2025, US Chess, played without engines. On move 15 I gave up my rook: 15.axb5 Qxa1 16.bxc6, and the pawn ran on to c7. After 20 moves it was over. The position was all about calculating and setting up the trap. What if he takes the bait and takes the rook? He couldn't resist and made a quick move. That was it. The trap snapped."
+  ],
+  "sources": [
+   [
+    "Carlsen–Nepomniachtchi, game 6 (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Carlsen_versus_Nepomniachtchi,_World_Chess_Championship_2021,_Game_6"
+   ],
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1531124"
+   ],
+   [
+    "Crosstable: ICCF crosstable 25EN03",
+    "https://www.iccf.com/event?id=109313"
+   ]
+  ],
+  "title": "136 moves, and 20",
+  "links": [
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1531124"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=109313"
+   ]
+  ],
+  "date": "2026-12-01",
+  "slug": "december-2026"
+ },
+ {
+  "month": "January 2027",
+  "puzzle": 19,
+  "hook": "A quote",
+  "story": [
+   "Aron Nimzowitsch, in *My System*: “The passed Pawn is a criminal, who should be kept under lock and key.”",
+   "ICCF Champions League 2021, a team event. My team was called The Underrateds. Matthew Tedesco played for The Poisoned Pawns. I had Black. By move 48 three white pawns stood on the sixth rank, and my rook and knight were the lock and key. My notes call 36...Rcd8 the move that lost. I can't remember exactly, but it was a blunder."
+  ],
+  "sources": [
+   [
+    "Quote as given in Hereford’s English translation of My System, cited on the Lichess forum (page not yet checked against the book)",
+    "https://lichess.org/forum/general-chess-discussion/my-system-chapter-4-the-passed-pawn"
+   ],
+   [
+    "Same wording, ChessBase",
+    "https://en.chessbase.com/post/passed-pawns-criminally-dangerous"
+   ],
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1288955"
+   ],
+   [
+    "Team names: ICCF, Champions League 2021 C9",
+    "https://www.iccf.com/event?id=95550"
+   ]
+  ],
+  "title": "Lock and key",
+  "links": [
+   [
+    "with my notes",
+    "https://chess.myvortexcloud.com/puzzles/2024-Week-07/"
+   ],
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1288955"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=95550"
+   ]
+  ],
+  "date": "2027-01-01",
+  "slug": "january-2027"
+ },
+ {
+  "month": "February 2027",
+  "puzzle": 4,
+  "hook": "The name on the tournament",
+  "story": [
+   "The tournament carried a name: Victor Palciauskas. Born in Kaunas, Lithuania, in 1941. Physics professor in California. From 1978 to 1984 the tenth World Correspondence Chess Champion. I didn't know him, nor had I heard of him. Now I proudly hold the signed document as the undisputed winner 🏆 of the tournament. It was the first tournament I ever signed up for, and my first tournament win. Counts triple at my age.",
+   "Bruce Moskowitz had White. US Chess, no engines. By move 16 his king had walked to e2, and my queen stood on b5. I wrote about this game once before: {{“A later analysis showed that move 15. Ke2 loses the game for White. However, a win needs to be carried home.”}} I won the tournament 6–0; in August 2021 US Chess’s column “Check Is In The Mail” listed it among the recent event winners."
+  ],
+  "sources": [
+   [
+    "Victor Palciauskas (Wikipedia)",
+    "https://en.wikipedia.org/wiki/Victor_Palciauskas"
+   ],
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1254076"
+   ],
+   [
+    "Crosstable: ICCF crosstable 21VP04",
+    "https://www.iccf.com/event?id=93278"
+   ],
+   [
+    "Your words: Week 51 post, December 2023 (spelling of “analysis” corrected)",
+    "https://chess.myvortexcloud.com/puzzles/2023-Week-51/"
+   ],
+   [
+    "6–0 and the US Chess column: “Check Is In The Mail: August 2021” (Recent Event Winners: 21VP04, Egbert Schroeer, 6-0)",
+    "https://new.uschess.org/news/check-mail-august-2021"
+   ]
+  ],
+  "title": "A tournament with a name",
+  "links": [
+   [
+    "with my notes",
+    "https://chess.myvortexcloud.com/puzzles/2023-Week-51/"
+   ],
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1254076"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=93278"
+   ]
+  ],
+  "date": "2027-02-01",
+  "slug": "february-2027"
+ },
+ {
+  "month": "March 2027",
+  "puzzle": 15,
+  "hook": "No anecdote",
+  "story": [
+   "No anecdote this month. The position is enough.",
+   "ICCF Veterans World Cup 13, semi-final. Anatoly Ilyasov, rated 2317. Me, 2114. I had White. On move 26 every white move but one gets mated. [[Your part: did you see the mate coming, or the save first?]]"
+  ],
+  "sources": [
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1395667"
+   ],
+   [
+    "Ratings: ICCF crosstable, Veterans World Cup 13 SF 9",
+    "https://www.iccf.com/event?id=102157"
+   ]
+  ],
+  "title": "One move",
+  "links": [
+   [
+    "with my notes",
+    "https://chess.myvortexcloud.com/Navigating-the-Giants"
+   ],
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1395667"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=102157"
+   ]
+  ],
+  "date": "2027-03-01",
+  "slug": "march-2027"
+ },
+ {
+  "month": "April 2027",
+  "puzzle": 5,
+  "hook": "A famous game, same position",
+  "story": [
+   "Hoogeveen, October 2011. Vladimir Kramnik had White against Anish Giri. King’s Indian, the Bayonet: 9.b4. After nine moves their board showed exactly the position on mine against Matthew Nohr, move for move. Kramnik played 10.g3 and won in 35 moves. I played 10.Re1. My note on 9.b4 at the time: {{“pretty much common theory.”}}",
+   "Electronic Knights 2021 Final, US Chess, no engines. Before move 28 I noted: {{“I thought about the next move for a pretty long time …”}} My game lasted 54 moves."
+  ],
+  "sources": [
+   [
+    "Kramnik–Giri, Hoogeveen 2011, game score (Crestbook)",
+    "https://online.crestbook.com/vasa/2011/kc-itogi-best-06_game1.htm"
+   ],
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1448900"
+   ],
+   [
+    "Crosstable: ICCF crosstable 21ENf01",
+    "https://www.iccf.com/event?id=104617"
+   ],
+   [
+    "Your words: annotations on your site, 21ENf01 Nohr",
+    "https://chess.myvortexcloud.com/tournaments/21ENf01-Nohr/"
+   ]
+  ],
+  "title": "Kramnik’s position",
+  "links": [
+   [
+    "with my notes",
+    "https://chess.myvortexcloud.com/tournaments/21ENf01-Nohr/"
+   ],
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1448900"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=104617"
+   ]
+  ],
+  "date": "2027-04-01",
+  "slug": "april-2027"
+ },
+ {
+  "month": "May 2027",
+  "puzzle": 11,
+  "hook": "This month in chess history",
+  "story": [
+   "Thirty years ago this month, on 11 May 1997, Garry Kasparov resigned the sixth game against IBM’s Deep Blue after 19 moves. The game lasted about an hour. The machine won the match, two wins to one, with three draws.",
+   "I lost to a human. Electronic Knights 2021 Final, no engines on either side. Tim Corkum had Black. We had met once before, in the 2021 Semi-Final, and drawn. My note on that game: {{“I had the feeling I was leading, but Tim was able to turn the tide and managed a draw brilliantly. An honor to play with him.”}}",
+   "This time, on move 16 I noted: {{“I don't feel comfortable and have a hard time calculating a plan.”}} And on 37.Re8, my move just before this position: {{“That was a blunder and after this Black is on a winning path.”}} Corkum found the answer himself. A brilliant player and always fun to chat with. Can't wait to hear or read his Sláinte again.",
+   "We met a third time in the RoW Semi-Final, with engines: another draw."
+  ],
+  "sources": [
+   [
+    "Deep Blue defeats Kasparov (HISTORY.com)",
+    "https://history.com/this-day-in-history/deep-blue-defeats-garry-kasparov-in-chess-match"
+   ],
+   [
+    "Game score: ICCF game page",
+    "https://www.iccf.com/game?id=1448898"
+   ],
+   [
+    "Crosstable: ICCF crosstable 21ENf01",
+    "https://www.iccf.com/event?id=104617"
+   ],
+   [
+    "Your words: annotations on your site, 21ENf01 Corkum",
+    "https://chess.myvortexcloud.com/tournaments/21ENf01-Corkum/"
+   ],
+   [
+    "Note: the score on your site has 35...Rxb8 36.Re8 gxf2+ 37.Kxf2; ICCF has 35...gxf2+ 36.Kxf2 Rxb8 37.Re8. Same position at move 37; move numbers here follow ICCF",
+    "https://www.iccf.com/game?id=1448898"
+   ],
+   [
+    "Your note on the 21ENs04 draw: game page 21ENs04-Corkum on your site",
+    "https://chess.myvortexcloud.com/tournaments/21ENs04-Corkum/"
+   ],
+   [
+    "Third meeting, a draw: ICCF crosstable, RoW Championship 2024 Semi-Final 4",
+    "https://www.iccf.com/event?id=106913"
+   ]
+  ],
+  "title": "Lost to a human",
+  "links": [
+   [
+    "with my notes",
+    "https://chess.myvortexcloud.com/tournaments/21ENf01-Corkum/"
+   ],
+   [
+    "on ICCF",
+    "https://www.iccf.com/game?id=1448898"
+   ],
+   [
+    "crosstable",
+    "https://www.iccf.com/event?id=104617"
+   ]
+  ],
+  "date": "2027-05-01",
+  "slug": "may-2027"
+ }
+]

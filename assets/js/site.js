@@ -157,6 +157,22 @@ const slug = (value) =>
      ```
    or a position as  <div class="board" data-fen="FEN"></div>
    Add data-orientation="black" to show the board from Black's side. */
+let viewer = null;
+function loadViewer() {
+  // The Lichess viewer and its styles, loaded once, the first time a board needs them.
+  if (!viewer) {
+    const base = new URL("../lpv/", import.meta.url);
+    for (const file of ["chessground.base.css", "chessground.cburnett.css", "lichess-pgn-viewer.css"]) {
+      const link = document.createElement("link");
+      link.rel = "stylesheet";
+      link.href = new URL(file, base).href;
+      document.head.prepend(link);
+    }
+    viewer = import(new URL("lichess-pgn-viewer.min.js", base).href).then((module) => module.default);
+  }
+  return viewer;
+}
+
 (async function boards() {
   const blocks = [];
   document.querySelectorAll(".language-pgn").forEach((node) => {
@@ -170,17 +186,9 @@ const slug = (value) =>
   });
   if (!blocks.length) return;
 
-  const base = new URL("../lpv/", import.meta.url);
-  for (const file of ["chessground.base.css", "chessground.cburnett.css", "lichess-pgn-viewer.css"]) {
-    const link = document.createElement("link");
-    link.rel = "stylesheet";
-    link.href = new URL(file, base).href;
-    document.head.prepend(link);
-  }
-
   let Viewer;
   try {
-    Viewer = (await import(new URL("lichess-pgn-viewer.min.js", base).href)).default;
+    Viewer = await loadViewer();
   } catch (error) {
     return; // Leave the PGN text in place if the viewer can't load.
   }
@@ -218,4 +226,66 @@ const slug = (value) =>
       holder.after(note);
     }
   }
+})();
+
+/* ---------- Puzzle of the Month (_includes/puzzle.html) ----------
+   Show solution swaps in the board with the move marked and shows what was
+   played. Replay the full game opens the whole game in the Lichess viewer at
+   the puzzle position; it shows the solution too, as the move list gives it away. */
+(function puzzles() {
+  document.querySelectorAll(".puzzle").forEach((puzzle) => {
+    const reveal = puzzle.querySelector(".puzzle__reveal");
+    const solution = puzzle.querySelector(".puzzle__solution");
+    const board = puzzle.querySelector(".puzzle__board");
+    const replay = puzzle.querySelector(".puzzle__replay");
+    const game = puzzle.querySelector(".puzzle__game");
+    if (!reveal || !solution || !board) return;
+
+    function showSolution(open) {
+      solution.hidden = !open;
+      board.dataset.state = open ? "answer" : "question";
+      reveal.textContent = open ? "Hide solution" : "Show solution";
+      reveal.setAttribute("aria-expanded", String(open));
+    }
+    reveal.addEventListener("click", () => showSolution(solution.hidden));
+
+    if (!replay || !game) return;
+    replay.addEventListener("click", async () => {
+      const open = game.hidden;
+      game.hidden = !open;
+      replay.textContent = open ? "Hide the full game" : "Replay the full game";
+      replay.setAttribute("aria-expanded", String(open));
+      if (!open) return;
+      showSolution(true);
+      if (game.dataset.ready) return;
+      game.dataset.ready = "1";
+
+      const holder = document.createElement("div");
+      holder.className = "board";
+      const mount = document.createElement("div");
+      holder.append(mount);
+      game.append(holder);
+      try {
+        const Viewer = await loadViewer();
+        Viewer(mount, {
+          pgn: game.querySelector(".puzzle__pgn").textContent.trim(),
+          orientation: game.dataset.orientation || undefined,
+          initialPly: Number(game.dataset.ply) || 0,
+          showPlayers: "auto",
+          showMoves: "auto",
+          showControls: true,
+          showClocks: false,
+          scrollToMove: false,
+          lichess: false,
+          menu: { getPgn: { enabled: true }, practiceWithComputer: { enabled: false }, analysisBoard: { enabled: false } },
+        });
+      } catch (error) {
+        holder.remove();
+        const note = document.createElement("p");
+        note.className = "board-note";
+        note.textContent = "The game viewer couldn’t load. The links above open the game on ICCF.";
+        game.append(note);
+      }
+    });
+  });
 })();

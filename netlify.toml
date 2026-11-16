@@ -3,3 +3,9 @@
 # resized copies from the Netlify Image CDN (see _includes/image-url.html).
 [build.environment]
   JEKYLL_ENV = "production"
+
+# Deploy Previews also build documents dated in the future, so puzzles written
+# ahead for coming months can be checked before they go live. The published
+# site keeps Jekyll's default and shows each puzzle from its date on.
+[context.deploy-preview]
+  command = "bundle exec jekyll build --future"

@@ -19,6 +19,7 @@
   --bar-line: #45403a;
   --sq-dark: #b58863;      /* wooden board squares */
   --sq-light: #f0d9b5;
+  --good: #2f6f3e;         /* the solution of a puzzle */
 
   --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
   --text: "Literata", Georgia, "Times New Roman", serif;
@@ -40,6 +41,7 @@
     --bar-hot: #e1c39a;
     --sq-dark: #a07554;
     --sq-light: #dcc3a1;
+    --good: #9ccd84;
     color-scheme: dark;
   }
 }
@@ -56,6 +58,7 @@
   --bar-hot: #e1c39a;
   --sq-dark: #a07554;
   --sq-light: #dcc3a1;
+  --good: #9ccd84;
   color-scheme: dark;
 }
 
@@ -330,6 +333,40 @@ a:hover { text-decoration-thickness: 2px; }
 .game-list { columns: 2 15rem; column-gap: 2rem; padding-left: 1.1em; }
 .game-list li { break-inside: avoid; }
 .updated { font-family: var(--display); font-size: 0.875rem; }
+
+/* Puzzle of the Month (_layouts/puzzle.html, _includes/puzzle.html) */
+.puzzle { margin: 2.5rem 0 1.5rem; padding-top: 2rem; border-top: 1px solid var(--rule); }
+.puzzle__grid { display: grid; grid-template-columns: minmax(0, 22rem) minmax(0, 1fr); gap: 1.25rem 1.75rem; align-items: start; }
+.puzzle__board { position: relative; width: 100%; max-width: 22rem; aspect-ratio: 1; }
+.prose .puzzle__img { position: absolute; inset: 0; display: block; width: 100%; height: auto; border-radius: 4px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18), 0 6px 18px rgba(60, 40, 20, 0.12); }
+.puzzle__img--a { visibility: hidden; }
+.puzzle__board[data-state="answer"] .puzzle__img--a { visibility: visible; }
+.puzzle__board[data-state="answer"] .puzzle__img--q { visibility: hidden; }
+.prose .puzzle__task { margin: 0 0 0.9rem; font-family: var(--display); font-size: 1.15rem; font-weight: 700; line-height: 1.3; }
+.puzzle__reveal { font-family: var(--display); font-weight: 600; font-size: 0.95rem; padding: 0.55rem 1rem; border: 1px solid var(--accent); border-radius: 4px; background: transparent; color: var(--accent); cursor: pointer; }
+.puzzle__reveal:hover { background: var(--surface); }
+.puzzle__solution { margin-top: 1rem; }
+.prose .puzzle__move { margin: 0; font-family: var(--display); font-size: 1.9rem; font-weight: 800; line-height: 1.2; color: var(--good); }
+.prose .puzzle__line { margin: 0.25rem 0 0.5rem; font-size: 1rem; overflow-wrap: anywhere; }
+.puzzle__label { margin-right: 0.35rem; font-family: var(--display); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+.prose .puzzle__check { margin: 0; font-size: 0.98rem; line-height: 1.55; color: var(--muted); }
+.puzzle__more { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1rem; margin-top: 1.5rem; }
+.puzzle__replay { font-size: 0.95rem; padding: 0.55rem 1rem; }
+.puzzle__links { font-family: var(--display); font-size: 0.92rem; color: var(--muted); }
+.puzzle__game .board { margin: 1.25rem 0 0; }
+.puzzle__game .board-note { margin: 1rem 0 0; }
+@media (max-width: 40rem) {
+  .puzzle__grid { grid-template-columns: minmax(0, 1fr); }
+  .puzzle__board { max-width: 100%; }
+}
+/* Puzzles page */
+.puzzle-list { list-style: none; padding: 0; margin: 0 0 2.5em; display: grid; gap: 0.6rem; }
+.prose .puzzle-list li { margin: 0; }
+.puzzle-list a { display: grid; gap: 0.1rem; padding: 0.75rem 1rem; background: var(--surface); border-radius: 6px; color: var(--ink); text-decoration: none; }
+.puzzle-list a:hover { outline: 1px solid var(--accent); }
+.puzzle-list__month { font-family: var(--display); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); }
+.puzzle-list__title { font-family: var(--display); font-size: 1.2rem; font-weight: 700; line-height: 1.25; }
+.puzzle-list__task { font-size: 0.98rem; color: var(--muted); }
 
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; animation: none !important; }

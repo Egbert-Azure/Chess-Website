@@ -1,0 +1,36 @@
+{%- comment -%}
+  The puzzle of a Puzzle of the Month post, from page.puzzle in the front matter:
+  task, board and answer (board images, the answer with the move marked), move,
+  game (what was played from here), check (the engine check in one line),
+  ply and orientation (where the full game opens), links, pgn (the whole game).
+  Show solution and Replay the full game are handled in assets/js/site.js.
+{%- endcomment -%}
+{%- assign pz = page.puzzle -%}
+<section class="puzzle" aria-label="Puzzle">
+  <div class="puzzle__grid">
+    <div class="puzzle__board" data-state="question">
+      <img class="puzzle__img puzzle__img--q" src="{{ pz.board | relative_url }}" alt="Chess position. {{ pz.task | escape }}." width="360" height="360">
+      <img class="puzzle__img puzzle__img--a" src="{{ pz.answer | relative_url }}" alt="The same position with the solution marked by an arrow." width="360" height="360">
+    </div>
+    <div class="puzzle__side">
+      <p class="puzzle__task">{{ pz.task }}</p>
+      <button class="puzzle__reveal" type="button" aria-expanded="false">Show solution</button>
+      <div class="puzzle__solution" hidden>
+        <p class="puzzle__move">{{ pz.move }}</p>
+        <p class="puzzle__line"><span class="puzzle__label">In the game</span> {{ pz.game }}</p>
+        <p class="puzzle__check">{{ pz.check }}</p>
+      </div>
+    </div>
+  </div>
+  {%- if pz.pgn %}
+  <div class="puzzle__more">
+    <button class="button puzzle__replay" type="button" aria-expanded="false">Replay the full game</button>
+    {%- if pz.links %}
+    <span class="puzzle__links">or open it: {% for link in pz.links %}<a href="{{ link.url }}">{{ link.text }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</span>
+    {%- endif %}
+  </div>
+  <div class="puzzle__game" hidden data-ply="{{ pz.ply }}" data-orientation="{{ pz.orientation }}">
+    <pre class="puzzle__pgn" hidden>{{ pz.pgn | escape }}</pre>
+  </div>
+  {%- endif %}
+</section>
