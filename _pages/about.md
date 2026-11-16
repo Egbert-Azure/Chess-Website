@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@felix_mittermeier?utm_content=creditCopy
 
 ## Welcome to Senior Chess Improver!
 
-Greetings, chess enthusiasts and fellow learners! I'm thrilled to have you join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, thoughts and discoveries as I strive to enhance my skills in the captivating world of chess.
+Greetings, chess enthusiasts and fellow learners! Great to have you here! Please join me on this exciting journey of chess improvement. Here, I'll be sharing my personal experiences, insights, thoughts and discoveries as I strive to enhance my skills in the captivating world of chess.
 
 ### Why Senior Chess Improvement Matters
 
@@ -21,14 +21,16 @@ Chess as a senior is not only engaging and enjoyable but also helps improve cogn
 
 ### About Me
 
-I'm a retired Microsoft Executive alumnus and former Manufacturing Executive, now enjoying my time as an amateur genealogist and chess enthusiast. After a 25-year break, I reignited my passion for chess as an adult improver in 2020, entering the competitive tournament world of correspondence chess in 2021 and proudly achieving the [CCE title](https://chess.myvortexcloud.com/The-Road-to-IM/) at ICCF and a USCF-rated chess player ([as of June 2024 nr. 72 in USA](https://www.uschess.org/component/option,com_top_players/Itemid,371?op=list&month=2406&f=usa&l=C:Top%20Correspondence%20Ratings.&h=Correspondence%20Players)).
+I'm a retired Microsoft Executive alumnus and former Manufacturing Executive, now enjoying my time as an amateur genealogist and chess enthusiast. After a 25-year break, I reignited my passion for chess as an adult improver in 2020, entering the competitive tournament world of correspondence chess in 2021 and proudly achieving the [CCE title](https://chess.myvortexcloud.com/The-Road-to-IM/) at ICCF and a USCF-rated correspondence player ([nr. 41 in the USA as of April 2026](https://chess.myvortexcloud.com/Back-on-the-Board)).
 
-In my journey, I've found joy in exploring my roots through genealogy, rediscover the beauty of analog photography and challenging myself on the chessboard. Whether unraveling family stories or making strategic moves, I thrive on pursuing growth and discovery.
+These days I play one Electronic Knights section per year (US Chess's correspondence championship, played on the ICCF server and without engines) and no new ICCF events. In March 2026 my second Electronic Knights Final started. My ICCF rating is about 2185 (November 2026). In April 2026 I left ChessBase for HIARCS Chess Explorer ([Back on the Board](https://chess.myvortexcloud.com/Back-on-the-Board)). New on the site: a [Puzzle of the Month](https://chess.myvortexcloud.com/puzzles/) from my own games, from 1 December 2026.
+
+In my journey, I've found joy in exploring my roots through genealogy, rediscovering the beauty of analog photography and challenging myself on the chessboard. Whether unraveling family stories or making strategic moves, I thrive on pursuing growth and discovery.
 
 Best regards,
 Egbert Schroeer
 
-> Please subscribe
+> Please [subscribe by email](https://follow.it/senior-chess-improver?leanpub) or follow the [RSS feed](https://chess.myvortexcloud.com/feed.xml).
 
 My LinkedIn Profile
 
@@ -48,4 +50,4 @@ Let these articles and the GitHub repository help you understand and implement t
 
 ---
 
-&copy; 2023 E. Schroeer - All rights reserved
+&copy; 2023–2026 E. Schroeer - All rights reserved
