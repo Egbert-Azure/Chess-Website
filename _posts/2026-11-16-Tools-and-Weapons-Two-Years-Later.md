@@ -33,6 +33,15 @@ In April I left ChessBase for HIARCS Chess Explorer ([Back on the Board](https:/
 
 The facts: HIARCS Chess Explorer Pro runs on the Mac (Apple Silicon and Intel) and on Windows, and it comes with a [perpetual licence, no subscription](https://hiarcs.com/mac-chess-explorer-pro.html), from about $80, once.
 
+## Still in the toolbox: Chessbook
+
+I don't use it much, but it's interesting and it was the note which was in this never finished blog ever since. Chessbook builds your opening repertoire, drills it with spaced repetition and shows you where your repertoire still has gaps. The free tier lets you add 400 moves. After that it pulls you into yet another subscription, unfortunately: Chessbook Pro, $7.99 a month or $79.99 a year.
+I have to say I'm pretty much done with all SSA subscription models. I even moved away my email, office, photos, documents to my private cloud. But if this is still your cup of tea, worth a look.
+
+[Try it out](https://chessbook.com/?ref=seniorchessimprover)
+
+Free alternatives: build your repertoire in a [Lichess study](https://lichess.org/study), one chapter per opening. Set a chapter to "interactive lesson", and Lichess quizzes you on your moves. To drill it with spaced repetition, use [Listudy](https://listudy.org/en), free and open source. Less comfortable than Chessbook, but it costs nothing.
+
 ## A game with nothing but my own notes
 
 What does "just my own thoughts" look like? Here is a game from the Electronic Knights 2024 Preliminary (24EN02), where I shared first place, unbeaten. More about that section in March. Electronic Knights is played without engines, so the notes in the game below are exactly what I wrote while playing, nothing added.
