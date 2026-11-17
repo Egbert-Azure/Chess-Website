@@ -13,7 +13,7 @@ featured: false
 
 ## Welcome back
 
-Now this is the first "real" blog post since April, and it's time for an update. As said in my blog in April, I reduced the amount of tournaments for the good and focused on Electronic Knights. This gives me a USCF correspondence ranking but the tournaments are hosted on ICCF engine free. Even signing up for just 1 board I actually play 3 tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess. That was a bit frustrating, because when they asked me to join, I happily agree and thought it will last another tournament. Anyway, change is normal.
+Now this is the first "real" blog post since April, and it's time for an update. As I said in my [blog in April](https://chess.myvortexcloud.com/Back-on-the-Board), I reduced the number of tournaments for good and focused on Electronic Knights. This gives me a USCF correspondence ranking, while the tournaments are hosted on the ICCF server, engine-free. Even though I sign up for just one board, I actually play three tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess. That was a bit frustrating, because when they asked me to join, I happily agreed and thought it would last another tournament. Anyway, change is normal.
 
 So, in the next months I give some updates on interesting games and some thoughts.
 
@@ -77,17 +77,19 @@ Kb2 f3 47. Ra5 e4 48. Rf5 Qd6 49. b4 Qe6 50. Rf4 Qe5 51. Rg4+ Kh7 52. Rf2 Qf5
 
 ## Why I won
 
-The engine finds no big mistake on either side (not sure if it counts but hey, I take it. For sure such a judgment is better than those bogus ChatGPT annotations from ChessBase): White's worst move cost less than a pawn (49.b4). Small advantages added up, the kind of game that is possible without engines. {% comment %}Your part: when did you feel it was won? What did you learn about playing the queen against two rooks?{% endcomment %}
+The engine finds no big mistake on either side (not sure if it counts, but hey, I'll take it. Such a verdict is surely better than those bogus ChatGPT annotations from ChessBase): White's worst move cost less than a pawn (49.b4). Small advantages added up, the kind of game that is possible without engines. {% comment %}Your part: when did you feel it was won? What did you learn about playing the queen against two rooks?{% endcomment %}
 
 ## Tools and weapons
 
-No engines in Electronic Knights. But I heavily rely on my opening repertoire built over the last 5 years. And the modern Pirc I studied extensively (see my other blogs about the Pirc, Modern Pirc and why I like the -for some it is a risky - opening.
+No engines in Electronic Knights. But I heavily rely on my opening repertoire, built over the last 5 years, and on the Modern Pirc, which I studied extensively. See my [other posts about the Pirc](https://chess.myvortexcloud.com/tags/?tag=pirc) and why I like it, even if some find it a risky opening.
 
 ## Rating
 
-Electronic Knights counts for US Chess, not for ICCF. This win took my US Chess correspondence rating from 2123 to 2137; Weiner went from 2201 to 2187. In April I wrote that my US Chess correspondence ranking had climbed to #41 in the USA, from #67 in November 2024: “Proof that quality over quantity actually works.” It's funny though that always Ben Finegold comes to my mind who shared mutiple times the opinion a senior adult is not able to improve much.
+Electronic Knights counts for US Chess, not for ICCF. This win took my US Chess correspondence rating from 2123 to 2137; Weiner went from 2201 to 2187. In April I wrote that my US Chess correspondence ranking had climbed to #41 in the USA, from #67 in November 2024: “Proof that quality over quantity actually works.” Funny, though: Ben Finegold always comes to mind, who has said more than once that a senior adult can't improve much.
 
-![alt text](image.png)
+![My US Chess correspondence rating, 2021 to 2026](/images/uschess-rating-history-2026.png)
+
+*My US Chess correspondence rating history, 2021 to 2026.*
 
 Also: [on ICCF](https://www.iccf.com/game?id=1531116) · [crosstable](https://www.iccf.com/event?id=109313) · [my first game in this section, against Peter Gladis](https://chess.myvortexcloud.com/First-Game-25EN03) · [the December puzzle, from this section](https://chess.myvortexcloud.com/puzzles/december-2026/)
 
