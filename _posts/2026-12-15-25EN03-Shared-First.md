@@ -91,6 +91,10 @@ Electronic Knights counts for US Chess, not for ICCF. This win took my US Chess 
 
 *My US Chess correspondence rating history, 2021 to 2026.*
 
+## The newsletter has moved
+
+Since November, the newsletter comes from this site itself: no ads, no tracking, just a short email for each new post and each Puzzle of the Month. follow.it is closed, so if you used to get my posts from there, please [sign up here](https://chess.myvortexcloud.com/newsletter/). It takes ten seconds.
+
 Also: [on ICCF](https://www.iccf.com/game?id=1531116) · [crosstable](https://www.iccf.com/event?id=109313) · [my first game in this section, against Peter Gladis](https://chess.myvortexcloud.com/First-Game-25EN03) · [the December puzzle, from this section](https://chess.myvortexcloud.com/puzzles/december-2026/)
 
 {% comment %}

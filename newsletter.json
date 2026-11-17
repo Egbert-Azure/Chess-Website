@@ -5,9 +5,11 @@ sitemap: false
 ---
 {%- comment -%} What the newsletter function announces: the newest posts and Puzzles of the Month that are live. {%- endcomment -%}
 {%- assign monthly = site.puzzles | where: "layout", "puzzle" | sort: "date" | reverse -%}
+{%- comment -%} A post with "newsletter: false" in its front matter is never mailed out. {%- endcomment -%}
+{%- assign mailposts = site.posts | where_exp: "p", "p.newsletter != false" -%}
 {
   "posts": [
-    {%- for p in site.posts limit: 10 %}
+    {%- for p in mailposts limit: 10 %}
     {%- capture img %}{% if p.image %}{{ site.url }}/.netlify/images?url={{ p.image | uri_escape }}&w=1200&h=630&fit=cover{% endif %}{% endcapture %}
     {"kind": "post", "title": {{ p.title | jsonify }}, "description": {{ p.description | default: p.excerpt | strip_html | strip_newlines | strip | truncate: 220 | jsonify }}, "url": {{ p.url | absolute_url | jsonify }}, "date": {{ p.date | date_to_xmlschema | jsonify }}, "image": {{ img | strip | jsonify }}}{% unless forloop.last %},{% endunless %}
     {%- endfor %}

@@ -31,6 +31,6 @@ One short email when a new post goes up, usually on the 15th, and when the new P
 
 ## Your address
 
-Your address is used for this newsletter only. It is stored with the site's host, Netlify, and the emails go out through the mail service Resend. It is never shared or sold. You confirm your subscription with one click, every email has a link to unsubscribe with one click, and unsubscribing deletes your address.
+Your address is used for this newsletter only. It is stored with the site's host, Netlify, and the emails go out through the mail service Resend. It is never shared or sold, and the emails carry no tracking. You confirm your subscription with one click, every email has a link to unsubscribe with one click, and unsubscribing deletes your address.
 
 Prefer a feed reader? Use the [RSS feed]({{ '/feed.xml' | relative_url }}).
