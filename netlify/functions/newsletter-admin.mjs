@@ -6,7 +6,7 @@
 //   ?action=import&exclude=a,b     body: follow.it CSV export (or one address per line)
 //   ?action=remove&email=x         delete one reader
 //   ?action=test&to=x              send the newest post or puzzle to x only
-//   ?action=test-moved&to=x        send the "newsletter has moved" email to x only
+//   ?action=test-moved&to=x        send the "newsletter has moved" email (with the latest post) to x only
 //   ?action=moved-notice           send that email once to every reader imported from follow.it
 //   ?action=send-now[&dry=1]       announce what's new right away (dry=1: only show what would go out)
 import { store, sender, safe, json } from "../lib/runtime.mjs";
@@ -16,6 +16,11 @@ import {
 } from "../lib/newsletter.mjs";
 
 const PREVIEW_TOKEN = "0".repeat(40);   // test mails: the unsubscribe link just shows "unsubscribed"
+
+async function newestItem() {
+  const feed = await fetchFeed();
+  return [...(feed.posts || []), ...(feed.puzzles || [])].sort((a, b) => Date.parse(b.date) - Date.parse(a.date))[0];
+}
 
 export default async (request) => {
   const key = Netlify.env.get("NEWSLETTER_ADMIN_KEY");
@@ -49,19 +54,20 @@ export default async (request) => {
         if (!validEmail(to)) return json({ error: "add &to=your address" }, 400);
         const record = { email: to, token: PREVIEW_TOKEN };
         let mail;
+        const newest = await newestItem();
         if (action === "test") {
-          const feed = await fetchFeed();
-          const newest = [...(feed.posts || []), ...(feed.puzzles || [])].sort((a, b) => Date.parse(b.date) - Date.parse(a.date))[0];
           if (!newest) return json({ error: "nothing on the site to send" }, 400);
           mail = updateMail(record, [newest]);
         } else {
-          mail = movedMail(record);
+          mail = movedMail(record, newest ? [newest] : []);
         }
         await sender().one(mail);
         return json({ sent: 1, subject: mail.subject });
       }
-      case "moved-notice":
-        return json(await sendMovedNotice({ store: s, send: sender() }));
+      case "moved-notice": {
+        const newest = await newestItem();
+        return json(await sendMovedNotice({ store: s, send: sender(), latest: newest ? [newest] : [] }));
+      }
       case "send-now":
         return json(await announce({ store: s, send: sender(), feed: await fetchFeed(), dryRun: params.get("dry") === "1" }));
       default:

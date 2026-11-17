@@ -132,20 +132,26 @@ export function confirmationMail(record) {
   };
 }
 
+const itemLabel = (item) => (item.kind === "puzzle" ? "Puzzle of the Month" : "New post");
+
+function itemBlocks(items, { withTitle = items.length > 1, label = itemLabel } = {}) {
+  const picture = (item) => item.image
+    ? `<a href="${esc(item.url)}"><img src="${esc(item.image)}" width="520" alt="" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;margin:8px 0 14px;"></a>`
+    : "";
+  return items.map((item) => `${picture(item)}
+<p style="margin:20px 0 4px;font-family:Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;color:#8a3f12;">${esc(label(item))}</p>
+${withTitle ? `<p style="margin:0 0 6px;font-family:Arial,sans-serif;font-weight:700;font-size:18px;">${esc(item.title)}</p>` : ""}
+<p style="margin:0;">${esc(item.description)}</p>
+${button(item.url, item.kind === "puzzle" ? "Solve the puzzle" : "Read the post")}`).join("");
+}
+
 export function updateMail(record, items) {
-  const label = (item) => (item.kind === "puzzle" ? "Puzzle of the Month" : "New post");
+  const label = itemLabel;
   const subject = items.length === 1
     ? (items[0].kind === "puzzle" ? `Puzzle of the Month: ${items[0].title}` : items[0].title)
     : `${items.length} new on ${NAME}`;
   const heading = items.length === 1 ? items[0].title : `New on ${NAME}`;
-  const picture = (item) => item.image
-    ? `<a href="${esc(item.url)}"><img src="${esc(item.image)}" width="520" alt="" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;margin:8px 0 14px;"></a>`
-    : "";
-  const blocks = items.map((item) => `${picture(item)}
-<p style="margin:20px 0 4px;font-family:Arial,sans-serif;font-size:12px;font-weight:700;letter-spacing:0.05em;text-transform:uppercase;color:#8a3f12;">${esc(label(item))}</p>
-${items.length > 1 ? `<p style="margin:0 0 6px;font-family:Arial,sans-serif;font-weight:700;font-size:18px;">${esc(item.title)}</p>` : ""}
-<p style="margin:0;">${esc(item.description)}</p>
-${button(item.url, item.kind === "puzzle" ? "Solve the puzzle" : "Read the post")}`).join("");
+  const blocks = itemBlocks(items);
   const footer = subscriberFooter(record.token);
   const text = items.map((item) => `${label(item)}: ${item.title}\n${item.description}\n${item.url}`).join("\n\n");
   return withListHeaders({
@@ -156,7 +162,8 @@ ${button(item.url, item.kind === "puzzle" ? "Solve the puzzle" : "Read the post"
   }, record.token);
 }
 
-export function movedMail(record) {
+// The "newsletter has moved" note, with the latest post or puzzle below it.
+export function movedMail(record, latest = []) {
   const footer = subscriberFooter(record.token);
   const body = [
     `You subscribed to ${NAME} through follow.it. I've moved the newsletter to my own site: no ads any more, just a short email when there is a new post or a new Puzzle of the Month.`,
@@ -168,10 +175,15 @@ export function movedMail(record) {
     subject: `${NAME}: the newsletter has moved`,
     html: frame({
       heading: "The newsletter has moved",
-      bodyHtml: body.map((p) => `<p style="margin:0 0 12px;">${p}</p>`).join("") + button(`${SITE}/`, "Visit the site"),
+      bodyHtml: body.map((p) => `<p style="margin:0 0 12px;">${p}</p>`).join("") +
+        (latest.length
+          ? `<hr style="border:0;border-top:1px solid #d8c7ac;margin:24px 0 4px;">${itemBlocks(latest, { withTitle: true, label: (i) => (i.kind === "puzzle" ? "Puzzle of the Month" : "Latest post") })}`
+          : button(`${SITE}/`, "Visit the site")),
       footerHtml: footer.html,
     }),
-    text: `${body.join("\n\n").replace("<br>", "\n")}\n\n${SITE}/\n\n--\n${footer.text}`,
+    text: `${body.join("\n\n").replace("<br>", "\n")}\n\n` +
+      (latest.length ? latest.map((i) => `Latest: ${i.title}\n${i.description}\n${i.url}`).join("\n\n") : `${SITE}/`) +
+      `\n\n--\n${footer.text}`,
   }, record.token);
 }
 
@@ -300,10 +312,10 @@ export async function importList({ store, csv, exclude = [], now = Date.now() })
 }
 
 // One-time note to readers imported from follow.it. Each reader gets it only once.
-export async function sendMovedNotice({ store, send, now = Date.now() }) {
+export async function sendMovedNotice({ store, send, latest = [], now = Date.now() }) {
   const readers = (await allSubscribers(store)).filter((r) => r.status === "active" && r.source === "follow.it" && !r.movedNotice);
   if (!readers.length) return { sent: 0 };
-  await send.batch(readers.map(movedMail));
+  await send.batch(readers.map((r) => movedMail(r, latest)));
   for (const record of readers) {
     record.movedNotice = new Date(now).toISOString();
     await store.setJSON(`sub/${await hashEmail(record.email)}`, record);
