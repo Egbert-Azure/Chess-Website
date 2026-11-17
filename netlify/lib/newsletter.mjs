@@ -165,11 +165,14 @@ export function updateMail(record, items) {
 // The "newsletter has moved" note, with the latest post or puzzle below it.
 export function movedMail(record, latest = []) {
   const footer = subscriberFooter(record.token);
+  const details = `${SITE}/newsletter/#your-address`;
   const body = [
     `You subscribed to ${NAME} through follow.it. I've moved the newsletter to my own site: no ads any more, just a short email when there is a new post or a new Puzzle of the Month.`,
+    `It's also about your privacy. Your address is no longer with a newsletter company that lives off advertising. It is kept privately by my own site, used for this newsletter only, and never shared or sold. Unsubscribing deletes it. <a href="${details}" style="color:#8a3f12;">How your address is handled</a>.`,
     "You don't have to do anything. If you'd rather not get it, unsubscribe with one click below.",
     "Amici sumus,<br>Egbert",
   ];
+  const plain = (html) => html.replace("<br>", "\n").replace(/<a href="([^"]+)"[^>]*>([^<]+)<\/a>/g, "$2: $1");
   return withListHeaders({
     to: record.email,
     subject: `${NAME}: the newsletter has moved`,
@@ -181,7 +184,7 @@ export function movedMail(record, latest = []) {
           : button(`${SITE}/`, "Visit the site")),
       footerHtml: footer.html,
     }),
-    text: `${body.join("\n\n").replace("<br>", "\n")}\n\n` +
+    text: `${body.map(plain).join("\n\n")}\n\n` +
       (latest.length ? latest.map((i) => `Latest: ${i.title}\n${i.description}\n${i.url}`).join("\n\n") : `${SITE}/`) +
       `\n\n--\n${footer.text}`,
   }, record.token);
