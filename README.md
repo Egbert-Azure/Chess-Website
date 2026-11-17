@@ -65,7 +65,7 @@ A puzzle from my own games goes live on the Puzzles page on the 1st of every mon
 
 The site sends its own newsletter: one short email when a new post or a new Puzzle of the Month goes live. No outside newsletter service, no ads.
 
-- **Sign-up:** `/newsletter/` (linked in the footer and at the end of the posts). Readers confirm with one click; every email has a one-click unsubscribe link, and mail apps get their own "Unsubscribe" button (List-Unsubscribe header). Unsubscribing deletes the address.
+- **Sign-up:** `/newsletter/` (linked in the footer and at the end of the posts). Readers confirm with one click; every email has a one-click unsubscribe link, and mail apps get their own "Unsubscribe" button (List-Unsubscribe header). Unsubscribing deletes the address; a sign-up that isn't confirmed within a week is deleted too.
 - **Where the addresses are:** in Netlify Blobs (store `newsletter`) in the Netlify account. Never in this repository.
 - **Sending:** `netlify/functions/newsletter-send.mjs` runs every day at 16:00 UTC (8 AM in Redmond). It reads `/newsletter.json` (the newest live posts and puzzles), mails what is new to the confirmed readers through Resend, and remembers what it sent. The first run only remembers what is already on the site.
 - **Code:** `netlify/lib/newsletter.mjs` (logic), `netlify/lib/runtime.mjs` (Netlify and Resend), `netlify/functions/newsletter-*.mjs` (subscribe, confirm, unsubscribe, send, admin).

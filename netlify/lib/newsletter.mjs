@@ -13,6 +13,7 @@ export const NAME = "Senior Chess Improver";
 const DAILY_CONFIRMATIONS = 25;      // confirmation emails per day, all addresses together
 const RESEND_PENDING_AFTER = 24 * 3600 * 1000;
 const ANNOUNCE_WITHIN_DAYS = 21;     // never announce anything older than this
+const FORGET_PENDING_DAYS = 7;       // unconfirmed sign-ups are deleted after this
 
 export const normEmail = (value) => String(value || "").trim().toLowerCase();
 export const validEmail = (email) =>
@@ -77,6 +78,19 @@ export async function removeSubscriber(store, email) {
   await store.delete(`sub/${key}`);
   if (record.token) await store.delete(`token/${record.token}`);
   return true;
+}
+
+// Delete sign-ups that were never confirmed (someone may have typed another
+// person's address). Runs with the daily send.
+export async function forgetUnconfirmed({ store, now = Date.now() }) {
+  let removed = 0;
+  for (const record of await allSubscribers(store)) {
+    if (record.status === "pending" && now - Date.parse(record.created) > FORGET_PENDING_DAYS * 864e5) {
+      await removeSubscriber(store, record.email);
+      removed++;
+    }
+  }
+  return { removed };
 }
 
 /* ---------- Mail ---------- */
