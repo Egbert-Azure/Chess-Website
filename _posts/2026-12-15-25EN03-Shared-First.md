@@ -11,9 +11,9 @@ featured: false
 
 ---
 
-## Welcome back
+## First, an update
 
-Now this is the first "real" blog post since April, and it's time for an update. As I said in my [blog in April](https://chess.myvortexcloud.com/Back-on-the-Board), I reduced the number of tournaments for good and focused on Electronic Knights. This gives me a USCF correspondence ranking, while the tournaments are hosted on the ICCF server, engine-free. Even though I sign up for just one board, I actually play three tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess. That was a bit frustrating, because when they asked me to join, I happily agreed and thought it would last another tournament. Anyway, change is normal.
+Last month I wrote about the [new look of this site and my tools](https://chess.myvortexcloud.com/Tools-and-Weapons-Two-Years-Later). Now back to the games: this is my first game review since April, so first a quick update on my tournaments. As I said in my [blog in April](https://chess.myvortexcloud.com/Back-on-the-Board), I reduced the number of tournaments for good and focused on Electronic Knights. This gives me a USCF correspondence ranking, while the tournaments are hosted on the ICCF server, engine-free. Even though I sign up for just one board, I actually play three tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess. That was a bit frustrating, because when they asked me to join, I happily agreed and thought it would last another tournament. Anyway, change is normal.
 
 So, in the next months I give some updates on interesting games and some thoughts.
 
