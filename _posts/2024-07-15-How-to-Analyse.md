@@ -122,4 +122,4 @@ See you in the next weeks, when I will share some more tournament results. If yo
 
 Click the coffee mug below at the end of the webpage, and please subscribe and share broadly.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/)

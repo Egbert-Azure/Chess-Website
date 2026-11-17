@@ -100,7 +100,7 @@ The essence of my message is this: embracing slower forms of chess can be a path
 
 Please send feedback and comments any time!
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 
 
 
 

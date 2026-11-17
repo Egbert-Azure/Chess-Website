@@ -277,4 +277,4 @@ Or a beer? Either way 😎 -  Your support keeps me fueled to continue sharing v
 
 Click the coffee cup below.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/)

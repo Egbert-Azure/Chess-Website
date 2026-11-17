@@ -47,6 +47,8 @@ exclude:
   - netlify   # Netlify Functions, not part of the site
   - Gemfile
   - Gemfile.lock
+  - package.json
+  - package-lock.json
   - README.md
   - .github
   - node_modules

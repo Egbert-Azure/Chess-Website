@@ -154,4 +154,4 @@ Click the coffee mug below at the end of the webpage to support this blog - it h
 
 And please subscribe and share broadly.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/)

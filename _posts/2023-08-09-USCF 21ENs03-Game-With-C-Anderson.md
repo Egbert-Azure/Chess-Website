@@ -78,4 +78,4 @@ Black=1 OK: White=8 Black=16 Best: White=3 Black=1 Strong: White=1 --- my next
 unsubmitted move, but White resigned} 0-1
 ```
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 

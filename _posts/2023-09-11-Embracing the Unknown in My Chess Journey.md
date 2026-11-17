@@ -193,6 +193,6 @@ Keep evolving, keep playing, and keep discovering.
 
 Amici Sumus
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 
 
  

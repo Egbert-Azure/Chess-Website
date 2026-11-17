@@ -79,4 +79,4 @@ White=0.08 (flawless) /Black=0.29 (precise) . Mistake: --- Black=1 Inaccurate:
 --- Black=5 OK: White=18 Black=11 Best: White=1 ---} 1-0
 ```
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 

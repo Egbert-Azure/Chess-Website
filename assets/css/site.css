@@ -371,3 +371,8 @@ a:hover { text-decoration-thickness: 2px; }
 @media (prefers-reduced-motion: reduce) {
   * { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
 }
+
+/* Newsletter */
+.newsletter-status { margin: 0 0 1.5rem; padding: 1rem 1.25rem; background: var(--surface); border-left: 3px solid var(--accent); border-radius: 4px; }
+.newsletter-status p { margin: 0; }
+.newsletter-trap { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }

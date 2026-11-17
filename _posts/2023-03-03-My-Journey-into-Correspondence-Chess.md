@@ -91,4 +91,4 @@ Error Value: White=0.31/Black=0.01} 0-1
 
 Here is the link to [Check Is In The Mail - July 2021](https://new.uschess.org/news/check-mail-july-2021)
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 

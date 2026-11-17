@@ -4,7 +4,7 @@
     <p>&copy; {{ site.time | date: "%Y" }} {{ settings.author.name }}. Amici sumus.</p>
     <ul class="footer-links">
       {%- for link in settings.social %}
-      <li><a href="{{ link.link }}" rel="me noopener">{% case link.name %}{% when "Follow-it" %}Follow by email{% when "BuyMeaCoffee" %}Buy me a coffee{% when "Github" %}GitHub{% else %}{{ link.name }}{% endcase %}</a></li>
+      <li><a href="{{ link.link }}" rel="me noopener">{% case link.name %}{% when "Newsletter" %}Newsletter by email{% when "BuyMeaCoffee" %}Buy me a coffee{% when "Github" %}GitHub{% else %}{{ link.name }}{% endcase %}</a></li>
       {%- endfor %}
       <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
     </ul>

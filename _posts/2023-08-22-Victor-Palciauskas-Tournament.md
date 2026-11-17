@@ -81,4 +81,4 @@ Reflecting on this accomplishment, I am reminded that retirement from the corpor
 
 Stay tuned for more insights, stories, and lessons from the correspondence chess world.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 

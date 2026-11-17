@@ -124,7 +124,7 @@ If you find value in my content, consider supporting me with a virtual coffee â˜
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
-Stay updated by [subscribing to my blog](https://follow.it/senior-chess-improver?leanpub) and sharing it with your chess friends.
+Stay updated by [subscribing to my blog](https://chess.myvortexcloud.com/newsletter/) and sharing it with your chess friends.
 
 
 
