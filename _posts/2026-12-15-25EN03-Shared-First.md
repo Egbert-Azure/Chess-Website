@@ -9,9 +9,11 @@ featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@randyfath?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Randy Fath</a> on <a href="https://unsplash.com/photos/selective-focus-photography-of-chess-pieces-G1yhU1Ej-9A?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
 
+---
+
 ## Welcome back
 
-Now this is the first blog post since April, and it's time for an update. As said in my last blog, I reduced the amount of tournaments for the good and focused on Electronic Knights. This gives me a USCF correspondence ranking but the tournaments are hosted on ICCF engine free. Even signing up for just 1 board I actually play 3 tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess.
+Now this is the first "real" blog post since April, and it's time for an update. As said in my blog in April, I reduced the amount of tournaments for the good and focused on Electronic Knights. This gives me a USCF correspondence ranking but the tournaments are hosted on ICCF engine free. Even signing up for just 1 board I actually play 3 tournaments in parallel. I lost my team for Champions League “The Underrateds” because most retired from competitive chess. That was a bit frustrating, because when they asked me to join, I happily agree and thought it will last another tournament. Anyway, change is normal.
 
 So, in the next months I give some updates on interesting games and some thoughts.
 
@@ -79,11 +81,13 @@ The engine finds no big mistake on either side (not sure if it counts but hey, I
 
 ## Tools and weapons
 
-No engines in Electronic Knights. But I heavily rely on my opening repertoire built over the last 5 years. And the modern Pirc I studied extensively.
+No engines in Electronic Knights. But I heavily rely on my opening repertoire built over the last 5 years. And the modern Pirc I studied extensively (see my other blogs about the Pirc, Modern Pirc and why I like the -for some it is a risky - opening.
 
 ## Rating
 
-Electronic Knights counts for US Chess, not for ICCF. This win took my US Chess correspondence rating from 2123 to 2137; Weiner went from 2201 to 2187. In April I wrote that my US Chess correspondence ranking had climbed to #41 in the USA, from #67 in November 2024: “Proof that quality over quantity actually works.” {% comment %}Your part: the ranking today{% endcomment %}
+Electronic Knights counts for US Chess, not for ICCF. This win took my US Chess correspondence rating from 2123 to 2137; Weiner went from 2201 to 2187. In April I wrote that my US Chess correspondence ranking had climbed to #41 in the USA, from #67 in November 2024: “Proof that quality over quantity actually works.” It's funny though that always Ben Finegold comes to my mind who shared mutiple times the opinion a senior adult is not able to improve much.
+
+![alt text](image.png)
 
 Also: [on ICCF](https://www.iccf.com/game?id=1531116) · [crosstable](https://www.iccf.com/event?id=109313) · [my first game in this section, against Peter Gladis](https://chess.myvortexcloud.com/First-Game-25EN03) · [the December puzzle, from this section](https://chess.myvortexcloud.com/puzzles/december-2026/)
 
