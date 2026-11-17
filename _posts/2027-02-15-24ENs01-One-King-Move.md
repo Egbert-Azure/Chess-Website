@@ -9,6 +9,8 @@ featured: false
 ---
 <small>Photo by <a href="https://unsplash.com/@jccards?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Marek Studzinski</a> on <a href="https://unsplash.com/photos/a-person-holding-a-knife-in-their-hand-TE9qfpoOCzo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
 
+---
+
 ## The tournament
 
 Electronic Knights 2024 Semi-Final, section 24ENs01. US Chess, on the ICCF server, no engines. Seven players, six games each. It started on 31 May 2025. The games count for the US Chess correspondence rating, not for the ICCF rating.
