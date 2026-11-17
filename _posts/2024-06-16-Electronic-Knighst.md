@@ -344,4 +344,4 @@ See you next week, when I will share the 2024 Electronic Knights Preliminary res
 
 Click the coffee mug below at the end of the webpage, and please subscribe and share broadly.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/)

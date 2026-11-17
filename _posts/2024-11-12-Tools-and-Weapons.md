@@ -131,4 +131,4 @@ If you like to test Chessify you can use [this referral link](https://chessify.m
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
-**Stay Connected!** If you haven’t already, [subscribe to the blog](https://follow.it/senior-chess-improver?leanpub) and share with fellow chess lovers.
+**Stay Connected!** If you haven’t already, [subscribe to the blog](https://chess.myvortexcloud.com/newsletter/) and share with fellow chess lovers.

@@ -289,3 +289,36 @@ function loadViewer() {
     });
   });
 })();
+
+/* ---------- Newsletter pages ----------
+   /newsletter/?state=... shows the matching message. The confirm and unsubscribe
+   pages post their token to the function and then go back to /newsletter/. */
+(function newsletter() {
+  const params = new URLSearchParams(window.location.search);
+  const states = document.querySelector("[data-newsletter-states]");
+  if (states) {
+    const state = params.get("state");
+    const message = state && states.querySelector(`[data-state="${CSS.escape(state)}"]`);
+    if (message) {
+      message.hidden = false;
+      states.hidden = false;
+      if (["check-your-inbox", "welcome", "unsubscribed"].includes(state)) {
+        const form = document.querySelector("[data-newsletter-form]");
+        if (form) form.hidden = true;
+      }
+    }
+  }
+  const action = document.querySelector("[data-newsletter-action]");
+  if (action) {
+    const token = params.get("t") || "";
+    fetch(`${action.dataset.newsletterAction}?t=${encodeURIComponent(token)}`, {
+      method: "POST",
+      headers: { Accept: "application/json" },
+    })
+      .then((response) => response.json())
+      .then((data) => window.location.replace(`/newsletter/?state=${encodeURIComponent(data.state || "error-link")}`))
+      .catch(() => {
+        action.textContent = "Something went wrong. Please try the link in your email again in a minute.";
+      });
+  }
+})();

@@ -162,7 +162,7 @@ In my next blog, I will update you on the games and how I do in the tournaments.
 **Amici Sumus**
 
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 
 
 
 

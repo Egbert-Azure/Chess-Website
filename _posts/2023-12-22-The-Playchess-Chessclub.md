@@ -273,7 +273,7 @@ Amici Sumus
 
 I'd love to hear your thoughts on today's post. Feel free to share your favorite chess strategy or ask any questions you may have.
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 
 
 
 

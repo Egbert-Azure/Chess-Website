@@ -30,7 +30,7 @@ In my journey, I've found joy in exploring my roots through genealogy, rediscove
 Best regards,
 Egbert Schroeer
 
-> Please [subscribe by email](https://follow.it/senior-chess-improver?leanpub) or follow the [RSS feed](https://chess.myvortexcloud.com/feed.xml).
+> Please [subscribe to the newsletter](https://chess.myvortexcloud.com/newsletter/) or follow the [RSS feed](https://chess.myvortexcloud.com/feed.xml).
 
 My LinkedIn Profile
 

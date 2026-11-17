@@ -174,5 +174,5 @@ In the ever-evolving landscape of chess technology, Chessify emerges as a promis
 **Amici Sumus**
 
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub) 
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/) 
 

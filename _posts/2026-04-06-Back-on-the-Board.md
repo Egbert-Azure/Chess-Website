@@ -124,8 +124,8 @@ The break was good. The return feels better.
 
 **Amici Sumus**
 
-If you enjoy the blog, consider supporting it with a virtual coffee ☕️ or a beer 🍺 — the mug is waiting below. And please [subscribe](https://follow.it/senior-chess-improver?leanpub) if you haven't already.
+If you enjoy the blog, consider supporting it with a virtual coffee ☕️ or a beer 🍺 — the mug is waiting below. And please [subscribe](https://chess.myvortexcloud.com/newsletter/) if you haven't already.
 
 <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="chesslife" data-description="Support me on Buy me a coffee!" data-message="Thank you for reading! You can buy me a coffee if you like!" data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
-> [Please subscribe](https://follow.it/senior-chess-improver?leanpub)
+> [Please subscribe](https://chess.myvortexcloud.com/newsletter/)
