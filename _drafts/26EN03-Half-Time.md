@@ -1,0 +1,142 @@
+---
+layout: post
+title: "26EN03 at Half Time: Three Games, Three Different Endings"
+description: "Electronic Knights 2026 Preliminary: a draw the position made possible, a resignation at move 11, and a win on time."
+image: '/images/shakehands.jpg'
+tags: [USCF, Electronic-Knights, game-analysis]
+featured: false
+---
+<small>Photo by <a href="https://unsplash.com/@_infinitycanvas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Palden Gyamtso</a> on <a href="https://unsplash.com/photos/person-hands-bX0tQ0HTRLg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></small>
+
+---
+
+Electronic Knights 2026 is half done for me: three games finished, three still running. The three finished games ended in three different ways, and none of them with a blunder on the board.
+
+**[Your part: a few lines of intro]**
+
+## The tournament
+
+Electronic Knights 2026 Preliminary, section 26EN03. Electronic Knights is US Chess's correspondence championship, played on the ICCF server and without engines. Seven players, six games each. It started on 10 June 2026. The games count for the US Chess correspondence rating, not for the ICCF rating.
+
+## Where I stand
+
+2½ out of 3 so far: two wins and a draw, no loss. The other three games are still running, so they stay private until they're finished.
+
+**[Your part: where you stand in the section, and how the running games feel]**
+
+## Game 1: Robert Irons, a draw the position made possible
+
+Robert Irons, ICCF rating 2249; mine was 2182. We keep meeting, and I always seem to have White: a draw in the 2024 Semi-Final, this game, and two more games in the 2023 Final and the 2025 Semi-Final, both still running.
+
+Zukertort Opening: 1.Nf3 d5 2.e3 e6 3.c4 Nf6 4.Nc3 Bd6 5.b3. For sixteen moves both sides manoeuvred. Then Black offered a pawn with 17...e4!, and from there my choices got very narrow (1). After 18.Qxe4 a6 my knight on b5 had to go, and 19.Nc7 was the only square that held (2). 20.Qe5 and 21.Qe4 were the only good moves too: everything else left me clearly worse.
+
+During the game I looked at grabbing the knight with 21.Qxd5 instead, and noted: “this line might be an option, risky. Need to check.” Risky was the right word. After 21.Qxd5 Bxd5 22.Nxd5 Ra7 the engine has Black a pawn better.
+
+After 21...N7f6 I wrote: “three fold repetition?” Not yet: the position had come up only twice. But the position made it possible. His knight went between d7 and f6, my queen between e4 and e5, and neither of us had anything better. So we agreed the draw after 22.Qe5 (3).
+
+**[Your part: who offered the draw, and what you thought of 17...e4]**
+
+### Key positions
+
+<div class="board" data-fen="r2qr1k1/pb1nbppp/1p6/1Npn4/4p3/PP2PNBP/2QPBPP1/R4RK1 w - - 0 18"></div>
+
+*1 · 17...e4!: Black offers a pawn. Engine 0.00.*
+
+<div class="board" data-fen="r2qr1k1/1b1nbppp/pp6/1Npn4/4Q3/PP2PNBP/3PBPP1/R4RK1 w - - 0 19"></div>
+
+*2 · After 18...a6 the knight on b5 has to go. 19.Nc7 holds (0.00); 19.Bc4 or 19.Bd3 and the engine has me at −2.5 or worse.*
+
+<div class="board" data-fen="r2qr1k1/1bN1bppp/pp3n2/2pnQ3/8/PP2PNBP/3PBPP1/R4RK1 b - - 7 22"></div>
+
+*3 · After 22.Qe5: the same position for the second time. Draw agreed.*
+
+### The full game
+
+```pgn
+[Event "Electronic Knights 2026 Preliminary (26EN03)"]
+[White "Schroeer, Egbert"]
+[Black "Irons, Robert"]
+[Result "1/2-1/2"]
+
+1. Nf3 d5 2. e3 e6 3. c4 Nf6 4. Nc3 Bd6 5. b3 O-O 6. Bb2 Re8 7. Nb5 Be7 8. Be5
+Na6 9. a3 c6 10. Nc3 Nc5 11. Qc2 Ncd7 12. Bg3 b6 13. Be2 Bb7 14. h3 c5 15. Nb5
+e5 16. cxd5 Nxd5 17. O-O e4 18. Qxe4 a6 19. Nc7 N7f6 20. Qe5 Nd7 21. Qe4 N7f6
+22. Qe5 1/2-1/2
+```
+
+## Game 2: Lawrence Gladding, resigned at move 11
+
+Lawrence Gladding, ICCF rating 1800. Our first game.
+
+The same system with White: 1.Nf3 d5 2.e3 Nf6 3.c4 e6 4.b3 c5 5.cxd5 exd5 6.Nc3 Nc6 7.Bb2 Be7 8.d4. After 10.dxc5 Bxc5 Black had an isolated pawn on d5. 8...h6 cost him a little (engine +0.2 for me, then +0.5; Stockfish prefers 8...Ne4). After 11.O-O he resigned, in July. The engine has me only slightly better, +0.4: nothing was lost yet.
+
+**[Your part: what you made of the early resignation]**
+
+### Key position
+
+<div class="board" data-fen="r1bq1rk1/pp3pp1/2n2n1p/2bp4/8/1PN1PN2/PB2BPPP/R2Q1RK1 b - - 1 11"></div>
+
+*After 11.O-O Black resigned. Engine +0.4 for me.*
+
+### The full game
+
+```pgn
+[Event "Electronic Knights 2026 Preliminary (26EN03)"]
+[White "Schroeer, Egbert"]
+[Black "Gladding, Lawrence"]
+[Result "1-0"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. b3 c5 5. cxd5 exd5 6. Nc3 Nc6 7. Bb2 Be7 8. d4
+h6 9. Be2 O-O 10. dxc5 Bxc5 11. O-O 1-0
+```
+
+## Game 3: Gary Branton, the clock decided
+
+Gary Branton, ICCF rating 1627. Our first game.
+
+I had Black. Old Indian Defence, Janowski Variation: 1.d4 Nf6 2.c4 d6 3.Nc3 Bf5. To be honest, the engine has White better the whole game, by half a pawn to a pawn. 2...d6 was the first small step back; Stockfish prefers 2...e6. 10...a4 and 11...Bxc4 won the pawn back, and material was level (1). White's 12.Nac3 was his biggest slip (+0.9 for White, then +0.4), but my 13...Nb4 and 14...Nc6 gave it back. After 19.g4 White was still better, and then White lost on time (2).
+
+**[Your part: what you would play instead of 2...d6, and how a win on time feels]**
+
+### Key positions
+
+<div class="board" data-fen="r2qk2r/1pp1bppp/2np1n2/8/N1b1P3/1P3P2/PB1QN1PP/R3KB1R w KQkq - 0 12" data-orientation="black"></div>
+
+*1 · 11...Bxc4: the pawn is back. Engine about +0.9 for White.*
+
+<div class="board" data-fen="r2qk2r/1p1bbppp/2pp1nn1/8/4PPP1/PPN4P/1BQ1N3/1K1R1B1R b kq - 0 19" data-orientation="black"></div>
+
+*2 · After 19.g4: White lost on time. Engine +0.8 for White.*
+
+### The full game
+
+```pgn
+[Event "Electronic Knights 2026 Preliminary (26EN03)"]
+[White "Branton, Gary"]
+[Black "Schroeer, Egbert"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. f3 e5 5. e4 exd4 6. Qxd4 Nc6 7. Qd2 Be6 8. b3
+a5 9. Bb2 Be7 10. Nge2 a4 11. Nxa4 Bxc4 12. Nac3 Be6 13. O-O-O Nb4 14. a3 Nc6
+15. Qc2 Ne5 16. h3 Bd7 17. Kb1 c6 18. f4 Ng6 19. g4 0-1
+```
+
+## What the three games have in common
+
+None of them was decided by a blunder on the board. In my three games the engine finds no move of mine that cost more than half a pawn; the worst was 2...d6 against Branton. One result came from the position, one from my opponent's decision, and one from the clock.
+
+**[Your part: your take on it]**
+
+## Tools and weapons
+
+No engines in Electronic Knights. With White I played the same system twice: 1.Nf3, e3, c4, b3 and Bb2.
+
+**[Your part: why this system with White, and what you prepared with Black]**
+
+## Rating
+
+Electronic Knights counts for US Chess, not for ICCF.
+
+**[Your part: the US Chess rating change, once the games are rated]**
+
+Also: [Irons game on ICCF](https://www.iccf.com/game?id=1639108) · [Gladding game](https://www.iccf.com/game?id=1639120) · [Branton game](https://www.iccf.com/game?id=1639121) · [crosstable](https://www.iccf.com/event?id=113425) · [our draw in the 2024 Semi-Final](https://www.iccf.com/game?id=1548745)
